@@ -1,0 +1,2024 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &540101262722469901
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9071837416149967909}
+  m_Layer: 0
+  m_Name: SpawnPoint (14)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9071837416149967909
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 540101262722469901}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.08043385, y: 0.3836354, z: -0.033563763, w: 0.9193627}
+  m_LocalPosition: {x: -10.0135, y: 5.6, z: -12.51}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1134523477313977836}
+  m_LocalEulerAnglesHint: {x: 10, y: 45.3, z: 0}
+--- !u!1 &604361492570542662
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1093948440110451830}
+  m_Layer: 0
+  m_Name: SpawnPoint (12)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1093948440110451830
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 604361492570542662}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.08638614, y: -0.13209772, z: 0.0115570575, w: 0.9873976}
+  m_LocalPosition: {x: 3.9564998, y: 5.6, z: -15.76}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1134523477313977836}
+  m_LocalEulerAnglesHint: {x: 10, y: -15.24, z: 0}
+--- !u!1 &1453793133482379887
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2044994259053072035}
+  m_Layer: 0
+  m_Name: WaveOriginPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2044994259053072035
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1453793133482379887}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 1, z: 17.576}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1134523477313977836}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1673949765368142045
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6814504099188725306}
+  m_Layer: 0
+  m_Name: SpawnPoint (9)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6814504099188725306
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1673949765368142045}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.06162845, y: -0.70441604, z: 0.06162845, w: 0.70441604}
+  m_LocalPosition: {x: 16.9165, y: 5.6, z: 7.5}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1134523477313977836}
+  m_LocalEulerAnglesHint: {x: 10, y: -90, z: 0}
+--- !u!1 &2320277788914371962
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4005830982366104215}
+  m_Layer: 0
+  m_Name: SpawnPoint (17)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4005830982366104215
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2320277788914371962}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.06162845, y: 0.70441604, z: -0.06162845, w: 0.70441604}
+  m_LocalPosition: {x: -16.5935, y: 5.6, z: 14.35}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1134523477313977836}
+  m_LocalEulerAnglesHint: {x: 10, y: 90, z: 0}
+--- !u!1 &2459713837740455136
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1134523477313977836}
+  m_Layer: 0
+  m_Name: Audience
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1134523477313977836
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2459713837740455136}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 190}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4552526916997350792}
+  - {fileID: 2044994259053072035}
+  - {fileID: 717160803594960184}
+  - {fileID: 4436692673524732749}
+  - {fileID: 3314803973984644432}
+  - {fileID: 7640769986378700077}
+  - {fileID: 4042456433124274790}
+  - {fileID: 7671120868115012259}
+  - {fileID: 4916723568631983599}
+  - {fileID: 5467802043374449339}
+  - {fileID: 8205553823347894224}
+  - {fileID: 6814504099188725306}
+  - {fileID: 4043759317052286739}
+  - {fileID: 5562590511821494099}
+  - {fileID: 1093948440110451830}
+  - {fileID: 8013640673445599696}
+  - {fileID: 9071837416149967909}
+  - {fileID: 4307669005609678642}
+  - {fileID: 254200981498972055}
+  - {fileID: 4005830982366104215}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3919640537556494019
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7640769986378700077}
+  m_Layer: 0
+  m_Name: SpawnPoint (3)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7640769986378700077
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3919640537556494019}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.06162845, y: -0.70441604, z: 0.06162845, w: 0.70441604}
+  m_LocalPosition: {x: 11.772, y: 4, z: 7.02}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1134523477313977836}
+  m_LocalEulerAnglesHint: {x: 10, y: -90, z: 0}
+--- !u!1 &4752314123729069742
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4552526916997350792}
+  - component: {fileID: 847420486308095921}
+  m_Layer: 0
+  m_Name: AudienceLightSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4552526916997350792
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4752314123729069742}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1134523477313977836}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &847420486308095921
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4752314123729069742}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3112a3a2ad9591041ba3538323c7ef02, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_penlightMesh: {fileID: -8670151273213183110, guid: e586bbc38f9da49b8a23c55fe2607bb8, type: 3}
+  m_penlightMaterial: {fileID: 2100000, guid: df8240b19644aa440949d62e654be331, type: 2}
+  m_humanMesh: {fileID: 4300000, guid: 7b683d7fff85899479a22ee76b268d0d, type: 2}
+  m_humanMaterial: {fileID: 2100000, guid: 9f4b4cd39cde87b4283af6e4a5199ae1, type: 2}
+  m_shoulderOffset: {x: -0.25, y: 0.15, z: 0.1}
+  m_audienceBlocks:
+  - SpawnPoint: {fileID: 717160803594960184}
+    TargetPoint: {fileID: 2044994259053072035}
+    AudienceInfo:
+      SpawnPoint:
+        c0:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c1:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c2:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c3:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+      shoulderOffset:
+        x: 0
+        y: 0
+        z: 0
+      SeatPerBlock:
+        x: 55
+        y: 15
+      SeatPitch:
+        x: 0.4
+        y: 0.8
+      BlockCount:
+        x: 1
+        y: 1
+      AisleWidth:
+        x: 0.7
+        y: 1.2
+      SwingFrequency: 0.5
+      SwingOffset: 0.3
+      BaseHue: 0.8333333
+      HueVariance:
+        x: -0.15
+        y: 0.15
+      SwingMode: 1
+      PositionVarianceXZ:
+        x: -0.01
+        y: 0.01
+      PositionVarianceY:
+        x: -0.01
+        y: 0.01
+      SwingAngleVariance:
+        x: 0.7
+        y: 1
+      ArmLengthVariance:
+        x: 0.9
+        y: 1.1
+      PhaseNoiseTimeScale: 0
+      AxisNoiseTimeScale: 0
+      NoiseSeedRange:
+        x: 0
+        y: 0.4
+      SwingAxisTiltFactor: 0.2
+      EnableWaveAnimation: 0
+      EnableLookAtTarget: 1
+      TargetPoint:
+        x: 0
+        y: 0
+        z: 0
+      WaveSpeed: 2.8
+      WaveFrequency: 0.53
+      WaveIntensity: 50
+  - SpawnPoint: {fileID: 4436692673524732749}
+    TargetPoint: {fileID: 2044994259053072035}
+    AudienceInfo:
+      SpawnPoint:
+        c0:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c1:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c2:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c3:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+      shoulderOffset:
+        x: 0
+        y: 0
+        z: 0
+      SeatPerBlock:
+        x: 25
+        y: 14
+      SeatPitch:
+        x: 0.4
+        y: 0.8
+      BlockCount:
+        x: 1
+        y: 1
+      AisleWidth:
+        x: 0.7
+        y: 1.2
+      SwingFrequency: 0.5
+      SwingOffset: 0.3
+      BaseHue: 0.8333333
+      HueVariance:
+        x: -0.15
+        y: 0.15
+      SwingMode: 1
+      PositionVarianceXZ:
+        x: -0.01
+        y: 0.01
+      PositionVarianceY:
+        x: -0.01
+        y: 0.01
+      SwingAngleVariance:
+        x: 0.7
+        y: 1
+      ArmLengthVariance:
+        x: 0.9
+        y: 1.1
+      PhaseNoiseTimeScale: 0
+      AxisNoiseTimeScale: 0
+      NoiseSeedRange:
+        x: 0
+        y: 0.4
+      SwingAxisTiltFactor: 0.2
+      EnableWaveAnimation: 0
+      EnableLookAtTarget: 1
+      TargetPoint:
+        x: 0
+        y: 0
+        z: 0
+      WaveSpeed: 2.8
+      WaveFrequency: 0.53
+      WaveIntensity: 50
+  - SpawnPoint: {fileID: 3314803973984644432}
+    TargetPoint: {fileID: 2044994259053072035}
+    AudienceInfo:
+      SpawnPoint:
+        c0:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c1:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c2:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c3:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+      shoulderOffset:
+        x: 0
+        y: 0
+        z: 0
+      SeatPerBlock:
+        x: 25
+        y: 14
+      SeatPitch:
+        x: 0.4
+        y: 0.8
+      BlockCount:
+        x: 1
+        y: 1
+      AisleWidth:
+        x: 0.7
+        y: 1.2
+      SwingFrequency: 0.5
+      SwingOffset: 0.3
+      BaseHue: 0.8333333
+      HueVariance:
+        x: -0.15
+        y: 0.15
+      SwingMode: 1
+      PositionVarianceXZ:
+        x: -0.01
+        y: 0.01
+      PositionVarianceY:
+        x: -0.01
+        y: 0.01
+      SwingAngleVariance:
+        x: 0.7
+        y: 1
+      ArmLengthVariance:
+        x: 0.9
+        y: 1.1
+      PhaseNoiseTimeScale: 0
+      AxisNoiseTimeScale: 0
+      NoiseSeedRange:
+        x: 0
+        y: 0.4
+      SwingAxisTiltFactor: 0.2
+      EnableWaveAnimation: 0
+      EnableLookAtTarget: 1
+      TargetPoint:
+        x: 0
+        y: 0
+        z: 0
+      WaveSpeed: 2.8
+      WaveFrequency: 0.53
+      WaveIntensity: 50
+  - SpawnPoint: {fileID: 7640769986378700077}
+    TargetPoint: {fileID: 2044994259053072035}
+    AudienceInfo:
+      SpawnPoint:
+        c0:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c1:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c2:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c3:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+      shoulderOffset:
+        x: 0
+        y: 0
+        z: 0
+      SeatPerBlock:
+        x: 40
+        y: 7
+      SeatPitch:
+        x: 0.4
+        y: 0.4
+      BlockCount:
+        x: 1
+        y: 1
+      AisleWidth:
+        x: 0.7
+        y: 1.2
+      SwingFrequency: 0.5
+      SwingOffset: 0.3
+      BaseHue: 0.8333333
+      HueVariance:
+        x: -0.15
+        y: 0.15
+      SwingMode: 1
+      PositionVarianceXZ:
+        x: -0.01
+        y: 0.01
+      PositionVarianceY:
+        x: -0.01
+        y: 0.01
+      SwingAngleVariance:
+        x: 0.7
+        y: 1
+      ArmLengthVariance:
+        x: 0.9
+        y: 1.1
+      PhaseNoiseTimeScale: 0
+      AxisNoiseTimeScale: 0
+      NoiseSeedRange:
+        x: 0
+        y: 0.4
+      SwingAxisTiltFactor: 0.2
+      EnableWaveAnimation: 0
+      EnableLookAtTarget: 1
+      TargetPoint:
+        x: 0
+        y: 0
+        z: 0
+      WaveSpeed: 2.8
+      WaveFrequency: 0.53
+      WaveIntensity: 50
+  - SpawnPoint: {fileID: 7671120868115012259}
+    TargetPoint: {fileID: 2044994259053072035}
+    AudienceInfo:
+      SpawnPoint:
+        c0:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c1:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c2:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c3:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+      shoulderOffset:
+        x: 0
+        y: 0
+        z: 0
+      SeatPerBlock:
+        x: 35
+        y: 7
+      SeatPitch:
+        x: 0.4
+        y: 0.4
+      BlockCount:
+        x: 1
+        y: 1
+      AisleWidth:
+        x: 0.7
+        y: 1.2
+      SwingFrequency: 0.5
+      SwingOffset: 0.3
+      BaseHue: 0.8333333
+      HueVariance:
+        x: -0.15
+        y: 0.15
+      SwingMode: 1
+      PositionVarianceXZ:
+        x: -0.01
+        y: 0.01
+      PositionVarianceY:
+        x: -0.01
+        y: 0.01
+      SwingAngleVariance:
+        x: 0.7
+        y: 1
+      ArmLengthVariance:
+        x: 0.9
+        y: 1.1
+      PhaseNoiseTimeScale: 0
+      AxisNoiseTimeScale: 0
+      NoiseSeedRange:
+        x: 0
+        y: 0.4
+      SwingAxisTiltFactor: 0.2
+      EnableWaveAnimation: 0
+      EnableLookAtTarget: 1
+      TargetPoint:
+        x: 0
+        y: 0
+        z: 0
+      WaveSpeed: 2.8
+      WaveFrequency: 0.53
+      WaveIntensity: 50
+  - SpawnPoint: {fileID: 4042456433124274790}
+    TargetPoint: {fileID: 2044994259053072035}
+    AudienceInfo:
+      SpawnPoint:
+        c0:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c1:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c2:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c3:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+      shoulderOffset:
+        x: 0
+        y: 0
+        z: 0
+      SeatPerBlock:
+        x: 20
+        y: 7
+      SeatPitch:
+        x: 0.4
+        y: 0.4
+      BlockCount:
+        x: 1
+        y: 1
+      AisleWidth:
+        x: 0.7
+        y: 1.2
+      SwingFrequency: 0.5
+      SwingOffset: 0.3
+      BaseHue: 0.8333333
+      HueVariance:
+        x: -0.15
+        y: 0.15
+      SwingMode: 1
+      PositionVarianceXZ:
+        x: -0.01
+        y: 0.01
+      PositionVarianceY:
+        x: -0.01
+        y: 0.01
+      SwingAngleVariance:
+        x: 0.7
+        y: 1
+      ArmLengthVariance:
+        x: 0.9
+        y: 1.1
+      PhaseNoiseTimeScale: 0
+      AxisNoiseTimeScale: 0
+      NoiseSeedRange:
+        x: 0
+        y: 0.4
+      SwingAxisTiltFactor: 0.2
+      EnableWaveAnimation: 0
+      EnableLookAtTarget: 1
+      TargetPoint:
+        x: 0
+        y: 0
+        z: 0
+      WaveSpeed: 2.8
+      WaveFrequency: 0.53
+      WaveIntensity: 50
+  - SpawnPoint: {fileID: 4916723568631983599}
+    TargetPoint: {fileID: 2044994259053072035}
+    AudienceInfo:
+      SpawnPoint:
+        c0:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c1:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c2:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c3:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+      shoulderOffset:
+        x: 0
+        y: 0
+        z: 0
+      SeatPerBlock:
+        x: 35
+        y: 7
+      SeatPitch:
+        x: 0.4
+        y: 0.4
+      BlockCount:
+        x: 1
+        y: 1
+      AisleWidth:
+        x: 0.7
+        y: 1.2
+      SwingFrequency: 0.5
+      SwingOffset: 0.3
+      BaseHue: 0.8333333
+      HueVariance:
+        x: -0.15
+        y: 0.15
+      SwingMode: 1
+      PositionVarianceXZ:
+        x: -0.01
+        y: 0.01
+      PositionVarianceY:
+        x: -0.01
+        y: 0.01
+      SwingAngleVariance:
+        x: 0.7
+        y: 1
+      ArmLengthVariance:
+        x: 0.9
+        y: 1.1
+      PhaseNoiseTimeScale: 0
+      AxisNoiseTimeScale: 0
+      NoiseSeedRange:
+        x: 0
+        y: 0.4
+      SwingAxisTiltFactor: 0.2
+      EnableWaveAnimation: 0
+      EnableLookAtTarget: 1
+      TargetPoint:
+        x: 0
+        y: 0
+        z: 0
+      WaveSpeed: 2.8
+      WaveFrequency: 0.53
+      WaveIntensity: 50
+  - SpawnPoint: {fileID: 5467802043374449339}
+    TargetPoint: {fileID: 2044994259053072035}
+    AudienceInfo:
+      SpawnPoint:
+        c0:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c1:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c2:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c3:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+      shoulderOffset:
+        x: 0
+        y: 0
+        z: 0
+      SeatPerBlock:
+        x: 40
+        y: 7
+      SeatPitch:
+        x: 0.4
+        y: 0.4
+      BlockCount:
+        x: 1
+        y: 1
+      AisleWidth:
+        x: 0.7
+        y: 1.2
+      SwingFrequency: 0.5
+      SwingOffset: 0.3
+      BaseHue: 0.8333333
+      HueVariance:
+        x: -0.15
+        y: 0.15
+      SwingMode: 1
+      PositionVarianceXZ:
+        x: -0.01
+        y: 0.01
+      PositionVarianceY:
+        x: -0.01
+        y: 0.01
+      SwingAngleVariance:
+        x: 0.7
+        y: 1
+      ArmLengthVariance:
+        x: 0.9
+        y: 1.1
+      PhaseNoiseTimeScale: 0
+      AxisNoiseTimeScale: 0
+      NoiseSeedRange:
+        x: 0
+        y: 0.4
+      SwingAxisTiltFactor: 0.2
+      EnableWaveAnimation: 0
+      EnableLookAtTarget: 1
+      TargetPoint:
+        x: 0
+        y: 0
+        z: 0
+      WaveSpeed: 2.8
+      WaveFrequency: 0.53
+      WaveIntensity: 50
+  - SpawnPoint: {fileID: 8205553823347894224}
+    TargetPoint: {fileID: 2044994259053072035}
+    AudienceInfo:
+      SpawnPoint:
+        c0:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c1:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c2:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c3:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+      shoulderOffset:
+        x: 0
+        y: 0
+        z: 0
+      SeatPerBlock:
+        x: 5
+        y: 5
+      SeatPitch:
+        x: 0.4
+        y: 0.4
+      BlockCount:
+        x: 1
+        y: 1
+      AisleWidth:
+        x: 0.7
+        y: 1.2
+      SwingFrequency: 0.5
+      SwingOffset: 0.3
+      BaseHue: 0.8333333
+      HueVariance:
+        x: -0.15
+        y: 0.15
+      SwingMode: 1
+      PositionVarianceXZ:
+        x: -0.01
+        y: 0.01
+      PositionVarianceY:
+        x: -0.01
+        y: 0.01
+      SwingAngleVariance:
+        x: 0.7
+        y: 1
+      ArmLengthVariance:
+        x: 0.9
+        y: 1.1
+      PhaseNoiseTimeScale: 0
+      AxisNoiseTimeScale: 0
+      NoiseSeedRange:
+        x: 0
+        y: 0.4
+      SwingAxisTiltFactor: 0.2
+      EnableWaveAnimation: 0
+      EnableLookAtTarget: 1
+      TargetPoint:
+        x: 0
+        y: 0
+        z: 0
+      WaveSpeed: 2.8
+      WaveFrequency: 0.53
+      WaveIntensity: 50
+  - SpawnPoint: {fileID: 6814504099188725306}
+    TargetPoint: {fileID: 2044994259053072035}
+    AudienceInfo:
+      SpawnPoint:
+        c0:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c1:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c2:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c3:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+      shoulderOffset:
+        x: 0
+        y: 0
+        z: 0
+      SeatPerBlock:
+        x: 12
+        y: 6
+      SeatPitch:
+        x: 0.4
+        y: 0.4
+      BlockCount:
+        x: 1
+        y: 1
+      AisleWidth:
+        x: 0.7
+        y: 1.2
+      SwingFrequency: 0.5
+      SwingOffset: 0.3
+      BaseHue: 0.8333333
+      HueVariance:
+        x: -0.15
+        y: 0.15
+      SwingMode: 1
+      PositionVarianceXZ:
+        x: -0.01
+        y: 0.01
+      PositionVarianceY:
+        x: -0.01
+        y: 0.01
+      SwingAngleVariance:
+        x: 0.7
+        y: 1
+      ArmLengthVariance:
+        x: 0.9
+        y: 1.1
+      PhaseNoiseTimeScale: 0
+      AxisNoiseTimeScale: 0
+      NoiseSeedRange:
+        x: 0
+        y: 0.4
+      SwingAxisTiltFactor: 0.2
+      EnableWaveAnimation: 0
+      EnableLookAtTarget: 1
+      TargetPoint:
+        x: 0
+        y: 0
+        z: 0
+      WaveSpeed: 2.8
+      WaveFrequency: 0.53
+      WaveIntensity: 50
+  - SpawnPoint: {fileID: 4043759317052286739}
+    TargetPoint: {fileID: 2044994259053072035}
+    AudienceInfo:
+      SpawnPoint:
+        c0:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c1:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c2:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c3:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+      shoulderOffset:
+        x: 0
+        y: 0
+        z: 0
+      SeatPerBlock:
+        x: 30
+        y: 5
+      SeatPitch:
+        x: 0.4
+        y: 0.4
+      BlockCount:
+        x: 1
+        y: 1
+      AisleWidth:
+        x: 0.7
+        y: 1.2
+      SwingFrequency: 0.5
+      SwingOffset: 0.3
+      BaseHue: 0.8333333
+      HueVariance:
+        x: -0.15
+        y: 0.15
+      SwingMode: 1
+      PositionVarianceXZ:
+        x: -0.01
+        y: 0.01
+      PositionVarianceY:
+        x: -0.01
+        y: 0.01
+      SwingAngleVariance:
+        x: 0.7
+        y: 1
+      ArmLengthVariance:
+        x: 0.9
+        y: 1.1
+      PhaseNoiseTimeScale: 0
+      AxisNoiseTimeScale: 0
+      NoiseSeedRange:
+        x: 0
+        y: 0.4
+      SwingAxisTiltFactor: 0.2
+      EnableWaveAnimation: 0
+      EnableLookAtTarget: 1
+      TargetPoint:
+        x: 0
+        y: 0
+        z: 0
+      WaveSpeed: 2.8
+      WaveFrequency: 0.53
+      WaveIntensity: 50
+  - SpawnPoint: {fileID: 5562590511821494099}
+    TargetPoint: {fileID: 2044994259053072035}
+    AudienceInfo:
+      SpawnPoint:
+        c0:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c1:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c2:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c3:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+      shoulderOffset:
+        x: 0
+        y: 0
+        z: 0
+      SeatPerBlock:
+        x: 5
+        y: 5
+      SeatPitch:
+        x: 0.4
+        y: 0.4
+      BlockCount:
+        x: 1
+        y: 1
+      AisleWidth:
+        x: 0.7
+        y: 1.2
+      SwingFrequency: 0.5
+      SwingOffset: 0.3
+      BaseHue: 0.8333333
+      HueVariance:
+        x: -0.15
+        y: 0.15
+      SwingMode: 1
+      PositionVarianceXZ:
+        x: -0.01
+        y: 0.01
+      PositionVarianceY:
+        x: -0.01
+        y: 0.01
+      SwingAngleVariance:
+        x: 0.7
+        y: 1
+      ArmLengthVariance:
+        x: 0.9
+        y: 1.1
+      PhaseNoiseTimeScale: 0
+      AxisNoiseTimeScale: 0
+      NoiseSeedRange:
+        x: 0
+        y: 0.4
+      SwingAxisTiltFactor: 0.2
+      EnableWaveAnimation: 0
+      EnableLookAtTarget: 1
+      TargetPoint:
+        x: 0
+        y: 0
+        z: 0
+      WaveSpeed: 2.8
+      WaveFrequency: 0.53
+      WaveIntensity: 50
+  - SpawnPoint: {fileID: 1093948440110451830}
+    TargetPoint: {fileID: 2044994259053072035}
+    AudienceInfo:
+      SpawnPoint:
+        c0:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c1:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c2:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c3:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+      shoulderOffset:
+        x: 0
+        y: 0
+        z: 0
+      SeatPerBlock:
+        x: 12
+        y: 5
+      SeatPitch:
+        x: 0.4
+        y: 0.4
+      BlockCount:
+        x: 1
+        y: 1
+      AisleWidth:
+        x: 0.7
+        y: 1.2
+      SwingFrequency: 0.5
+      SwingOffset: 0.3
+      BaseHue: 0.8333333
+      HueVariance:
+        x: -0.15
+        y: 0.15
+      SwingMode: 1
+      PositionVarianceXZ:
+        x: -0.01
+        y: 0.01
+      PositionVarianceY:
+        x: -0.01
+        y: 0.01
+      SwingAngleVariance:
+        x: 0.7
+        y: 1
+      ArmLengthVariance:
+        x: 0.9
+        y: 1.1
+      PhaseNoiseTimeScale: 0
+      AxisNoiseTimeScale: 0
+      NoiseSeedRange:
+        x: 0
+        y: 0.4
+      SwingAxisTiltFactor: 0.2
+      EnableWaveAnimation: 0
+      EnableLookAtTarget: 1
+      TargetPoint:
+        x: 0
+        y: 0
+        z: 0
+      WaveSpeed: 2.8
+      WaveFrequency: 0.53
+      WaveIntensity: 50
+  - SpawnPoint: {fileID: 8013640673445599696}
+    TargetPoint: {fileID: 2044994259053072035}
+    AudienceInfo:
+      SpawnPoint:
+        c0:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c1:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c2:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c3:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+      shoulderOffset:
+        x: 0
+        y: 0
+        z: 0
+      SeatPerBlock:
+        x: 12
+        y: 5
+      SeatPitch:
+        x: 0.4
+        y: 0.4
+      BlockCount:
+        x: 1
+        y: 1
+      AisleWidth:
+        x: 0.7
+        y: 1.2
+      SwingFrequency: 0.5
+      SwingOffset: 0.3
+      BaseHue: 0.8333333
+      HueVariance:
+        x: -0.15
+        y: 0.15
+      SwingMode: 1
+      PositionVarianceXZ:
+        x: -0.01
+        y: 0.01
+      PositionVarianceY:
+        x: -0.01
+        y: 0.01
+      SwingAngleVariance:
+        x: 0.7
+        y: 1
+      ArmLengthVariance:
+        x: 0.9
+        y: 1.1
+      PhaseNoiseTimeScale: 0
+      AxisNoiseTimeScale: 0
+      NoiseSeedRange:
+        x: 0
+        y: 0.4
+      SwingAxisTiltFactor: 0.2
+      EnableWaveAnimation: 0
+      EnableLookAtTarget: 1
+      TargetPoint:
+        x: 0
+        y: 0
+        z: 0
+      WaveSpeed: 2.8
+      WaveFrequency: 0.53
+      WaveIntensity: 50
+  - SpawnPoint: {fileID: 9071837416149967909}
+    TargetPoint: {fileID: 2044994259053072035}
+    AudienceInfo:
+      SpawnPoint:
+        c0:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c1:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c2:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c3:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+      shoulderOffset:
+        x: 0
+        y: 0
+        z: 0
+      SeatPerBlock:
+        x: 6
+        y: 5
+      SeatPitch:
+        x: 0.4
+        y: 0.4
+      BlockCount:
+        x: 1
+        y: 1
+      AisleWidth:
+        x: 0.7
+        y: 1.2
+      SwingFrequency: 0.5
+      SwingOffset: 0.3
+      BaseHue: 0.8333333
+      HueVariance:
+        x: -0.15
+        y: 0.15
+      SwingMode: 1
+      PositionVarianceXZ:
+        x: -0.01
+        y: 0.01
+      PositionVarianceY:
+        x: -0.01
+        y: 0.01
+      SwingAngleVariance:
+        x: 0.7
+        y: 1
+      ArmLengthVariance:
+        x: 0.9
+        y: 1.1
+      PhaseNoiseTimeScale: 0
+      AxisNoiseTimeScale: 0
+      NoiseSeedRange:
+        x: 0
+        y: 0.4
+      SwingAxisTiltFactor: 0.2
+      EnableWaveAnimation: 0
+      EnableLookAtTarget: 1
+      TargetPoint:
+        x: 0
+        y: 0
+        z: 0
+      WaveSpeed: 2.8
+      WaveFrequency: 0.53
+      WaveIntensity: 50
+  - SpawnPoint: {fileID: 4307669005609678642}
+    TargetPoint: {fileID: 2044994259053072035}
+    AudienceInfo:
+      SpawnPoint:
+        c0:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c1:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c2:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c3:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+      shoulderOffset:
+        x: 0
+        y: 0
+        z: 0
+      SeatPerBlock:
+        x: 30
+        y: 5
+      SeatPitch:
+        x: 0.4
+        y: 0.4
+      BlockCount:
+        x: 1
+        y: 1
+      AisleWidth:
+        x: 0.7
+        y: 1.2
+      SwingFrequency: 0.5
+      SwingOffset: 0.3
+      BaseHue: 0.8333333
+      HueVariance:
+        x: -0.15
+        y: 0.15
+      SwingMode: 1
+      PositionVarianceXZ:
+        x: -0.01
+        y: 0.01
+      PositionVarianceY:
+        x: -0.01
+        y: 0.01
+      SwingAngleVariance:
+        x: 0.7
+        y: 1
+      ArmLengthVariance:
+        x: 0.9
+        y: 1.1
+      PhaseNoiseTimeScale: 0
+      AxisNoiseTimeScale: 0
+      NoiseSeedRange:
+        x: 0
+        y: 0.4
+      SwingAxisTiltFactor: 0.2
+      EnableWaveAnimation: 0
+      EnableLookAtTarget: 1
+      TargetPoint:
+        x: 0
+        y: 0
+        z: 0
+      WaveSpeed: 2.8
+      WaveFrequency: 0.53
+      WaveIntensity: 50
+  - SpawnPoint: {fileID: 254200981498972055}
+    TargetPoint: {fileID: 2044994259053072035}
+    AudienceInfo:
+      SpawnPoint:
+        c0:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c1:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c2:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c3:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+      shoulderOffset:
+        x: 0
+        y: 0
+        z: 0
+      SeatPerBlock:
+        x: 6
+        y: 5
+      SeatPitch:
+        x: 0.8
+        y: 0.4
+      BlockCount:
+        x: 1
+        y: 1
+      AisleWidth:
+        x: 0.7
+        y: 1.2
+      SwingFrequency: 0.5
+      SwingOffset: 0.3
+      BaseHue: 0.8333333
+      HueVariance:
+        x: -0.15
+        y: 0.15
+      SwingMode: 1
+      PositionVarianceXZ:
+        x: -0.01
+        y: 0.01
+      PositionVarianceY:
+        x: -0.01
+        y: 0.01
+      SwingAngleVariance:
+        x: 0.7
+        y: 1
+      ArmLengthVariance:
+        x: 0.9
+        y: 1.1
+      PhaseNoiseTimeScale: 0
+      AxisNoiseTimeScale: 0
+      NoiseSeedRange:
+        x: 0
+        y: 0.4
+      SwingAxisTiltFactor: 0.2
+      EnableWaveAnimation: 0
+      EnableLookAtTarget: 1
+      TargetPoint:
+        x: 0
+        y: 0
+        z: 0
+      WaveSpeed: 2.8
+      WaveFrequency: 0.53
+      WaveIntensity: 50
+  - SpawnPoint: {fileID: 4005830982366104215}
+    TargetPoint: {fileID: 2044994259053072035}
+    AudienceInfo:
+      SpawnPoint:
+        c0:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c1:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c2:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+        c3:
+          x: 0
+          y: 0
+          z: 0
+          w: 0
+      shoulderOffset:
+        x: 0
+        y: 0
+        z: 0
+      SeatPerBlock:
+        x: 6
+        y: 5
+      SeatPitch:
+        x: 0.4
+        y: 0.4
+      BlockCount:
+        x: 1
+        y: 1
+      AisleWidth:
+        x: 0.7
+        y: 1.2
+      SwingFrequency: 0.5
+      SwingOffset: 0.3
+      BaseHue: 0.8333333
+      HueVariance:
+        x: -0.15
+        y: 0.15
+      SwingMode: 1
+      PositionVarianceXZ:
+        x: -0.01
+        y: 0.01
+      PositionVarianceY:
+        x: -0.01
+        y: 0.01
+      SwingAngleVariance:
+        x: 0.7
+        y: 1
+      ArmLengthVariance:
+        x: 0.9
+        y: 1.1
+      PhaseNoiseTimeScale: 0
+      AxisNoiseTimeScale: 0
+      NoiseSeedRange:
+        x: 0
+        y: 0.4
+      SwingAxisTiltFactor: 0.2
+      EnableWaveAnimation: 0
+      EnableLookAtTarget: 1
+      TargetPoint:
+        x: 0
+        y: 0
+        z: 0
+      WaveSpeed: 2.8
+      WaveFrequency: 0.53
+      WaveIntensity: 50
+--- !u!1 &5233647982482687613
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4307669005609678642}
+  m_Layer: 0
+  m_Name: SpawnPoint (15)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4307669005609678642
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5233647982482687613}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.07019626, y: 0.5904607, z: -0.05165864, w: 0.8023466}
+  m_LocalPosition: {x: -15.5635, y: 5.6, z: -3.91}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1134523477313977836}
+  m_LocalEulerAnglesHint: {x: 10, y: 72.7, z: 0}
+--- !u!1 &5656758613736941817
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5562590511821494099}
+  m_Layer: 0
+  m_Name: SpawnPoint (11)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5562590511821494099
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5656758613736941817}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0813123, y: -0.3586268, z: 0.031375796, w: 0.9294034}
+  m_LocalPosition: {x: 10.202499, y: 5.6, z: -12.439}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1134523477313977836}
+  m_LocalEulerAnglesHint: {x: 10, y: -42.2, z: 0}
+--- !u!1 &5701118206930387103
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4436692673524732749}
+  m_Layer: 0
+  m_Name: SpawnPoint (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4436692673524732749
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5701118206930387103}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -7, y: 1.6, z: 7.84}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1134523477313977836}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931550229595940676
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5467802043374449339}
+  m_Layer: 0
+  m_Name: SpawnPoint (7)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5467802043374449339
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931550229595940676}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.06162845, y: 0.70441604, z: -0.06162845, w: 0.70441604}
+  m_LocalPosition: {x: -11.467999, y: 4, z: 7.0200043}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1134523477313977836}
+  m_LocalEulerAnglesHint: {x: 10, y: 90, z: 0}
+--- !u!1 &6296425635414021312
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4043759317052286739}
+  m_Layer: 0
+  m_Name: SpawnPoint (10)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4043759317052286739
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6296425635414021312}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.07139385, y: -0.5713938, z: 0.049990498, w: 0.816035}
+  m_LocalPosition: {x: 15.6965, y: 5.6, z: -4.05}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1134523477313977836}
+  m_LocalEulerAnglesHint: {x: 10, y: -70, z: 0}
+--- !u!1 &7143140532995154299
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3314803973984644432}
+  m_Layer: 0
+  m_Name: SpawnPoint (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3314803973984644432
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7143140532995154299}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 7, y: 1.6, z: 7.8399963}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1134523477313977836}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7603458287706524586
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 717160803594960184}
+  m_Layer: 0
+  m_Name: SpawnPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &717160803594960184
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7603458287706524586}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 1.6, z: -3.69}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1134523477313977836}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7821125576610020266
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4042456433124274790}
+  m_Layer: 0
+  m_Name: SpawnPoint (5)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4042456433124274790
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7821125576610020266}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.08715578, y: 0, z: 0, w: 0.9961947}
+  m_LocalPosition: {x: 0.15200043, y: 4, z: -11.77}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1134523477313977836}
+  m_LocalEulerAnglesHint: {x: 10, y: 0, z: 0}
+--- !u!1 &8730292349933767815
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7671120868115012259}
+  m_Layer: 0
+  m_Name: SpawnPoint (4)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7671120868115012259
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8730292349933767815}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.077308126, y: -0.4599915, z: 0.04024406, w: 0.8836355}
+  m_LocalPosition: {x: 8.652, y: 4, z: -6.8}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1134523477313977836}
+  m_LocalEulerAnglesHint: {x: 10, y: -55, z: 0}
+--- !u!1 &8915642939594390512
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8205553823347894224}
+  m_Layer: 0
+  m_Name: SpawnPoint (8)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8205553823347894224
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8915642939594390512}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.06162845, y: -0.70441604, z: 0.06162845, w: 0.70441604}
+  m_LocalPosition: {x: 16.7265, y: 5.6, z: 14.2}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1134523477313977836}
+  m_LocalEulerAnglesHint: {x: 10, y: -90, z: 0}
+--- !u!1 &8975654556169236033
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 254200981498972055}
+  m_Layer: 0
+  m_Name: SpawnPoint (16)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &254200981498972055
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8975654556169236033}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.06162845, y: 0.70441604, z: -0.06162845, w: 0.70441604}
+  m_LocalPosition: {x: -16.7635, y: 5.6, z: 7.44}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1134523477313977836}
+  m_LocalEulerAnglesHint: {x: 10, y: 90, z: 0}
+--- !u!1 &9066042370500365897
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4916723568631983599}
+  m_Layer: 0
+  m_Name: SpawnPoint (6)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4916723568631983599
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9066042370500365897}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.077308126, y: 0.4599915, z: -0.04024406, w: 0.8836355}
+  m_LocalPosition: {x: -8.348, y: 4, z: -6.8}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1134523477313977836}
+  m_LocalEulerAnglesHint: {x: 10, y: 55, z: 0}
+--- !u!1 &9218685431137628567
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8013640673445599696}
+  m_Layer: 0
+  m_Name: SpawnPoint (13)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8013640673445599696
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9218685431137628567}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.08597551, y: 0.16339052, z: -0.014294825, w: 0.98270416}
+  m_LocalPosition: {x: -3.8935003, y: 5.6, z: -15.86}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1134523477313977836}
+  m_LocalEulerAnglesHint: {x: 10, y: 18.88, z: 0}

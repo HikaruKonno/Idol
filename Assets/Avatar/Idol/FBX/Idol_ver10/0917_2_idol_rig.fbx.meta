@@ -1,0 +1,3297 @@
+fileFormatVersion: 2
+guid: 95e297d4153d53d4580cd5f06a0fa0eb
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: GameSkeletonRoot_M
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonHip_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonHip_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonKnee_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonKnee_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonAnkle_L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonAnkle_R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonRootPart1_M
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonSpine1Part1_M
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonNeck_M
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonHead_M
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonScapula_L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonScapula_R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonShoulder_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonShoulder_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonElbow_L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonElbow_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonWrist_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonWrist_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonToes_L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonToes_R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonhair_joint4_L
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonhair_joint4_R
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonhair_joint40_L
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonThumbFinger1_L
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonThumbFinger2_L
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonThumbFinger3_L
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonIndexFinger1_L
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonIndexFinger2_L
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonIndexFinger3_L
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonMiddleFinger1_L
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonMiddleFinger2_L
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonMiddleFinger3_L
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonRingFinger1_L
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonRingFinger2_L
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonRingFinger3_L
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonPinkyFinger1_L
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonPinkyFinger2_L
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonPinkyFinger3_L
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonThumbFinger1_R
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonThumbFinger2_R
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonThumbFinger3_R
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonIndexFinger1_R
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonIndexFinger2_R
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonIndexFinger3_R
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonMiddleFinger1_R
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonMiddleFinger2_R
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonMiddleFinger3_R
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonRingFinger1_R
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonRingFinger2_R
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonRingFinger3_R
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonPinkyFinger1_R
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonPinkyFinger2_R
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonPinkyFinger3_R
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GameSkeletonChest_M
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: 0917_2_idol_rig(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: _arm_ribbon.022
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: 0.56701833, y: 1.5275885, z: 0.22786584}
+      rotation: {x: -0.7071069, y: 0, z: 0, w: 0.7071067}
+      scale: {x: 108.804596, y: 108.804596, z: 108.804596}
+    - name: _earing
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0.000000016632434, z: 0.2203033}
+      rotation: {x: -0.7071069, y: 0, z: 0, w: 0.7071067}
+      scale: {x: 52.19338, y: 52.19338, z: 52.19338}
+    - name: '_hair front '
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.70710695, y: 0, z: 0, w: 0.7071066}
+      scale: {x: 100, y: 100, z: 100}
+    - name: '_hair side '
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071069, y: 0, z: 0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: _hair side .001
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071069, y: 0, z: 0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: _hair_back
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 2.4409928, z: 0.20108029}
+      rotation: {x: -0.70710695, y: 0, z: 0, w: 0.7071066}
+      scale: {x: 24.507103, y: 24.507103, z: 24.507103}
+    - name: _hairheart
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071069, y: 0, z: 0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: _hairpearl
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071069, y: 0, z: 0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: _neckless.001
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071069, y: 0, z: 0, w: 0.7071067}
+      scale: {x: 100, y: 100.68423, z: 100}
+    - name: arm_ribbon.001
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonRoot_M
+      parentName: Armature
+      position: {x: -2.9939475e-17, y: 1.6068559, z: 0.26270425}
+      rotation: {x: 0, y: -5.551115e-17, z: -2.7755576e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonHip_L
+      parentName: GameSkeletonRoot_M
+      position: {x: -0.098512284, y: -0.027255096, z: -0.008149414}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonHipPart1_L
+      parentName: GameSkeletonHip_L
+      position: {x: -0.040748034, y: -0.37524566, z: -0.009643211}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonKnee_L
+      parentName: GameSkeletonHipPart1_L
+      position: {x: -0.040748034, y: -0.37524566, z: -0.009643211}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: GameSkeletonAnkle_L
+      parentName: GameSkeletonKnee_L
+      position: {x: -0.06619362, y: -0.63065904, z: -0.051285073}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonToes_L
+      parentName: GameSkeletonAnkle_L
+      position: {x: -0.012711276, y: -0.1647001, z: 0.13245994}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonToesEnd_L
+      parentName: GameSkeletonToes_L
+      position: {x: -0.0015906524, y: -0.0384922, z: 0.10759822}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonToesEnd_L_end
+      parentName: GameSkeletonToesEnd_L
+      position: {x: -0, y: 0.11428716, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonKneePartial_L
+      parentName: GameSkeletonHipPart1_L
+      position: {x: -0.04080142, y: -0.3757373, z: -0.009655838}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonKneemiddleSlider0_L
+      parentName: GameSkeletonKneePartial_L
+      position: {x: 0.0064422986, y: 0.004665985, z: -0.09080963}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonKneemiddleSlider0_L_end
+      parentName: GameSkeletonKneemiddleSlider0_L
+      position: {x: -0, y: 0.09114372, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonKneemiddleSlider2_L
+      parentName: GameSkeletonKneePartial_L
+      position: {x: -0.006335506, y: -0.003682785, z: 0.0908349}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonKneemiddleSlider2_L_end
+      parentName: GameSkeletonKneemiddleSlider2_L
+      position: {x: -0, y: 0.09114372, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonHip_R
+      parentName: GameSkeletonRoot_M
+      position: {x: 0.098512284, y: -0.027255096, z: -0.008149414}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonHipPart1_R
+      parentName: GameSkeletonHip_R
+      position: {x: 0.040748022, y: -0.37524566, z: -0.009643211}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonKnee_R
+      parentName: GameSkeletonHipPart1_R
+      position: {x: 0.04074804, y: -0.37524566, z: -0.009643211}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: GameSkeletonAnkle_R
+      parentName: GameSkeletonKnee_R
+      position: {x: 0.06619362, y: -0.630659, z: -0.051285055}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonToes_R
+      parentName: GameSkeletonAnkle_R
+      position: {x: 0.012711276, y: -0.1647001, z: 0.13245992}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonToesEnd_R
+      parentName: GameSkeletonToes_R
+      position: {x: 0.0015906524, y: -0.0384922, z: 0.10759822}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonToesEnd_R_end
+      parentName: GameSkeletonToesEnd_R
+      position: {x: -0, y: 0.11428716, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonKneePartial_R
+      parentName: GameSkeletonHipPart1_R
+      position: {x: 0.04080143, y: -0.3757373, z: -0.009655838}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonKneemiddleSlider0_R
+      parentName: GameSkeletonKneePartial_R
+      position: {x: -0.0064422796, y: 0.004665985, z: -0.09080963}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonKneemiddleSlider0_R_end
+      parentName: GameSkeletonKneemiddleSlider0_R
+      position: {x: -0, y: 0.09114372, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonKneemiddleSlider2_R
+      parentName: GameSkeletonKneePartial_R
+      position: {x: 0.0063355253, y: -0.003682785, z: 0.0908349}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonKneemiddleSlider2_R_end
+      parentName: GameSkeletonKneemiddleSlider2_R
+      position: {x: -0, y: 0.09114372, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonpolySurface13_JNT
+      parentName: GameSkeletonRoot_M
+      position: {x: -0.36074808, y: -0.15072845, z: -0.29114807}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonpolySurface13_JNT_end
+      parentName: GameSkeletonpolySurface13_JNT
+      position: {x: -0, y: 0.29792723, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonpolySurface16_JNT
+      parentName: GameSkeletonRoot_M
+      position: {x: -0.28587455, y: -0.101342924, z: 0.35300338}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint770
+      parentName: GameSkeletonpolySurface16_JNT
+      position: {x: -0.009265461, y: -0.024353027, z: 0.024627265}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint763
+      parentName: GameSkeletonjoint770
+      position: {x: -0.009766998, y: -0.07781006, z: 0.037667997}
+      rotation: {x: -7.037761e-17, y: -0.0000000018559656, z: 4.9938733e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint764
+      parentName: GameSkeletonjoint763
+      position: {x: -0.006905992, y: -0.05501999, z: 0.033375014}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint765
+      parentName: GameSkeletonjoint764
+      position: {x: -0.011331002, y: -0.09026001, z: 0.06028999}
+      rotation: {x: -3.023635e-17, y: 0.0000000018559656, z: 1.110223e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint765_end
+      parentName: GameSkeletonjoint765
+      position: {x: -0, y: 0.10913353, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonpolySurface22_JNT
+      parentName: GameSkeletonRoot_M
+      position: {x: 0.36074808, y: -0.15072845, z: -0.29114807}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonpolySurface22_JNT_end
+      parentName: GameSkeletonpolySurface22_JNT
+      position: {x: -0, y: 0.29792723, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonpolySurface27_JNT
+      parentName: GameSkeletonRoot_M
+      position: {x: 0.28587455, y: -0.101342924, z: 0.35300338}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonaajoint762
+      parentName: GameSkeletonpolySurface27_JNT
+      position: {x: 0.009265117, y: -0.024357148, z: 0.02462757}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonaajoint763
+      parentName: GameSkeletonaajoint762
+      position: {x: 0.009767494, y: -0.07781051, z: 0.037667386}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: GameSkeletonaajoint764
+      parentName: GameSkeletonaajoint763
+      position: {x: 0.00690588, y: -0.055014037, z: 0.033375166}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonaajoint765
+      parentName: GameSkeletonaajoint764
+      position: {x: 0.011331005, y: -0.0902658, z: 0.0602906}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonaajoint765_end
+      parentName: GameSkeletonaajoint765
+      position: {x: -0, y: 0.109138794, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonJointSkin1polySurface27_M
+      parentName: GameSkeletonpolySurface27_JNT
+      position: {x: -0.28587455, y: -0.17091492, z: 0.10665943}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonJointSkin1polySurface27_M_end
+      parentName: GameSkeletonJointSkin1polySurface27_M
+      position: {x: -0, y: 0.19279373, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonpSphere1_JNT
+      parentName: GameSkeletonRoot_M
+      position: {x: 0.6714269, y: -0.23132828, z: 0.10949831}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonpSphere1_JNT_end
+      parentName: GameSkeletonpSphere1_JNT
+      position: {x: -0, y: 0.29792723, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonpSphere2_JNT
+      parentName: GameSkeletonRoot_M
+      position: {x: 2.9939508e-17, y: -0.2674356, z: -0.5566063}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonpSphere2_JNT_end
+      parentName: GameSkeletonpSphere2_JNT
+      position: {x: -0, y: 0.29792723, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonpSphere3_JNT
+      parentName: GameSkeletonRoot_M
+      position: {x: -0.6714269, y: -0.23132828, z: 0.10949831}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonpSphere3_JNT_end
+      parentName: GameSkeletonpSphere3_JNT
+      position: {x: -0, y: 0.29792723, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonRootPart1_M
+      parentName: GameSkeletonRoot_M
+      position: {x: 1.3884865e-16, y: 0.10301101, z: 0.0031919861}
+      rotation: {x: -2.7755576e-17, y: -2.220446e-16, z: -5.551115e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint59_M
+      parentName: GameSkeletonRootPart1_M
+      position: {x: -2.0149277e-16, y: 0.0224942, z: 0.10769003}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint53_L
+      parentName: GameSkeletonjoint59_M
+      position: {x: -0.010820306, y: 0.012890472, z: 0.06200779}
+      rotation: {x: -1.07552856e-16, y: -1.120592e-15, z: 1.9080052e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint54_L
+      parentName: GameSkeletonjoint53_L
+      position: {x: -0.07392571, y: 0.007226562, z: -0.010450744}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint54_L_end
+      parentName: GameSkeletonjoint54_L
+      position: {x: -0, y: 0.075009614, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint53_R
+      parentName: GameSkeletonjoint59_M
+      position: {x: 0.010820306, y: 0.012890472, z: 0.06200779}
+      rotation: {x: 7.632783e-17, y: 0.0000000037433865, z: -0.000000005413462, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint54_R
+      parentName: GameSkeletonjoint53_R
+      position: {x: 0.07392571, y: 0.0072265635, z: -0.010450743}
+      rotation: {x: -2.0816685e-17, y: -3.3606096e-10, z: -2.3238478e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint54_R_end
+      parentName: GameSkeletonjoint54_R
+      position: {x: -0, y: 0.075009614, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint56_L
+      parentName: GameSkeletonjoint59_M
+      position: {x: -0.041591883, y: -0.0023789979, z: 0.045026626}
+      rotation: {x: -2.1441182e-15, y: 3.226979e-16, z: -5.5701734e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint57_L
+      parentName: GameSkeletonjoint56_L
+      position: {x: -0.057248067, y: -0.070218354, z: 0.11337036}
+      rotation: {x: 2.9020814e-10, y: 1.1142561e-16, z: 1.621103e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint57_L_end
+      parentName: GameSkeletonjoint57_L
+      position: {x: -0, y: 0.14512329, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint56_R
+      parentName: GameSkeletonjoint59_M
+      position: {x: 0.041591883, y: -0.0023789979, z: 0.045026626}
+      rotation: {x: -2.3245295e-16, y: 4.5142144e-17, z: -1.0598976e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint57_R
+      parentName: GameSkeletonjoint56_R
+      position: {x: 0.057248067, y: -0.070218354, z: 0.11337036}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint57_R_end
+      parentName: GameSkeletonjoint57_R
+      position: {x: -0, y: 0.14512329, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint61_M
+      parentName: GameSkeletonRootPart1_M
+      position: {x: 3.9801264e-17, y: 0.04720474, z: -0.085242674}
+      rotation: {x: -5.030698e-17, y: -3.9376254e-16, z: -4.4244978e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint45_M
+      parentName: GameSkeletonjoint61_M
+      position: {x: 2.6764547e-18, y: -0.012002258, z: -0.013561782}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint46_M
+      parentName: GameSkeletonjoint45_M
+      position: {x: -6.575618e-17, y: -0.01750229, z: -0.061444204}
+      rotation: {x: -9.403955e-38, y: -0, z: 5.877472e-39, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: GameSkeletonjoint47_M
+      parentName: GameSkeletonjoint46_M
+      position: {x: -1.0718122e-17, y: -0.02346054, z: -0.06703004}
+      rotation: {x: 0, y: 0, z: -5.877472e-39, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint48_M
+      parentName: GameSkeletonjoint47_M
+      position: {x: 1.10783406e-16, y: -0.08751144, z: -0.11395107}
+      rotation: {x: 0, y: 0, z: -5.877472e-39, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint49_M
+      parentName: GameSkeletonjoint48_M
+      position: {x: -1.0042568e-16, y: -0.13049422, z: -0.10250452}
+      rotation: {x: 0, y: 0, z: -5.877472e-39, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint49_M_end
+      parentName: GameSkeletonjoint49_M
+      position: {x: -0, y: 0.16593933, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint50_L
+      parentName: GameSkeletonjoint61_M
+      position: {x: -0.02251988, y: 0.0037403868, z: -0.019000797}
+      rotation: {x: -2.0816682e-17, y: -6.5229637e-17, z: -1.6672414e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint51_L
+      parentName: GameSkeletonjoint50_L
+      position: {x: -0.042406194, y: 0.0007968139, z: -0.011382618}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint51_L_end
+      parentName: GameSkeletonjoint51_L
+      position: {x: -0, y: 0.04391449, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint50_R
+      parentName: GameSkeletonjoint61_M
+      position: {x: 0.02251988, y: 0.0037403868, z: -0.019000797}
+      rotation: {x: -3.0184188e-16, y: -2.3653353e-16, z: -7.998786e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint51_R
+      parentName: GameSkeletonjoint50_R
+      position: {x: 0.04240619, y: 0.0007968139, z: -0.011382618}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint51_R_end
+      parentName: GameSkeletonjoint51_R
+      position: {x: -0, y: 0.04391449, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonSpine1_M
+      parentName: GameSkeletonRootPart1_M
+      position: {x: 2.6054805e-16, y: 0.10301101, z: 0.0031919861}
+      rotation: {x: 8.84709e-17, y: -1.7171793e-16, z: -6.367388e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonSpine1Part1_M
+      parentName: GameSkeletonSpine1_M
+      position: {x: -1.6426677e-16, y: 0.08799408, z: -0.01398653}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonChest_M
+      parentName: GameSkeletonSpine1Part1_M
+      position: {x: 5.5459227e-17, y: 0.08799408, z: -0.013986549}
+      rotation: {x: -1.112269e-25, y: -0.00000002244172, z: 1.3625563e-24, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonNeck_M
+      parentName: GameSkeletonChest_M
+      position: {x: -1.971441e-15, y: 0.15681426, z: -0.014347266}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonNeckPart1_M
+      parentName: GameSkeletonNeck_M
+      position: {x: 3.1379574e-16, y: 0.044442594, z: 0.00542469}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonHead_M
+      parentName: GameSkeletonNeckPart1_M
+      position: {x: 1.39111e-15, y: 0.044442594, z: 0.00542469}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonEye_L
+      parentName: GameSkeletonHead_M
+      position: {x: -0.0780448, y: 0.122464746, z: 0.07156758}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonEyeEnd_L
+      parentName: GameSkeletonEye_L
+      position: {x: 7.371453e-10, y: -0.0000151062, z: 0.02595585}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonEyeEnd_L_end
+      parentName: GameSkeletonEyeEnd_L
+      position: {x: -0, y: 0.02595581, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonEye_R
+      parentName: GameSkeletonHead_M
+      position: {x: 0.0780448, y: 0.122464746, z: 0.071567565}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonEyeEnd_R
+      parentName: GameSkeletonEye_R
+      position: {x: 7.371453e-10, y: -0.0000151062, z: 0.025955847}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonEyeEnd_R_end
+      parentName: GameSkeletonEyeEnd_R
+      position: {x: -0, y: 0.02595581, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint1_L
+      parentName: GameSkeletonHead_M
+      position: {x: -0.11991966, y: 0.34446424, z: -0.06751952}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint1_L_end
+      parentName: GameSkeletonhair_joint1_L
+      position: {x: -0, y: 0.29112303, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint1_R
+      parentName: GameSkeletonHead_M
+      position: {x: 0.11991966, y: 0.34446424, z: -0.06751954}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint1_R_end
+      parentName: GameSkeletonhair_joint1_R
+      position: {x: -0, y: 0.29112303, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint3_L
+      parentName: GameSkeletonHead_M
+      position: {x: -0.16734451, y: 0.2065451, z: 0.08504861}
+      rotation: {x: 1.2325952e-32, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: GameSkeletonhair_joint4_L
+      parentName: GameSkeletonhair_joint3_L
+      position: {x: 0.0062807607, y: -0.06322632, z: 0.0000000072290947}
+      rotation: {x: 3.1554436e-30, y: -0, z: -5.293956e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint5_L
+      parentName: GameSkeletonhair_joint4_L
+      position: {x: 0.015152144, y: -0.04837677, z: 0.0005879277}
+      rotation: {x: 3.1554436e-30, y: -0, z: -5.293956e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint6_L
+      parentName: GameSkeletonhair_joint5_L
+      position: {x: 0.031558853, y: -0.038445283, z: 0.0007199148}
+      rotation: {x: 3.1554436e-30, y: -0, z: -5.293956e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint6_L_end
+      parentName: GameSkeletonhair_joint6_L
+      position: {x: -0, y: 0.049744718, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint3_R
+      parentName: GameSkeletonHead_M
+      position: {x: 0.16734451, y: 0.2065451, z: 0.085048586}
+      rotation: {x: 1.2325952e-32, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: GameSkeletonhair_joint4_R
+      parentName: GameSkeletonhair_joint3_R
+      position: {x: -0.00628077, y: -0.06322632, z: -0.0000000072290947}
+      rotation: {x: 3.1554436e-30, y: -0, z: -5.293956e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint5_R
+      parentName: GameSkeletonhair_joint4_R
+      position: {x: -0.015152154, y: -0.04837677, z: 0.00058791455}
+      rotation: {x: 3.1554436e-30, y: -0, z: -5.293956e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint6_R
+      parentName: GameSkeletonhair_joint5_R
+      position: {x: -0.03155886, y: -0.038445283, z: 0.0007199045}
+      rotation: {x: 3.1554436e-30, y: -0, z: -5.293956e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint6_R_end
+      parentName: GameSkeletonhair_joint6_R
+      position: {x: -0, y: 0.049744718, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint7_L
+      parentName: GameSkeletonHead_M
+      position: {x: -0.19330505, y: 0.19607711, z: 0.03712634}
+      rotation: {x: 1.2325952e-32, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: GameSkeletonhair_joint8_L
+      parentName: GameSkeletonhair_joint7_L
+      position: {x: 0.00879308, y: -0.05568939, z: 0.000000008281531}
+      rotation: {x: 1.6088057e-16, y: 0.0000000028813538, z: -6.334537e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint9_L
+      parentName: GameSkeletonhair_joint8_L
+      position: {x: 0.020098465, y: -0.046620328, z: 0.010249334}
+      rotation: {x: -1.2875131e-16, y: 0.0000000035623007, z: -0.0000000016430397, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint10_L
+      parentName: GameSkeletonhair_joint9_L
+      position: {x: 0.029310292, y: -0.040308684, z: 0.018578172}
+      rotation: {x: -2.7104811e-17, y: 6.834693e-10, z: -0.0000000010095725, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint10_L_end
+      parentName: GameSkeletonhair_joint10_L
+      position: {x: -0, y: 0.053188782, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint7_R
+      parentName: GameSkeletonHead_M
+      position: {x: 0.19330505, y: 0.19607711, z: 0.03712632}
+      rotation: {x: 1.2325952e-32, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: GameSkeletonhair_joint8_R
+      parentName: GameSkeletonhair_joint7_R
+      position: {x: -0.008793093, y: -0.05568939, z: -0.000000008281532}
+      rotation: {x: 4.4359186e-18, y: -0.000000002045617, z: 4.4972054e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint9_R
+      parentName: GameSkeletonhair_joint8_R
+      position: {x: -0.020098478, y: -0.046620328, z: 0.01024932}
+      rotation: {x: -1.5012108e-16, y: -0.0000000020521593, z: 9.458317e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint10_R
+      parentName: GameSkeletonhair_joint9_R
+      position: {x: -0.029310271, y: -0.040308684, z: 0.018578159}
+      rotation: {x: 7.030847e-18, y: -6.5440986e-12, z: 4.9611126e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint10_R_end
+      parentName: GameSkeletonhair_joint10_R
+      position: {x: -0, y: 0.053188782, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint11_L
+      parentName: GameSkeletonHead_M
+      position: {x: -0.19660453, y: 0.18093628, z: -0.00482482}
+      rotation: {x: -1.3877788e-16, y: 0.0000000012944188, z: -4.138252e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint12_L
+      parentName: GameSkeletonhair_joint11_L
+      position: {x: 0.0036847007, y: -0.03965988, z: 0.01267926}
+      rotation: {x: 4.1579153e-17, y: 0.0000000012581403, z: -4.221382e-10, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: GameSkeletonhair_joint13_L
+      parentName: GameSkeletonhair_joint12_L
+      position: {x: 0.0095802555, y: -0.025850525, z: 0.008673561}
+      rotation: {x: -1.2487985e-16, y: 0.0000000015424924, z: -9.226027e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint14_L
+      parentName: GameSkeletonhair_joint13_L
+      position: {x: 0.011422635, y: -0.023333587, z: 0.0109921135}
+      rotation: {x: -1.5270294e-16, y: 0.0000000015787709, z: -9.142896e-10, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: GameSkeletonhair_joint14_L_end
+      parentName: GameSkeletonhair_joint14_L
+      position: {x: -0, y: 0.028209075, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint11_R
+      parentName: GameSkeletonHead_M
+      position: {x: 0.19660453, y: 0.18093628, z: -0.004824838}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint12_R
+      parentName: GameSkeletonhair_joint11_R
+      position: {x: -0.0036847193, y: -0.03965988, z: 0.012679244}
+      rotation: {x: 8.321252e-17, y: 6.7835515e-11, z: -2.2760169e-11, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: GameSkeletonhair_joint13_R
+      parentName: GameSkeletonhair_joint12_R
+      position: {x: -0.009580276, y: -0.025850525, z: 0.008673545}
+      rotation: {x: 3.4694473e-17, y: -0.0000000012892247, z: 6.073382e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint14_R
+      parentName: GameSkeletonhair_joint13_R
+      position: {x: -0.011422638, y: -0.023333587, z: 0.010992099}
+      rotation: {x: -4.164677e-17, y: -0.000000001357078, z: 6.301044e-10, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: GameSkeletonhair_joint14_R_end
+      parentName: GameSkeletonhair_joint14_R
+      position: {x: -0, y: 0.028209075, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint25_R
+      parentName: GameSkeletonHead_M
+      position: {x: 0.106520295, y: 0.3070427, z: 0.08503924}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint26_R
+      parentName: GameSkeletonhair_joint25_R
+      position: {x: 0.020810513, y: -0.04743576, z: 0.0059017884}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint27_R
+      parentName: GameSkeletonhair_joint26_R
+      position: {x: 0.0076509244, y: -0.043151245, z: 0.005775293}
+      rotation: {x: -0.000000004968273, y: -6.617445e-24, z: 9.8064816e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint28_R
+      parentName: GameSkeletonhair_joint27_R
+      position: {x: -0.00673282, y: -0.033358004, z: 0.007849712}
+      rotation: {x: -0.000000004968273, y: -4.9630837e-24, z: -2.1857399e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint28_R_end
+      parentName: GameSkeletonhair_joint28_R
+      position: {x: -0, y: 0.034924317, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint29_R
+      parentName: GameSkeletonHead_M
+      position: {x: 0.078364894, y: 0.3049005, z: 0.122971535}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint30_R
+      parentName: GameSkeletonhair_joint29_R
+      position: {x: 0.007344887, y: -0.04774185, z: 0.012148205}
+      rotation: {x: -6.952741e-16, y: 0.000000016528586, z: 7.1054274e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint31_R
+      parentName: GameSkeletonhair_joint30_R
+      position: {x: 0.00000000445599, y: -0.034276124, z: 0.004048194}
+      rotation: {x: -4.329865e-10, y: 2.4815418e-24, z: 7.156519e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint32_R
+      parentName: GameSkeletonhair_joint31_R
+      position: {x: -0.015118226, y: -0.024507446, z: -0.0018041597}
+      rotation: {x: 0.0000000016183667, y: -0.000000016528586, z: -7.1054274e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint33_R
+      parentName: GameSkeletonhair_joint32_R
+      position: {x: -0.016697384, y: -0.009964598, z: -0.0049303514}
+      rotation: {x: -4.5857507e-10, y: 7.558693e-34, z: -8.1286284e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint33_R_end
+      parentName: GameSkeletonhair_joint33_R
+      position: {x: -0, y: 0.020059967, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint34_R
+      parentName: GameSkeletonHead_M
+      position: {x: 0.026693594, y: 0.30152175, z: 0.14766502}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint35_R
+      parentName: GameSkeletonhair_joint34_R
+      position: {x: 0.0016158784, y: -0.050900117, z: 0.015589941}
+      rotation: {x: 0.000000003782754, y: 4.9630837e-24, z: 3.8856196e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint36_R
+      parentName: GameSkeletonhair_joint35_R
+      position: {x: -0.0048476276, y: -0.042551417, z: -0.0036012845}
+      rotation: {x: 0.0000000032614556, y: 4.9630837e-24, z: 1.1917214e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint37_R
+      parentName: GameSkeletonhair_joint36_R
+      position: {x: -0.020198446, y: -0.032586817, z: -0.0120723685}
+      rotation: {x: -0.0000000016076047, y: -1.6543612e-24, z: 2.4231164e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint38_R
+      parentName: GameSkeletonhair_joint37_R
+      position: {x: -0.02073707, y: -0.009695278, z: -0.008306147}
+      rotation: {x: -0.0000000010863062, y: -1.6543612e-24, z: 3.9783007e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint38_R_end
+      parentName: GameSkeletonhair_joint38_R
+      position: {x: -0, y: 0.024351958, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint39_L
+      parentName: GameSkeletonHead_M
+      position: {x: -0.030830316, y: 0.28223893, z: 0.15122291}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint40_L
+      parentName: GameSkeletonhair_joint39_L
+      position: {x: -0.00028052926, y: -0.045726318, z: 0.008954659}
+      rotation: {x: 0.0000000051569775, y: 8.271806e-24, z: 2.7753966e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint41_L
+      parentName: GameSkeletonhair_joint40_L
+      position: {x: -0.010974306, y: -0.030173792, z: -0.010240235}
+      rotation: {x: 0.000000005202915, y: 4.9630837e-24, z: -9.407234e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint42_L
+      parentName: GameSkeletonhair_joint41_L
+      position: {x: -0.013824484, y: -0.01826812, z: -0.012673731}
+      rotation: {x: 0, y: 0, z: -2.646978e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint42_L_end
+      parentName: GameSkeletonhair_joint42_L
+      position: {x: -0, y: 0.026181335, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint43_L
+      parentName: GameSkeletonHead_M
+      position: {x: -0.07788069, y: 0.27274582, z: 0.13334563}
+      rotation: {x: -0.0000000015049627, y: -1.6543612e-24, z: 1.9010818e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint44_L
+      parentName: GameSkeletonhair_joint43_L
+      position: {x: -0.0037029763, y: -0.04369522, z: 0.006805622}
+      rotation: {x: -0.0000000019857391, y: -3.3087225e-24, z: 4.1631754e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint45_L
+      parentName: GameSkeletonhair_joint44_L
+      position: {x: -0.009134037, y: -0.026414644, z: -0.01061876}
+      rotation: {x: 0.0000000020838489, y: 1.6543612e-24, z: -7.970621e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint46_L
+      parentName: GameSkeletonhair_joint45_L
+      position: {x: -0.020983594, y: -0.019255525, z: -0.014437663}
+      rotation: {x: 0.0000000025646247, y: 3.3087225e-24, z: 4.7352957e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint46_L_end
+      parentName: GameSkeletonhair_joint46_L
+      position: {x: -0, y: 0.031930085, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint47_L
+      parentName: GameSkeletonHead_M
+      position: {x: -0.11762607, y: 0.2712645, z: 0.096270986}
+      rotation: {x: 0.000000004008392, y: 6.617445e-24, z: 3.0113048e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint48_L
+      parentName: GameSkeletonhair_joint47_L
+      position: {x: -0.00617165, y: -0.036042325, z: 0.0086166235}
+      rotation: {x: -0.0000000048466875, y: -4.9630837e-24, z: 4.3019533e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint49_L
+      parentName: GameSkeletonhair_joint48_L
+      position: {x: -0.0051841866, y: -0.031351928, z: -0.0022565743}
+      rotation: {x: -0.000000010889387, y: -8.271806e-24, z: 2.674633e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint50_L
+      parentName: GameSkeletonhair_joint49_L
+      position: {x: -0.013824485, y: -0.025180366, z: -0.0036228313}
+      rotation: {x: -0.0000000020343078, y: -1.6543612e-24, z: 2.7575343e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_joint50_L_end
+      parentName: GameSkeletonhair_joint50_L
+      position: {x: -0, y: 0.028953247, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve1Joint0_L
+      parentName: GameSkeletonHead_M
+      position: {x: -0.11937858, y: 0.34827712, z: -0.09612936}
+      rotation: {x: 1.2325952e-32, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: GameSkeletonhair_polyToCurve1Joint1_L
+      parentName: GameSkeletonhair_polyToCurve1Joint0_L
+      position: {x: -0.09898273, y: -0.0750267, z: 0.017256422}
+      rotation: {x: 3.1554436e-30, y: -0, z: -5.293956e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve1Joint2_L
+      parentName: GameSkeletonhair_polyToCurve1Joint1_L
+      position: {x: -0.07697045, y: -0.09125015, z: 0.001804756}
+      rotation: {x: 3.1554436e-30, y: -0, z: -5.293956e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve1Joint3_L
+      parentName: GameSkeletonhair_polyToCurve1Joint2_L
+      position: {x: -0.09613839, y: -0.06942886, z: -0.024652608}
+      rotation: {x: 3.1554436e-30, y: -0, z: -5.293956e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve1Joint4_L
+      parentName: GameSkeletonhair_polyToCurve1Joint3_L
+      position: {x: -0.07902576, y: -0.07958908, z: -0.0456064}
+      rotation: {x: 3.1554436e-30, y: -0, z: -5.293956e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve1Joint5_L
+      parentName: GameSkeletonhair_polyToCurve1Joint4_L
+      position: {x: -0.05651073, y: -0.091440275, z: -0.05540324}
+      rotation: {x: 3.1554436e-30, y: -0, z: -5.293956e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve1Joint6_L
+      parentName: GameSkeletonhair_polyToCurve1Joint5_L
+      position: {x: 0.013798485, y: -0.12542282, z: -0.022789277}
+      rotation: {x: -0.000000001207653, y: -1.6543612e-24, z: 1.3472731e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve1Joint7_L
+      parentName: GameSkeletonhair_polyToCurve1Joint6_L
+      position: {x: 0.06498161, y: -0.10079498, z: -0.011146691}
+      rotation: {x: 0, y: 0, z: -5.293956e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve1Joint8_L
+      parentName: GameSkeletonhair_polyToCurve1Joint7_L
+      position: {x: 0.048404958, y: -0.102374725, z: -0.03780681}
+      rotation: {x: 0.0000000012076533, y: 1.6543612e-24, z: -1.4835554e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve1Joint9_L
+      parentName: GameSkeletonhair_polyToCurve1Joint8_L
+      position: {x: -0.0208157, y: -0.09996688, z: -0.06124751}
+      rotation: {x: 1.3234893e-23, y: -0, z: -5.2939556e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve1Joint10_L
+      parentName: GameSkeletonhair_polyToCurve1Joint9_L
+      position: {x: -0.08257817, y: -0.04267914, z: -0.073347524}
+      rotation: {x: 1.3234893e-23, y: -0, z: -5.2939556e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve1Joint11_L
+      parentName: GameSkeletonhair_polyToCurve1Joint10_L
+      position: {x: -0.13027467, y: -0.036676023, z: -0.010561514}
+      rotation: {x: 1.3234893e-23, y: -0, z: -5.2939556e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve1Joint12_L
+      parentName: GameSkeletonhair_polyToCurve1Joint11_L
+      position: {x: -0.12859528, y: -0.04201767, z: -0.008009991}
+      rotation: {x: 1.3234896e-23, y: -0, z: -5.2939556e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve1Joint13_L
+      parentName: GameSkeletonhair_polyToCurve1Joint12_L
+      position: {x: -0.07330659, y: -0.08655441, z: 0.009326152}
+      rotation: {x: 1.3234902e-23, y: 0, z: 2.3665827e-30, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: GameSkeletonhair_polyToCurve1Joint14_L
+      parentName: GameSkeletonhair_polyToCurve1Joint13_L
+      position: {x: 0.021702264, y: -0.0990361, z: 0.010688266}
+      rotation: {x: 1.3234906e-23, y: -0, z: -5.2939556e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve1Joint15_L
+      parentName: GameSkeletonhair_polyToCurve1Joint14_L
+      position: {x: 0.09782042, y: -0.002574463, z: -0.03564536}
+      rotation: {x: 1.3234906e-23, y: -0, z: -5.2939556e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve1Joint15_L_end
+      parentName: GameSkeletonhair_polyToCurve1Joint15_L
+      position: {x: -0, y: 0.10414428, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve1Joint0_R
+      parentName: GameSkeletonHead_M
+      position: {x: 0.11937858, y: 0.34827712, z: -0.09612936}
+      rotation: {x: 1.2325952e-32, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: GameSkeletonhair_polyToCurve1Joint1_R
+      parentName: GameSkeletonhair_polyToCurve1Joint0_R
+      position: {x: 0.09898273, y: -0.0750267, z: 0.017256422}
+      rotation: {x: -0.0000000013755741, y: -1.6543612e-24, z: 3.8147743e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve1Joint2_R
+      parentName: GameSkeletonhair_polyToCurve1Joint1_R
+      position: {x: 0.07697047, y: -0.09125015, z: 0.0018047267}
+      rotation: {x: -0.0000000020571815, y: -3.3087225e-24, z: 2.9337833e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve1Joint3_R
+      parentName: GameSkeletonhair_polyToCurve1Joint2_R
+      position: {x: 0.09613841, y: -0.06942886, z: -0.024652597}
+      rotation: {x: -0.000000004364206, y: -3.3087225e-24, z: -1.6438476e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve1Joint4_R
+      parentName: GameSkeletonhair_polyToCurve1Joint3_R
+      position: {x: 0.07902577, y: -0.07958908, z: -0.045606397}
+      rotation: {x: -3.3430947e-10, y: -3.468296e-34, z: 1.1221978e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve1Joint5_R
+      parentName: GameSkeletonhair_polyToCurve1Joint4_R
+      position: {x: 0.05651073, y: -0.091440275, z: -0.055403247}
+      rotation: {x: 0.000000005739781, y: 4.9630837e-24, z: 1.4112138e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve1Joint6_R
+      parentName: GameSkeletonhair_polyToCurve1Joint5_R
+      position: {x: -0.013798485, y: -0.12542282, z: -0.022789277}
+      rotation: {x: 0.0000000023914912, y: 3.3087223e-24, z: -4.043137e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve1Joint7_R
+      parentName: GameSkeletonhair_polyToCurve1Joint6_R
+      position: {x: -0.06498161, y: -0.10079498, z: -0.011146691}
+      rotation: {x: 5.293956e-23, y: 0, z: -4.7956492e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve1Joint8_R
+      parentName: GameSkeletonhair_polyToCurve1Joint7_R
+      position: {x: -0.048404958, y: -0.102374725, z: -0.03780681}
+      rotation: {x: 5.293956e-23, y: 0, z: -4.7956492e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve1Joint9_R
+      parentName: GameSkeletonhair_polyToCurve1Joint8_R
+      position: {x: 0.020815691, y: -0.09996688, z: -0.061247505}
+      rotation: {x: 0.0000000064268795, y: 6.617445e-24, z: 8.847086e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve1Joint10_R
+      parentName: GameSkeletonhair_polyToCurve1Joint9_R
+      position: {x: 0.08257815, y: -0.04267914, z: -0.07334753}
+      rotation: {x: 2.220446e-16, y: 0, z: -2.646978e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve1Joint11_R
+      parentName: GameSkeletonhair_polyToCurve1Joint10_R
+      position: {x: 0.13027464, y: -0.036676027, z: -0.010561535}
+      rotation: {x: -0.0000000064268795, y: -6.617445e-24, z: -1.6831935e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve1Joint12_R
+      parentName: GameSkeletonhair_polyToCurve1Joint11_R
+      position: {x: 0.12859526, y: -0.04201767, z: -0.0080100205}
+      rotation: {x: 2.6469786e-23, y: 0, z: 5.2939566e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve1Joint13_R
+      parentName: GameSkeletonhair_polyToCurve1Joint12_R
+      position: {x: 0.07330657, y: -0.08655441, z: 0.009326153}
+      rotation: {x: 2.6469786e-23, y: 0, z: 3.1554436e-30, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: GameSkeletonhair_polyToCurve1Joint14_R
+      parentName: GameSkeletonhair_polyToCurve1Joint13_R
+      position: {x: -0.021702277, y: -0.0990361, z: 0.010688268}
+      rotation: {x: 2.646979e-23, y: 0, z: 7.888609e-30, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve1Joint15_R
+      parentName: GameSkeletonhair_polyToCurve1Joint14_R
+      position: {x: -0.09782044, y: -0.002574463, z: -0.035645343}
+      rotation: {x: 2.646979e-23, y: 0, z: 7.888609e-30, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve1Joint15_R_end
+      parentName: GameSkeletonhair_polyToCurve1Joint15_R
+      position: {x: -0, y: 0.10414444, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve2Joint15_L
+      parentName: GameSkeletonHead_M
+      position: {x: -0.11554, y: 0.3478444, z: -0.09704927}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve2Joint14_L
+      parentName: GameSkeletonhair_polyToCurve2Joint15_L
+      position: {x: -0.10041719, y: 0.070649415, z: -0.05834094}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve2Joint13_L
+      parentName: GameSkeletonhair_polyToCurve2Joint14_L
+      position: {x: -0.11861476, y: -0.037591856, z: -0.060896754}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve2Joint12_L
+      parentName: GameSkeletonhair_polyToCurve2Joint13_L
+      position: {x: -0.07303177, y: -0.113961026, z: -0.011049629}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve2Joint11_L
+      parentName: GameSkeletonhair_polyToCurve2Joint12_L
+      position: {x: 0.012926484, y: -0.13590774, z: 0.026548518}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve2Joint10_L
+      parentName: GameSkeletonhair_polyToCurve2Joint11_L
+      position: {x: 0.02764332, y: -0.13427658, z: 0.028531631}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve2Joint9_L
+      parentName: GameSkeletonhair_polyToCurve2Joint10_L
+      position: {x: -0.008466563, y: -0.13697219, z: 0.028470322}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve2Joint8_L
+      parentName: GameSkeletonhair_polyToCurve2Joint9_L
+      position: {x: -0.08310726, y: -0.10080017, z: -0.017434347}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve2Joint7_L
+      parentName: GameSkeletonhair_polyToCurve2Joint8_L
+      position: {x: -0.107484475, y: -0.010803985, z: -0.08890296}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve2Joint6_L
+      parentName: GameSkeletonhair_polyToCurve2Joint7_L
+      position: {x: -0.11353012, y: -0.018422851, z: -0.07846809}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve2Joint5_L
+      parentName: GameSkeletonhair_polyToCurve2Joint6_L
+      position: {x: -0.100971684, y: -0.08884567, z: -0.03025513}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve2Joint4_L
+      parentName: GameSkeletonhair_polyToCurve2Joint5_L
+      position: {x: -0.04614571, y: -0.13108109, z: -0.008030053}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve2Joint3_L
+      parentName: GameSkeletonhair_polyToCurve2Joint4_L
+      position: {x: 0.062440332, y: -0.119522706, z: -0.018241217}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve2Joint2_L
+      parentName: GameSkeletonhair_polyToCurve2Joint3_L
+      position: {x: 0.11173522, y: -0.0795964, z: -0.028331222}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve2Joint1_L
+      parentName: GameSkeletonhair_polyToCurve2Joint2_L
+      position: {x: 0.04862258, y: -0.11122177, z: -0.04405009}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve2Joint0_L
+      parentName: GameSkeletonhair_polyToCurve2Joint1_L
+      position: {x: -0.11316399, y: -0.019024657, z: -0.0061157285}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve2Joint0_L_end
+      parentName: GameSkeletonhair_polyToCurve2Joint0_L
+      position: {x: -0, y: 0.11491486, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve2Joint15_R
+      parentName: GameSkeletonHead_M
+      position: {x: 0.11554, y: 0.3478444, z: -0.09704927}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve2Joint14_R
+      parentName: GameSkeletonhair_polyToCurve2Joint15_R
+      position: {x: 0.100417174, y: 0.070649415, z: -0.05834094}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve2Joint13_R
+      parentName: GameSkeletonhair_polyToCurve2Joint14_R
+      position: {x: 0.11861481, y: -0.037591856, z: -0.060896754}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve2Joint12_R
+      parentName: GameSkeletonhair_polyToCurve2Joint13_R
+      position: {x: 0.07303177, y: -0.113961026, z: -0.011049629}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve2Joint11_R
+      parentName: GameSkeletonhair_polyToCurve2Joint12_R
+      position: {x: -0.012926482, y: -0.13590774, z: 0.026548518}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve2Joint10_R
+      parentName: GameSkeletonhair_polyToCurve2Joint11_R
+      position: {x: -0.027643315, y: -0.13427658, z: 0.028531639}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve2Joint9_R
+      parentName: GameSkeletonhair_polyToCurve2Joint10_R
+      position: {x: 0.008466572, y: -0.13697219, z: 0.028470322}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve2Joint8_R
+      parentName: GameSkeletonhair_polyToCurve2Joint9_R
+      position: {x: 0.08310726, y: -0.10080017, z: -0.017434336}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve2Joint7_R
+      parentName: GameSkeletonhair_polyToCurve2Joint8_R
+      position: {x: 0.10748451, y: -0.010803985, z: -0.08890296}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve2Joint6_R
+      parentName: GameSkeletonhair_polyToCurve2Joint7_R
+      position: {x: 0.11353004, y: -0.018422851, z: -0.07846808}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve2Joint5_R
+      parentName: GameSkeletonhair_polyToCurve2Joint6_R
+      position: {x: 0.10097167, y: -0.08884567, z: -0.030255143}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve2Joint4_R
+      parentName: GameSkeletonhair_polyToCurve2Joint5_R
+      position: {x: 0.0461457, y: -0.13108109, z: -0.00803005}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve2Joint3_R
+      parentName: GameSkeletonhair_polyToCurve2Joint4_R
+      position: {x: -0.062440343, y: -0.119522706, z: -0.01824121}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve2Joint2_R
+      parentName: GameSkeletonhair_polyToCurve2Joint3_R
+      position: {x: -0.11173524, y: -0.0795964, z: -0.028331203}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve2Joint1_R
+      parentName: GameSkeletonhair_polyToCurve2Joint2_R
+      position: {x: -0.048622597, y: -0.11122177, z: -0.04405007}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve2Joint0_R
+      parentName: GameSkeletonhair_polyToCurve2Joint1_R
+      position: {x: 0.11316398, y: -0.019024657, z: -0.0061157546}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonhair_polyToCurve2Joint0_R_end
+      parentName: GameSkeletonhair_polyToCurve2Joint0_R
+      position: {x: -0, y: 0.11491486, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonHeadEnd_M
+      parentName: GameSkeletonHead_M
+      position: {x: -7.714131e-16, y: 0.2281137, z: 0.00013227462}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonHeadEnd_M_end
+      parentName: GameSkeletonHeadEnd_M
+      position: {x: -0, y: 0.29112303, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint15_L
+      parentName: GameSkeletonHead_M
+      position: {x: -0.16877021, y: 0.13625336, z: -0.014305489}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint16_L
+      parentName: GameSkeletonjoint15_L
+      position: {x: 0.0038212885, y: -0.022354582, z: 0.02051894}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint17_L
+      parentName: GameSkeletonjoint16_L
+      position: {x: 0.005731937, y: -0.036493376, z: 0.006202476}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint18_L
+      parentName: GameSkeletonjoint17_L
+      position: {x: 0.01156849, y: -0.038091123, z: -0.012498142}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint19_L
+      parentName: GameSkeletonjoint18_L
+      position: {x: 0.011950922, y: -0.029024353, z: -0.012878736}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint20_L
+      parentName: GameSkeletonjoint19_L
+      position: {x: 0.0048970133, y: -0.018400878, z: 0.00015801062}
+      rotation: {x: 0.0000000062218715, y: 9.926167e-24, z: 1.033606e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint21_L
+      parentName: GameSkeletonjoint20_L
+      position: {x: -0.002522706, y: -0.01676849, z: 0.008099649}
+      rotation: {x: 0.0000000022726856, y: 1.6543611e-24, z: -1.6107591e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint22_L
+      parentName: GameSkeletonjoint21_L
+      position: {x: -0.009794024, y: -0.00994247, z: 0.015201327}
+      rotation: {x: -0.0000000039860724, y: -6.617445e-24, z: -1.650617e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint23_L
+      parentName: GameSkeletonjoint22_L
+      position: {x: -0.011723153, y: 0.0008903527, z: 0.017262312}
+      rotation: {x: -0.0000000021122846, y: -3.3087225e-24, z: 1.9345491e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint24_L
+      parentName: GameSkeletonjoint23_L
+      position: {x: -0.00593579, y: 0.00741974, z: 0.010907723}
+      rotation: {x: -0.0000000020753972, y: -3.3087225e-24, z: -5.4787044e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint24_L_end
+      parentName: GameSkeletonjoint24_L
+      position: {x: -0, y: 0.014465942, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint15_R
+      parentName: GameSkeletonHead_M
+      position: {x: 0.16877021, y: 0.13625336, z: -0.014305503}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint16_R
+      parentName: GameSkeletonjoint15_R
+      position: {x: -0.0038213048, y: -0.022354582, z: 0.020518925}
+      rotation: {x: -0.000000008903961, y: -1.323489e-23, z: 3.0529524e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint17_R
+      parentName: GameSkeletonjoint16_R
+      position: {x: -0.005731953, y: -0.036493383, z: 0.0062024645}
+      rotation: {x: -0.000000009289415, y: -9.926167e-24, z: -2.2601396e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint18_R
+      parentName: GameSkeletonjoint17_R
+      position: {x: -0.011568488, y: -0.038091134, z: -0.01249815}
+      rotation: {x: -3.555094e-10, y: 1.2904107e-33, z: -8.70419e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint19_R
+      parentName: GameSkeletonjoint18_R
+      position: {x: -0.011950922, y: -0.029024359, z: -0.012878741}
+      rotation: {x: 0.0000000025268339, y: 3.3087225e-24, z: 6.091562e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint20_R
+      parentName: GameSkeletonjoint19_R
+      position: {x: -0.004897012, y: -0.018400885, z: 0.00015799394}
+      rotation: {x: 0.0000000092594705, y: 1.323489e-23, z: 1.9685959e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint21_R
+      parentName: GameSkeletonjoint20_R
+      position: {x: 0.002522708, y: -0.016768496, z: 0.008099637}
+      rotation: {x: 0.0000000054090945, y: 8.271806e-24, z: -6.080132e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint22_R
+      parentName: GameSkeletonjoint21_R
+      position: {x: 0.009794027, y: -0.009942475, z: 0.01520132}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint23_R
+      parentName: GameSkeletonjoint22_R
+      position: {x: 0.011723158, y: 0.00089034956, z: 0.017262304}
+      rotation: {x: 0.0000000013534863, y: 1.6543611e-24, z: -5.4582393e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint24_R
+      parentName: GameSkeletonjoint23_R
+      position: {x: 0.0059357956, y: 0.0074197385, z: 0.010907699}
+      rotation: {x: -3.1554436e-30, y: -0, z: 1.5777218e-30, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint24_R_end
+      parentName: GameSkeletonjoint24_R
+      position: {x: -0, y: 0.014465942, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint25_L
+      parentName: GameSkeletonHead_M
+      position: {x: -0.12517993, y: 0.044438932, z: -0.017314352}
+      rotation: {x: -0.000000002596717, y: -3.3087225e-24, z: 6.0462313e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint26_L
+      parentName: GameSkeletonjoint25_L
+      position: {x: 0.000106525775, y: -0.010652925, z: 0.000022276154}
+      rotation: {x: -0.0000000025995166, y: -3.3087225e-24, z: 3.8856196e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint27_L
+      parentName: GameSkeletonjoint26_L
+      position: {x: -0.00009374583, y: -0.018480837, z: -0.000022267906}
+      rotation: {x: 0.000000002596717, y: -1.2249909e-32, z: 1.7485902e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint28_L
+      parentName: GameSkeletonjoint27_L
+      position: {x: 3.5120798e-10, y: -0.007124635, z: -0.000000001795442}
+      rotation: {x: -6.770806e-11, y: -6.498133e-35, z: 4.770553e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint28_L_end
+      parentName: GameSkeletonjoint28_L
+      position: {x: -0, y: 0.0071246335, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonScapula_L
+      parentName: GameSkeletonChest_M
+      position: {x: -0.04994748, y: 0.10318969, z: -0.018220402}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonShoulder_L
+      parentName: GameSkeletonScapula_L
+      position: {x: -0.105684325, y: -0.009924469, z: -0.014002983}
+      rotation: {x: -5.2155673e-17, y: -2.5659376e-17, z: -0.42261836, w: 0.90630776}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonShoulderPart1_L
+      parentName: GameSkeletonShoulder_L
+      position: {x: -0.112168774, y: -0.1545331, z: -0.006476177}
+      rotation: {x: -8.8650574e-16, y: 8.901716e-16, z: -4.2555416e-38, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonElbow_L
+      parentName: GameSkeletonShoulderPart1_L
+      position: {x: -0.11216883, y: -0.15453303, z: -0.0064761685}
+      rotation: {x: -8.8650574e-16, y: 8.901716e-16, z: -4.2555416e-38, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonElbowPart1_L
+      parentName: GameSkeletonElbow_L
+      position: {x: -0.099236324, y: -0.12989146, z: 0.011976788}
+      rotation: {x: -8.8650574e-16, y: 8.901716e-16, z: -4.2555416e-38, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonWrist_L
+      parentName: GameSkeletonElbowPart1_L
+      position: {x: -0.099236436, y: -0.12989157, z: 0.011976795}
+      rotation: {x: 0.0012389545, y: 0.0015469312, z: 0.027042508, w: 0.99963236}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonCup_L
+      parentName: GameSkeletonWrist_L
+      position: {x: -0.05313472, y: -0.039714653, z: -0.017588383}
+      rotation: {x: -8.8650574e-16, y: 8.901716e-16, z: -4.2555416e-38, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonPinkyFinger1_L
+      parentName: GameSkeletonCup_L
+      position: {x: -0.029060854, y: -0.027962258, z: -0.021220278}
+      rotation: {x: -8.8650574e-16, y: 8.901716e-16, z: -4.2555416e-38, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonPinkyFinger2_L
+      parentName: GameSkeletonPinkyFinger1_L
+      position: {x: -0.025546564, y: -0.02191726, z: -0.0024656798}
+      rotation: {x: -8.8650574e-16, y: 8.901716e-16, z: -4.2555416e-38, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonPinkyFinger3_L
+      parentName: GameSkeletonPinkyFinger2_L
+      position: {x: -0.0147179365, y: -0.012582849, z: -0.0014214249}
+      rotation: {x: -8.8650595e-16, y: 8.901716e-16, z: -2.6469778e-23, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: GameSkeletonPinkyFinger4_L
+      parentName: GameSkeletonPinkyFinger3_L
+      position: {x: -0.020639338, y: -0.017333025, z: -0.0020157534}
+      rotation: {x: 1.6725675e-18, y: 1.9932877e-18, z: 2.646978e-23, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: GameSkeletonPinkyFinger4_L_end
+      parentName: GameSkeletonPinkyFinger4_L
+      position: {x: -0, y: 0.02702713, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonRingFinger1_L
+      parentName: GameSkeletonCup_L
+      position: {x: -0.033526376, y: -0.030852348, z: -0.0014680998}
+      rotation: {x: -8.8650574e-16, y: 8.901716e-16, z: -4.2555416e-38, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonRingFinger2_L
+      parentName: GameSkeletonRingFinger1_L
+      position: {x: -0.032926098, y: -0.028982155, z: -0.0030171701}
+      rotation: {x: -8.8650574e-16, y: 8.901716e-16, z: -4.2555416e-38, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonRingFinger3_L
+      parentName: GameSkeletonRingFinger2_L
+      position: {x: -0.01769996, y: -0.01676162, z: -0.0017073546}
+      rotation: {x: -8.8650595e-16, y: 8.901716e-16, z: -2.6469778e-23, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: GameSkeletonRingFinger4_L
+      parentName: GameSkeletonRingFinger3_L
+      position: {x: -0.022901453, y: -0.01836757, z: -0.0019653984}
+      rotation: {x: 1.6725675e-18, y: 1.9932877e-18, z: 2.646978e-23, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: GameSkeletonRingFinger4_L_end
+      parentName: GameSkeletonRingFinger4_L
+      position: {x: -0, y: 0.029422913, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonIndexFinger1_L
+      parentName: GameSkeletonWrist_L
+      position: {x: -0.08760501, y: -0.07432967, z: 0.025452008}
+      rotation: {x: -8.8650574e-16, y: 8.901716e-16, z: -4.2555416e-38, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonIndexFinger2_L
+      parentName: GameSkeletonIndexFinger1_L
+      position: {x: -0.033849478, y: -0.0295539, z: -0.001568901}
+      rotation: {x: -8.8650574e-16, y: 8.901716e-16, z: -4.2555416e-38, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonIndexFinger3_L
+      parentName: GameSkeletonIndexFinger2_L
+      position: {x: -0.018718865, y: -0.016564552, z: -0.0008664806}
+      rotation: {x: -8.8650574e-16, y: 8.901716e-16, z: -4.2555416e-38, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonIndexFinger4_L
+      parentName: GameSkeletonIndexFinger3_L
+      position: {x: -0.021487953, y: -0.018193733, z: -0.0010401052}
+      rotation: {x: -8.8650574e-16, y: 8.901716e-16, z: -4.2555416e-38, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonIndexFinger4_L_end
+      parentName: GameSkeletonIndexFinger4_L
+      position: {x: -0, y: 0.028174743, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonMiddleFinger1_L
+      parentName: GameSkeletonWrist_L
+      position: {x: -0.08896228, y: -0.07500868, z: 0.0035060367}
+      rotation: {x: -8.8650574e-16, y: 8.901716e-16, z: -4.2555416e-38, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonMiddleFinger2_L
+      parentName: GameSkeletonMiddleFinger1_L
+      position: {x: -0.03498046, y: -0.031521063, z: -0.0023220554}
+      rotation: {x: -8.8650595e-16, y: 8.901716e-16, z: -2.6469778e-23, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: GameSkeletonMiddleFinger3_L
+      parentName: GameSkeletonMiddleFinger2_L
+      position: {x: -0.021288292, y: -0.018589737, z: -0.0013766388}
+      rotation: {x: 1.6725675e-18, y: 1.9932877e-18, z: 5.293956e-23, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonMiddleFinger4_L
+      parentName: GameSkeletonMiddleFinger3_L
+      position: {x: -0.025116874, y: -0.01944896, z: -0.0014698114}
+      rotation: {x: 1.6725675e-18, y: 1.9932877e-18, z: 5.293956e-23, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonMiddleFinger4_L_end
+      parentName: GameSkeletonMiddleFinger4_L
+      position: {x: -0, y: 0.031800386, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonThumbFinger1_L
+      parentName: GameSkeletonWrist_L
+      position: {x: -0.01922187, y: -0.025626974, z: 0.02477421}
+      rotation: {x: -0.029969526, y: 0.025686577, z: -0.0061996104, w: 0.99920154}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonThumbFinger2_L
+      parentName: GameSkeletonThumbFinger1_L
+      position: {x: -0.03639468, y: -0.034558173, z: 0.03275294}
+      rotation: {x: -0.03152412, y: 0.01744634, z: -0.016621498, w: 0.9992125}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonThumbFinger3_L
+      parentName: GameSkeletonThumbFinger2_L
+      position: {x: -0.014493133, y: -0.016397467, z: 0.010276417}
+      rotation: {x: -8.8650595e-16, y: 8.901716e-16, z: -2.6469778e-23, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: GameSkeletonThumbFinger4_L
+      parentName: GameSkeletonThumbFinger3_L
+      position: {x: -0.015609886, y: -0.016080808, z: 0.012432466}
+      rotation: {x: 1.6725675e-18, y: 1.9932877e-18, z: 5.293956e-23, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonThumbFinger4_L_end
+      parentName: GameSkeletonThumbFinger4_L
+      position: {x: -0, y: 0.025628662, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonElbowPartial_L
+      parentName: GameSkeletonShoulderPart1_L
+      position: {x: -0.11245909, y: -0.15493318, z: -0.006492934}
+      rotation: {x: -8.8650574e-16, y: 8.901716e-16, z: -4.2555416e-38, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonElbowmiddleSlider0_L
+      parentName: GameSkeletonElbowPartial_L
+      position: {x: 0.011741451, y: -0.009757838, z: -0.066604115}
+      rotation: {x: -8.8650574e-16, y: 8.901716e-16, z: -4.2555416e-38, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonElbowmiddleSlider0_L_end
+      parentName: GameSkeletonElbowmiddleSlider0_L
+      position: {x: -0, y: 0.06835861, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonElbowmiddleSlider2_L
+      parentName: GameSkeletonElbowPartial_L
+      position: {x: -0.01116069, y: 0.010558061, z: 0.06663761}
+      rotation: {x: -8.8650574e-16, y: 8.901716e-16, z: -4.2555416e-38, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonElbowmiddleSlider2_L_end
+      parentName: GameSkeletonElbowmiddleSlider2_L
+      position: {x: -0, y: 0.06835846, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint39_L
+      parentName: GameSkeletonShoulderPart1_L
+      position: {x: -0.08934947, y: -0.09745745, z: -0.025442407}
+      rotation: {x: -8.8650595e-16, y: 8.901716e-16, z: -2.6469778e-23, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: GameSkeletonjoint40_L
+      parentName: GameSkeletonjoint39_L
+      position: {x: 0.0010769318, y: -0.048473887, z: -0.014207664}
+      rotation: {x: -1.6653345e-16, y: 0.0000000016051974, z: -2.7595486e-17, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonjoint41_L
+      parentName: GameSkeletonjoint40_L
+      position: {x: -0.004308887, y: -0.057629924, z: -0.000000019041375}
+      rotation: {x: -8.6042274e-16, y: -5.551118e-17, z: 3.970467e-23, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonjoint42_L
+      parentName: GameSkeletonjoint41_L
+      position: {x: -0.021544069, y: -0.078635365, z: -0.000000015785286}
+      rotation: {x: -6.582074e-16, y: -0.0000000016051974, z: 2.7595579e-17, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonjoint43_L
+      parentName: GameSkeletonjoint42_L
+      position: {x: -0.024861712, y: -0.06999625, z: -0.0000000064930985}
+      rotation: {x: 3.568188e-17, y: 4.2524012e-17, z: 2.646978e-23, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: GameSkeletonjoint44_L
+      parentName: GameSkeletonjoint43_L
+      position: {x: -0.016589006, y: -0.04739673, z: 0.000000014688617}
+      rotation: {x: 3.2113687e-16, y: 3.8271617e-16, z: 0.000000014901161, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint44_L_end
+      parentName: GameSkeletonjoint44_L
+      position: {x: -0, y: 0.050216064, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonScapula_R
+      parentName: GameSkeletonChest_M
+      position: {x: 0.04994748, y: 0.10318969, z: -0.018220408}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonShoulder_R
+      parentName: GameSkeletonScapula_R
+      position: {x: 0.105684325, y: -0.009924469, z: -0.014002997}
+      rotation: {x: -2.153078e-17, y: 2.565938e-17, z: 0.42261836, w: 0.90630776}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonShoulderPart1_R
+      parentName: GameSkeletonShoulder_R
+      position: {x: 0.1121688, y: -0.15453312, z: -0.0064761695}
+      rotation: {x: 9.076918e-16, y: 8.64923e-16, z: 4.358094e-39, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonElbow_R
+      parentName: GameSkeletonShoulderPart1_R
+      position: {x: 0.112168856, y: -0.15453304, z: -0.006476178}
+      rotation: {x: 9.076918e-16, y: 8.64923e-16, z: 4.358094e-39, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonElbowPart1_R
+      parentName: GameSkeletonElbow_R
+      position: {x: 0.09923635, y: -0.12989148, z: 0.011976783}
+      rotation: {x: 9.076918e-16, y: 8.64923e-16, z: 4.358094e-39, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonWrist_R
+      parentName: GameSkeletonElbowPart1_R
+      position: {x: 0.09923646, y: -0.12989159, z: 0.011976795}
+      rotation: {x: 0.0012389435, y: -0.0015469176, z: -0.02704233, w: 0.99963236}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonCup_R
+      parentName: GameSkeletonWrist_R
+      position: {x: 0.053134732, y: -0.039714668, z: -0.017588371}
+      rotation: {x: 9.076918e-16, y: 8.64923e-16, z: 4.358094e-39, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonPinkyFinger1_R
+      parentName: GameSkeletonCup_R
+      position: {x: 0.029060863, y: -0.027962271, z: -0.021220287}
+      rotation: {x: 9.076918e-16, y: 8.64923e-16, z: 4.358094e-39, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonPinkyFinger2_R
+      parentName: GameSkeletonPinkyFinger1_R
+      position: {x: 0.025546573, y: -0.021917274, z: -0.0024657126}
+      rotation: {x: 9.076918e-16, y: 8.64923e-16, z: 4.358094e-39, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonPinkyFinger3_R
+      parentName: GameSkeletonPinkyFinger2_R
+      position: {x: 0.014717946, y: -0.012582861, z: -0.001421421}
+      rotation: {x: 9.07692e-16, y: 8.64923e-16, z: 2.646978e-23, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: GameSkeletonPinkyFinger4_R
+      parentName: GameSkeletonPinkyFinger3_R
+      position: {x: 0.020639347, y: -0.017333036, z: -0.002015752}
+      rotation: {x: 1.9513508e-17, y: -2.3255293e-17, z: -2.646978e-23, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: GameSkeletonPinkyFinger4_R_end
+      parentName: GameSkeletonPinkyFinger4_R
+      position: {x: -0, y: 0.02702713, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonRingFinger1_R
+      parentName: GameSkeletonCup_R
+      position: {x: 0.033526387, y: -0.030852363, z: -0.0014681108}
+      rotation: {x: 9.076918e-16, y: 8.64923e-16, z: 4.358094e-39, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonRingFinger2_R
+      parentName: GameSkeletonRingFinger1_R
+      position: {x: 0.032926105, y: -0.028982168, z: -0.003017166}
+      rotation: {x: 9.076918e-16, y: 8.64923e-16, z: 4.358094e-39, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonRingFinger3_R
+      parentName: GameSkeletonRingFinger2_R
+      position: {x: 0.017699972, y: -0.016761634, z: -0.0017073525}
+      rotation: {x: 9.07692e-16, y: 8.64923e-16, z: 2.646978e-23, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: GameSkeletonRingFinger4_R
+      parentName: GameSkeletonRingFinger3_R
+      position: {x: 0.022901462, y: -0.018367583, z: -0.0019654182}
+      rotation: {x: 1.9513508e-17, y: -2.3255293e-17, z: -2.646978e-23, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: GameSkeletonRingFinger4_R_end
+      parentName: GameSkeletonRingFinger4_R
+      position: {x: -0, y: 0.029422913, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonIndexFinger1_R
+      parentName: GameSkeletonWrist_R
+      position: {x: 0.08760503, y: -0.07432969, z: 0.025452018}
+      rotation: {x: 9.076918e-16, y: 8.64923e-16, z: 4.358094e-39, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonIndexFinger2_R
+      parentName: GameSkeletonIndexFinger1_R
+      position: {x: 0.033849493, y: -0.029553918, z: -0.0015689163}
+      rotation: {x: 9.076918e-16, y: 8.64923e-16, z: 4.358094e-39, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonIndexFinger3_R
+      parentName: GameSkeletonIndexFinger2_R
+      position: {x: 0.01871888, y: -0.016564569, z: -0.0008664791}
+      rotation: {x: 9.076918e-16, y: 8.64923e-16, z: 4.358094e-39, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonIndexFinger4_R
+      parentName: GameSkeletonIndexFinger3_R
+      position: {x: 0.021487968, y: -0.01819375, z: -0.0010401063}
+      rotation: {x: 9.076918e-16, y: 8.64923e-16, z: 4.358094e-39, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonIndexFinger4_R_end
+      parentName: GameSkeletonIndexFinger4_R
+      position: {x: -0, y: 0.028174743, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonMiddleFinger1_R
+      parentName: GameSkeletonWrist_R
+      position: {x: 0.088962294, y: -0.075008705, z: 0.0035060444}
+      rotation: {x: 9.076918e-16, y: 8.64923e-16, z: 4.358094e-39, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonMiddleFinger2_R
+      parentName: GameSkeletonMiddleFinger1_R
+      position: {x: 0.034980476, y: -0.03152108, z: -0.0023220712}
+      rotation: {x: 9.07692e-16, y: 8.64923e-16, z: 2.646978e-23, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: GameSkeletonMiddleFinger3_R
+      parentName: GameSkeletonMiddleFinger2_R
+      position: {x: 0.021288306, y: -0.018589752, z: -0.001376657}
+      rotation: {x: 1.9513508e-17, y: -2.3255293e-17, z: -5.293956e-23, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonMiddleFinger4_R
+      parentName: GameSkeletonMiddleFinger3_R
+      position: {x: 0.025116889, y: -0.019448973, z: -0.0014698324}
+      rotation: {x: 1.9513508e-17, y: -2.3255293e-17, z: -5.293956e-23, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonMiddleFinger4_R_end
+      parentName: GameSkeletonMiddleFinger4_R
+      position: {x: -0, y: 0.031800386, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonThumbFinger1_R
+      parentName: GameSkeletonWrist_R
+      position: {x: 0.019221885, y: -0.025626993, z: 0.024774224}
+      rotation: {x: -0.029969785, y: -0.02568662, z: 0.0061997883, w: 0.9992015}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonThumbFinger2_R
+      parentName: GameSkeletonThumbFinger1_R
+      position: {x: 0.036394697, y: -0.034558192, z: 0.032752927}
+      rotation: {x: -0.031524394, y: -0.017446483, z: 0.01662159, w: 0.99921256}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonThumbFinger3_R
+      parentName: GameSkeletonThumbFinger2_R
+      position: {x: 0.014493149, y: -0.016397486, z: 0.010276408}
+      rotation: {x: 9.07692e-16, y: 8.64923e-16, z: 2.646978e-23, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: GameSkeletonThumbFinger4_R
+      parentName: GameSkeletonThumbFinger3_R
+      position: {x: 0.015609901, y: -0.016080828, z: 0.0124324355}
+      rotation: {x: 1.9513508e-17, y: -2.3255293e-17, z: -5.293956e-23, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonThumbFinger4_R_end
+      parentName: GameSkeletonThumbFinger4_R
+      position: {x: -0, y: 0.025628662, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonElbowPartial_R
+      parentName: GameSkeletonShoulderPart1_R
+      position: {x: 0.112459116, y: -0.15493321, z: -0.0064929435}
+      rotation: {x: 9.076918e-16, y: 8.64923e-16, z: 4.358094e-39, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonElbowmiddleSlider0_R
+      parentName: GameSkeletonElbowPartial_R
+      position: {x: -0.011741444, y: -0.009757847, z: -0.0666041}
+      rotation: {x: 9.076918e-16, y: 8.64923e-16, z: 4.358094e-39, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonElbowmiddleSlider0_R_end
+      parentName: GameSkeletonElbowmiddleSlider0_R
+      position: {x: -0, y: 0.06835861, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonElbowmiddleSlider2_R
+      parentName: GameSkeletonElbowPartial_R
+      position: {x: 0.011160705, y: 0.010558043, z: 0.06663763}
+      rotation: {x: 9.076918e-16, y: 8.64923e-16, z: 4.358094e-39, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonElbowmiddleSlider2_R_end
+      parentName: GameSkeletonElbowmiddleSlider2_R
+      position: {x: -0, y: 0.06835861, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint39_R
+      parentName: GameSkeletonShoulderPart1_R
+      position: {x: 0.089349486, y: -0.097457476, z: -0.025442412}
+      rotation: {x: 9.07692e-16, y: 8.64923e-16, z: 2.646978e-23, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: GameSkeletonjoint40_R
+      parentName: GameSkeletonjoint39_R
+      position: {x: -0.0010769225, y: -0.048473895, z: -0.014207653}
+      rotation: {x: -0.000000010294162, y: -2.220446e-16, z: 1.4849586e-16, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonjoint41_R
+      parentName: GameSkeletonjoint40_R
+      position: {x: 0.0043087434, y: -0.05763009, z: -0.000000007477054}
+      rotation: {x: -0.00000001029416, y: -2.1175824e-22, z: 1.4849591e-16, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonjoint42_R
+      parentName: GameSkeletonjoint41_R
+      position: {x: 0.021543927, y: -0.07863538, z: -0.0000000153861}
+      rotation: {x: 1.3322675e-15, y: -4.4408926e-16, z: -5.293956e-23, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GameSkeletonjoint43_R
+      parentName: GameSkeletonjoint42_R
+      position: {x: 0.024861721, y: -0.06999635, z: -0.000000021392252}
+      rotation: {x: 8.881784e-16, y: -4.4408926e-16, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: GameSkeletonjoint44_R
+      parentName: GameSkeletonjoint43_R
+      position: {x: 0.016588826, y: -0.047396787, z: 0.000000012694873}
+      rotation: {x: -8.881784e-16, y: 4.440892e-16, z: -0.000000014901161, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonjoint44_R_end
+      parentName: GameSkeletonjoint44_R
+      position: {x: -0, y: 0.050216064, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ribbon
+      parentName: GameSkeletonChest_M
+      position: {x: -6.54445e-16, y: -0.025367737, z: 0.1348431}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ribbon_joint01.L
+      parentName: Ribbon
+      position: {x: -0.041378252, y: -0.010660095, z: 0.020356104}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ribbon_joint02.L
+      parentName: Ribbon_joint01.L
+      position: {x: -0.02882912, y: -0.053607177, z: 0.012341884}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ribbon_joint03.L
+      parentName: Ribbon_joint02.L
+      position: {x: -0.022045787, y: -0.06109695, z: 0.0042395825}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ribbon_joint04.L
+      parentName: Ribbon_joint03.L
+      position: {x: -0.014584139, y: -0.051949613, z: 0.026850667}
+      rotation: {x: 1.2325952e-32, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Ribbon_joint04.L_end
+      parentName: Ribbon_joint04.L
+      position: {x: -0, y: 0.030827636, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ribbon_joint01.L.001
+      parentName: Ribbon
+      position: {x: -0.062293496, y: 0.04473709, z: 0.0005714063}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ribbon_joint01.L.001_end
+      parentName: Ribbon_joint01.L.001
+      position: {x: -0, y: 0.047106322, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ribbon_joint01.R
+      parentName: Ribbon
+      position: {x: 0.041378252, y: -0.010660095, z: 0.0203561}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ribbon_joint02.R
+      parentName: Ribbon_joint01.R
+      position: {x: 0.02882912, y: -0.053607177, z: 0.0123418765}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ribbon_joint03.R
+      parentName: Ribbon_joint02.R
+      position: {x: 0.022045799, y: -0.06109695, z: 0.004239574}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ribbon_joint04.R
+      parentName: Ribbon_joint03.R
+      position: {x: 0.014584142, y: -0.051949613, z: 0.026850658}
+      rotation: {x: 1.2325952e-32, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Ribbon_joint04.R_end
+      parentName: Ribbon_joint04.R
+      position: {x: -0, y: 0.030827636, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ribbon_joint01.R.001
+      parentName: Ribbon
+      position: {x: 0.062293496, y: 0.04473709, z: 0.0005714007}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ribbon_joint01.R.001_end
+      parentName: Ribbon_joint01.R.001
+      position: {x: -0, y: 0.047106322, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonwaiq_joint63_L
+      parentName: GameSkeletonRootPart1_M
+      position: {x: -0.15534155, y: 0.018503265, z: 0.07316671}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonwaiq_joint64_L
+      parentName: GameSkeletonwaiq_joint63_L
+      position: {x: -0.11827909, y: -0.036581114, z: 0.0132934945}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonwaiq_joint65_L
+      parentName: GameSkeletonwaiq_joint64_L
+      position: {x: -0.15358546, y: -0.081877284, z: 0.01835224}
+      rotation: {x: -2.3509887e-38, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: GameSkeletonwaiq_joint66_L
+      parentName: GameSkeletonwaiq_joint65_L
+      position: {x: -0.1601004, y: -0.15996353, z: 0.02149784}
+      rotation: {x: 0, y: 0, z: -2.646978e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonwaiq_joint66_L_end
+      parentName: GameSkeletonwaiq_joint66_L
+      position: {x: -0, y: 0.2273381, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonwaiq_joint63_R
+      parentName: GameSkeletonRootPart1_M
+      position: {x: 0.15534155, y: 0.018503265, z: 0.07316671}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonwaiq_joint64_R
+      parentName: GameSkeletonwaiq_joint63_R
+      position: {x: 0.11827909, y: -0.036581114, z: 0.0132934945}
+      rotation: {x: -1.2836954e-16, y: 1.0759219e-16, z: 3.1034387e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonwaiq_joint65_R
+      parentName: GameSkeletonwaiq_joint64_R
+      position: {x: 0.15358546, y: -0.081877284, z: 0.01835224}
+      rotation: {x: -1.1754944e-38, y: -0, z: 2.938736e-39, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: GameSkeletonwaiq_joint66_R
+      parentName: GameSkeletonwaiq_joint65_R
+      position: {x: 0.1601004, y: -0.15996353, z: 0.02149784}
+      rotation: {x: 6.617445e-24, y: -0, z: -2.646978e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonwaiq_joint66_R_end
+      parentName: GameSkeletonwaiq_joint66_R
+      position: {x: -0, y: 0.2273381, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonwaiq_joint68_L
+      parentName: GameSkeletonRootPart1_M
+      position: {x: -0.038678728, y: 0.011863861, z: 0.13918607}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonwaiq_joint69_L
+      parentName: GameSkeletonwaiq_joint68_L
+      position: {x: -0.02834332, y: -0.048054047, z: 0.05291294}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonwaiq_joint70_L
+      parentName: GameSkeletonwaiq_joint69_L
+      position: {x: -0.030469064, y: -0.054795682, z: 0.054716796}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonwaiq_joint71_L
+      parentName: GameSkeletonwaiq_joint70_L
+      position: {x: -0.027765235, y: -0.06402603, z: 0.05591938}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonwaiq_joint71_L_end
+      parentName: GameSkeletonwaiq_joint71_L
+      position: {x: -0, y: 0.08942718, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonwaiq_joint68_R
+      parentName: GameSkeletonRootPart1_M
+      position: {x: 0.038678728, y: 0.011863861, z: 0.13918607}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonwaiq_joint69_R
+      parentName: GameSkeletonwaiq_joint68_R
+      position: {x: 0.02834332, y: -0.048054047, z: 0.05291294}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonwaiq_joint70_R
+      parentName: GameSkeletonwaiq_joint69_R
+      position: {x: 0.030469064, y: -0.054795682, z: 0.054716796}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonwaiq_joint71_R
+      parentName: GameSkeletonwaiq_joint70_R
+      position: {x: 0.027765235, y: -0.06402603, z: 0.05591938}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonwaiq_joint71_R_end
+      parentName: GameSkeletonwaiq_joint71_R
+      position: {x: -0, y: 0.08942718, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonwaiq_joint73_M
+      parentName: GameSkeletonRootPart1_M
+      position: {x: -6.7974904e-17, y: 0.001204834, z: -0.11516227}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonwaiq_joint75_M
+      parentName: GameSkeletonwaiq_joint73_M
+      position: {x: 9.197533e-17, y: -0.13258147, z: -0.17156902}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonwaiq_joint76_M
+      parentName: GameSkeletonwaiq_joint75_M
+      position: {x: 3.800562e-17, y: -0.32922453, z: -0.24211729}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonwaiq_joint761_M
+      parentName: GameSkeletonwaiq_joint76_M
+      position: {x: -1.2934332e-16, y: -0.38589796, z: -0.08808483}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonwaiq_joint761_M_end
+      parentName: GameSkeletonwaiq_joint761_M
+      position: {x: -0, y: 0.3958235, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonwaiq_joint762_L
+      parentName: GameSkeletonRootPart1_M
+      position: {x: -0.117614694, y: -0.005491638, z: -0.09843744}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonwaiq_joint763_L
+      parentName: GameSkeletonwaiq_joint762_L
+      position: {x: -0.099336386, y: -0.09255798, z: -0.08943812}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonwaiq_joint764_L
+      parentName: GameSkeletonwaiq_joint763_L
+      position: {x: -0.15370221, y: -0.25364166, z: -0.15618676}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonwaiq_joint765_L
+      parentName: GameSkeletonwaiq_joint764_L
+      position: {x: -0.14409332, y: -0.35762954, z: -0.054607276}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonwaiq_joint765_L_end
+      parentName: GameSkeletonwaiq_joint765_L
+      position: {x: -0, y: 0.38941458, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonwaiq_joint762_R
+      parentName: GameSkeletonRootPart1_M
+      position: {x: 0.117614694, y: -0.005491638, z: -0.09843744}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonwaiq_joint763_R
+      parentName: GameSkeletonwaiq_joint762_R
+      position: {x: 0.099336386, y: -0.09255798, z: -0.08943811}
+      rotation: {x: -3.5041414e-16, y: 1.5616445e-16, z: -1.0774344e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonwaiq_joint764_R
+      parentName: GameSkeletonwaiq_joint763_R
+      position: {x: 0.15370221, y: -0.25364166, z: -0.15618674}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonwaiq_joint765_R
+      parentName: GameSkeletonwaiq_joint764_R
+      position: {x: 0.14409332, y: -0.35762945, z: -0.054607276}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonwaiq_joint765_R_end
+      parentName: GameSkeletonwaiq_joint765_R
+      position: {x: -0, y: 0.38941458, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint59_L
+      parentName: GameSkeletonRootPart1_M
+      position: {x: -0.021566324, y: 0.028800659, z: 0.12743115}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint60_L
+      parentName: GameSkeletonxq_joint59_L
+      position: {x: -0.01373393, y: -0.065302126, z: 0.091528855}
+      rotation: {x: -2.3509887e-38, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: GameSkeletonxq_joint61_L
+      parentName: GameSkeletonxq_joint60_L
+      position: {x: -0.01740437, y: -0.08430786, z: 0.12062641}
+      rotation: {x: 0, y: 0, z: -2.646978e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint61_L_end
+      parentName: GameSkeletonxq_joint61_L
+      position: {x: -0, y: 0.14819397, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint59_R
+      parentName: GameSkeletonRootPart1_M
+      position: {x: 0.021566324, y: 0.028800659, z: 0.12743115}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint60_R
+      parentName: GameSkeletonxq_joint59_R
+      position: {x: 0.01373393, y: -0.065302126, z: 0.091528855}
+      rotation: {x: -2.3509887e-38, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: GameSkeletonxq_joint61_R
+      parentName: GameSkeletonxq_joint60_R
+      position: {x: 0.01740437, y: -0.08430786, z: 0.12062641}
+      rotation: {x: 0, y: 0, z: -2.646978e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint61_R_end
+      parentName: GameSkeletonxq_joint61_R
+      position: {x: -0, y: 0.14819397, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint62_L
+      parentName: GameSkeletonRootPart1_M
+      position: {x: -0.07140688, y: 0.023989715, z: 0.13036047}
+      rotation: {x: -2.3509887e-38, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: GameSkeletonxq_joint63_L
+      parentName: GameSkeletonxq_joint62_L
+      position: {x: -0.040710952, y: -0.04996109, z: 0.08914505}
+      rotation: {x: 0, y: 0, z: -2.646978e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint64_L
+      parentName: GameSkeletonxq_joint63_L
+      position: {x: -0.04257636, y: -0.05133163, z: 0.088611566}
+      rotation: {x: -2.3509887e-38, y: 0, z: -1.469368e-39, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: GameSkeletonxq_joint64_L_end
+      parentName: GameSkeletonxq_joint64_L
+      position: {x: -0, y: 0.110903926, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint62_R
+      parentName: GameSkeletonRootPart1_M
+      position: {x: 0.07140688, y: 0.023989715, z: 0.13036047}
+      rotation: {x: -2.3509887e-38, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: GameSkeletonxq_joint63_R
+      parentName: GameSkeletonxq_joint62_R
+      position: {x: 0.040710952, y: -0.04996109, z: 0.08914505}
+      rotation: {x: 0, y: 0, z: -2.646978e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint64_R
+      parentName: GameSkeletonxq_joint63_R
+      position: {x: 0.04257636, y: -0.05133163, z: 0.088611566}
+      rotation: {x: -2.3509887e-38, y: 0, z: -1.469368e-39, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: GameSkeletonxq_joint64_R_end
+      parentName: GameSkeletonxq_joint64_R
+      position: {x: -0, y: 0.110903926, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint65_L
+      parentName: GameSkeletonRootPart1_M
+      position: {x: -0.11629181, y: 0.027910918, z: 0.08676885}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint66_L
+      parentName: GameSkeletonxq_joint65_L
+      position: {x: -0.06572936, y: -0.021673735, z: 0.056827888}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint67_L
+      parentName: GameSkeletonxq_joint66_L
+      position: {x: -0.06281316, y: -0.020940704, z: 0.055393904}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint67_L_end
+      parentName: GameSkeletonxq_joint67_L
+      position: {x: -0, y: 0.08632782, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint65_R
+      parentName: GameSkeletonRootPart1_M
+      position: {x: 0.11629181, y: 0.027910918, z: 0.08676885}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint66_R
+      parentName: GameSkeletonxq_joint65_R
+      position: {x: 0.06572936, y: -0.021673735, z: 0.056827888}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint67_R
+      parentName: GameSkeletonxq_joint66_R
+      position: {x: 0.06281316, y: -0.020940704, z: 0.055393904}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint67_R_end
+      parentName: GameSkeletonxq_joint67_R
+      position: {x: -0, y: 0.08632782, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint68_L
+      parentName: GameSkeletonRootPart1_M
+      position: {x: -0.1376079, y: 0.027191468, z: 0.023856793}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint69_L
+      parentName: GameSkeletonxq_joint68_L
+      position: {x: -0.086549796, y: -0.019347839, z: 0.0075674057}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint70_L
+      parentName: GameSkeletonxq_joint69_L
+      position: {x: -0.08541118, y: -0.018648833, z: 0.009659233}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint70_L_end
+      parentName: GameSkeletonxq_joint70_L
+      position: {x: -0, y: 0.08795532, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint68_R
+      parentName: GameSkeletonRootPart1_M
+      position: {x: 0.1376079, y: 0.027191468, z: 0.023856793}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint69_R
+      parentName: GameSkeletonxq_joint68_R
+      position: {x: 0.086549796, y: -0.019347839, z: 0.0075674057}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint70_R
+      parentName: GameSkeletonxq_joint69_R
+      position: {x: 0.08541118, y: -0.018648833, z: 0.009659233}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint70_R_end
+      parentName: GameSkeletonxq_joint70_R
+      position: {x: -0, y: 0.08795532, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint71_L
+      parentName: GameSkeletonRootPart1_M
+      position: {x: -0.113138996, y: 0.022009125, z: -0.051453225}
+      rotation: {x: -2.3509887e-38, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: GameSkeletonxq_joint72_L
+      parentName: GameSkeletonxq_joint71_L
+      position: {x: -0.087416895, y: -0.045095976, z: -0.047136955}
+      rotation: {x: 0, y: 0, z: -2.646978e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint73_L
+      parentName: GameSkeletonxq_joint72_L
+      position: {x: -0.06459703, y: -0.039016113, z: -0.034858417}
+      rotation: {x: 0, y: 0, z: -2.646978e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint73_L_end
+      parentName: GameSkeletonxq_joint73_L
+      position: {x: -0, y: 0.08312729, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint71_R
+      parentName: GameSkeletonRootPart1_M
+      position: {x: 0.113138996, y: 0.022009125, z: -0.051453225}
+      rotation: {x: -2.3509887e-38, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: GameSkeletonxq_joint72_R
+      parentName: GameSkeletonxq_joint71_R
+      position: {x: 0.087416895, y: -0.045095976, z: -0.047136955}
+      rotation: {x: 0, y: 0, z: -2.646978e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint73_R
+      parentName: GameSkeletonxq_joint72_R
+      position: {x: 0.06459703, y: -0.039016113, z: -0.034858417}
+      rotation: {x: 0, y: 0, z: -2.646978e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint73_R_end
+      parentName: GameSkeletonxq_joint73_R
+      position: {x: -0, y: 0.08312729, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint74_L
+      parentName: GameSkeletonRootPart1_M
+      position: {x: -0.041329168, y: 0.011869354, z: -0.102804504}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint75_L
+      parentName: GameSkeletonxq_joint74_L
+      position: {x: -0.034120083, y: -0.076883845, z: -0.089719735}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint76_L
+      parentName: GameSkeletonxq_joint75_L
+      position: {x: -0.03355158, y: -0.079745635, z: -0.08845989}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint76_L_end
+      parentName: GameSkeletonxq_joint76_L
+      position: {x: -0, y: 0.12373444, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint74_R
+      parentName: GameSkeletonRootPart1_M
+      position: {x: 0.041329168, y: 0.011869354, z: -0.102804504}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint75_R
+      parentName: GameSkeletonxq_joint74_R
+      position: {x: 0.034120083, y: -0.076883845, z: -0.089719735}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint76_R
+      parentName: GameSkeletonxq_joint75_R
+      position: {x: 0.03355158, y: -0.079745635, z: -0.08845989}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonxq_joint76_R_end
+      parentName: GameSkeletonxq_joint76_R
+      position: {x: -0, y: 0.12373444, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint63_L
+      parentName: GameSkeletonRoot_M
+      position: {x: -0.15483199, y: 0.06726639, z: -0.02976696}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint64_L
+      parentName: GameSkeletonsk_joint63_L
+      position: {x: -0.09523422, y: -0.092070155, z: -0.018648796}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint65_L
+      parentName: GameSkeletonsk_joint64_L
+      position: {x: -0.07925838, y: -0.13294876, z: -0.019992905}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint66_L
+      parentName: GameSkeletonsk_joint65_L
+      position: {x: -0.02344223, y: -0.1743953, z: -0.016639022}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint66_L_end
+      parentName: GameSkeletonsk_joint66_L
+      position: {x: -0, y: 0.17674872, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint63_R
+      parentName: GameSkeletonRoot_M
+      position: {x: 0.15483199, y: 0.06726639, z: -0.02976696}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint64_R
+      parentName: GameSkeletonsk_joint63_R
+      position: {x: 0.09523422, y: -0.092070155, z: -0.018648796}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: GameSkeletonsk_joint65_R
+      parentName: GameSkeletonsk_joint64_R
+      position: {x: 0.07925842, y: -0.13294876, z: -0.019992905}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint66_R
+      parentName: GameSkeletonsk_joint65_R
+      position: {x: 0.02344223, y: -0.1743953, z: -0.016639022}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint66_R_end
+      parentName: GameSkeletonsk_joint66_R
+      position: {x: -0, y: 0.17674872, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint67_M
+      parentName: GameSkeletonRoot_M
+      position: {x: 4.4564233e-17, y: 0.0581575, z: 0.1673087}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: GameSkeletonsk_joint68_M
+      parentName: GameSkeletonsk_joint67_M
+      position: {x: 1.2732161e-17, y: -0.088464655, z: 0.073582724}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint69_M
+      parentName: GameSkeletonsk_joint68_M
+      position: {x: -2.2323503e-16, y: -0.13063003, z: 0.071929164}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint70_M
+      parentName: GameSkeletonsk_joint69_M
+      position: {x: -1.1165005e-16, y: -0.19511825, z: 0.011574822}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint70_M_end
+      parentName: GameSkeletonsk_joint70_M
+      position: {x: -0, y: 0.19546127, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint71_L
+      parentName: GameSkeletonRoot_M
+      position: {x: -0.095566995, y: 0.0718045, z: 0.13618822}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint72_L
+      parentName: GameSkeletonsk_joint71_L
+      position: {x: -0.035142917, y: -0.09662445, z: 0.056370847}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint73_L
+      parentName: GameSkeletonsk_joint72_L
+      position: {x: -0.041030195, y: -0.14243591, z: 0.05927944}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint74_L
+      parentName: GameSkeletonsk_joint73_L
+      position: {x: -0.021313151, y: -0.17631309, z: 0.0082208635}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint74_L_end
+      parentName: GameSkeletonsk_joint74_L
+      position: {x: -0, y: 0.17778678, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint71_R
+      parentName: GameSkeletonRoot_M
+      position: {x: 0.095566995, y: 0.0718045, z: 0.13618822}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint72_R
+      parentName: GameSkeletonsk_joint71_R
+      position: {x: 0.035142917, y: -0.09662445, z: 0.056370847}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint73_R
+      parentName: GameSkeletonsk_joint72_R
+      position: {x: 0.041030195, y: -0.14243591, z: 0.05927944}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint74_R
+      parentName: GameSkeletonsk_joint73_R
+      position: {x: 0.021313151, y: -0.17631309, z: 0.0082208635}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint74_R_end
+      parentName: GameSkeletonsk_joint74_R
+      position: {x: -0, y: 0.17778678, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint75_L
+      parentName: GameSkeletonRoot_M
+      position: {x: -0.15504248, y: 0.068125, z: 0.053838536}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint76_L
+      parentName: GameSkeletonsk_joint75_L
+      position: {x: -0.066914566, y: -0.10115982, z: 0.03585417}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint77_L
+      parentName: GameSkeletonsk_joint76_L
+      position: {x: -0.06361015, y: -0.12643677, z: 0.028035812}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint78_L
+      parentName: GameSkeletonsk_joint77_L
+      position: {x: -0.052338026, y: -0.18086646, z: 0.030836143}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint78_L_end
+      parentName: GameSkeletonsk_joint78_L
+      position: {x: -0, y: 0.19079514, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint75_R
+      parentName: GameSkeletonRoot_M
+      position: {x: 0.15504248, y: 0.068125, z: 0.053838536}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint76_R
+      parentName: GameSkeletonsk_joint75_R
+      position: {x: 0.066914566, y: -0.10115982, z: 0.03585417}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint77_R
+      parentName: GameSkeletonsk_joint76_R
+      position: {x: 0.06361015, y: -0.12643677, z: 0.028035812}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint78_R
+      parentName: GameSkeletonsk_joint77_R
+      position: {x: 0.05233799, y: -0.18086646, z: 0.030836143}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint78_R_end
+      parentName: GameSkeletonsk_joint78_R
+      position: {x: -0, y: 0.19079514, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint79_M
+      parentName: GameSkeletonRoot_M
+      position: {x: 9.465394e-17, y: 0.06789947, z: -0.13136399}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: GameSkeletonsk_joint80_M
+      parentName: GameSkeletonsk_joint79_M
+      position: {x: -8.7886034e-17, y: -0.09521225, z: -0.09858858}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint81_M
+      parentName: GameSkeletonsk_joint80_M
+      position: {x: -1.5798431e-16, y: -0.12657256, z: -0.067220666}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint82_M
+      parentName: GameSkeletonsk_joint81_M
+      position: {x: 5.019404e-17, y: -0.17872787, z: -0.006776414}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint82_M_end
+      parentName: GameSkeletonsk_joint82_M
+      position: {x: -0, y: 0.17885634, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint83_L
+      parentName: GameSkeletonRoot_M
+      position: {x: -0.09925012, y: 0.06821106, z: -0.09304674}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint84_L
+      parentName: GameSkeletonsk_joint83_L
+      position: {x: -0.030551651, y: -0.08533951, z: -0.0655285}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint85_L
+      parentName: GameSkeletonsk_joint84_L
+      position: {x: -0.034585483, y: -0.14889206, z: -0.056724712}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: GameSkeletonsk_joint86_L
+      parentName: GameSkeletonsk_joint85_L
+      position: {x: -0.008770599, y: -0.15579894, z: -0.0052805566}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint86_L_end
+      parentName: GameSkeletonsk_joint86_L
+      position: {x: -0, y: 0.15613495, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint83_R
+      parentName: GameSkeletonRoot_M
+      position: {x: 0.09925012, y: 0.06821106, z: -0.09304674}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint84_R
+      parentName: GameSkeletonsk_joint83_R
+      position: {x: 0.030551651, y: -0.08533951, z: -0.0655285}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint85_R
+      parentName: GameSkeletonsk_joint84_R
+      position: {x: 0.034585483, y: -0.14889206, z: -0.056724712}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: GameSkeletonsk_joint86_R
+      parentName: GameSkeletonsk_joint85_R
+      position: {x: 0.008770599, y: -0.15579894, z: -0.0052805566}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GameSkeletonsk_joint86_R_end
+      parentName: GameSkeletonsk_joint86_R
+      position: {x: -0, y: 0.15613495, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: crown
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: crown.001
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: crown.002
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dress.001
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dress.002
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dress.003
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dress.004
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 100, y: 100, z: 100}
+    - name: dress_panier
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dress_panier.001
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dress_pearl.001
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dress_pearl.002
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dress_ribbon.003
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: face_eyes
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.70710695, y: 0, z: 0, w: 0.7071066}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Group
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Geometry
+      parentName: Group
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: geo
+      parentName: Geometry
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: drb
+      parentName: geo
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: group2
+      parentName: geo
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: fa_fa
+      parentName: group2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: group1
+      parentName: group2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: group3
+      parentName: geo
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: jie
+      parentName: geo
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pearl
+      parentName: geo
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Group.001
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Geometry.001
+      parentName: Group.001
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: geo.001
+      parentName: Geometry.001
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair_polySurface6
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair_polySurface7
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair_polySurface8
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair_polySurface10
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: neckless
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: neckless.001
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: neckless.003
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pants
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pearl.001
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pearl.002
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pearl.003
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pearl.004
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface228
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface229
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface230
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ribbon_back
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ribbon_front
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ribbon_little
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ribbon_little_
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shoes
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: socks
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upper
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upper_ribbon
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upper_ribbon.001
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upper_ribbon.002
+      parentName: 0917_2_idol_rig(Clone)
+      position: {x: 0.0000000010079703, y: -0.000000087618815, z: 0.000000018179424}
+      rotation: {x: -0.000000037748947, y: 3.4694456e-17, z: 1.110223e-16, w: 1}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

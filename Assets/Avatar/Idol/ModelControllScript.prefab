@@ -1,0 +1,260 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4337347215464054207
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3850218049324596950}
+  - component: {fileID: 6104240709938792745}
+  - component: {fileID: 2857638906116237788}
+  - component: {fileID: 5223661792861163042}
+  m_Layer: 0
+  m_Name: ModelControllScript
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3850218049324596950
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4337347215464054207}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3281941094080346479}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6104240709938792745
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4337347215464054207}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 439edf91a95da5042ad5d675101e1d48, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_sourceModelAnimator: {fileID: 0}
+  m_rigPrefab: {fileID: 3291323352588452757, guid: e0c7cb43cfe5fbc428a3b212ed983b26, type: 3}
+  m_modelObject: {fileID: 0}
+  m_rightArmInitialRotation: {x: 0, y: 0, z: 0.42261827, w: 0.90630776}
+  m_targetRigWeight: 0.1
+  m_rigTransforms:
+    SpinePositionTarget: {fileID: 0}
+    SpineRotationTarget: {fileID: 0}
+    LeftHandHint: {fileID: 0}
+    LeftHandTarget: {fileID: 0}
+    RightHandHint: {fileID: 0}
+    RightHandTarget: {fileID: 0}
+    Hip: {fileID: 0}
+    UpperChest: {fileID: 0}
+  m_rigSourceTransforms:
+    SpinePositionTarget: {fileID: 0}
+    SpineRotationTarget: {fileID: 0}
+    LeftHandHint: {fileID: 0}
+    LeftHandTarget: {fileID: 0}
+    RightHandHint: {fileID: 0}
+    RightHandTarget: {fileID: 0}
+    Hip: {fileID: 0}
+    UpperChest: {fileID: 0}
+  m_weightChangeSpeed: 5
+--- !u!114 &2857638906116237788
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4337347215464054207}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ef02524412a35241b3a0c62b6f7bbd9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_sourceAnimator: {fileID: 0}
+  m_modelAnimator: {fileID: 0}
+  m_mediapipeResultDataContainer: {fileID: 11400000, guid: 4d8a19a35f1b64842a4905e6040c786d, type: 2}
+--- !u!114 &5223661792861163042
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4337347215464054207}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9d0ca87c0ca5e64b9680fca9879673b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_mediapipeResultDataContainer: {fileID: 11400000, guid: 4d8a19a35f1b64842a4905e6040c786d, type: 2}
+  m_modelAnimator: {fileID: 0}
+  m_modelObject: {fileID: 0}
+  rotationMultiplier: 1
+  m_sourceAnimator: {fileID: 0}
+--- !u!1 &7006131679486702153
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3281941094080346479}
+  - component: {fileID: 7591541618285764025}
+  - component: {fileID: 484590589998440758}
+  - component: {fileID: 8269570013705718690}
+  - component: {fileID: 8242676368964790054}
+  m_Layer: 0
+  m_Name: SetRigWeightReceiver
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3281941094080346479
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7006131679486702153}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3850218049324596950}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7591541618285764025
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7006131679486702153}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e52de21a22b6dd44c9cc19f810c65059, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Events:
+    m_Signals:
+    - {fileID: 11400000, guid: f5b03e720877438489371c811e4a770b, type: 2}
+    m_Events:
+    - m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 6104240709938792745}
+          m_TargetAssemblyTypeName: AnimationRiggingController, Assembly-CSharp
+          m_MethodName: SetTargetRigWeight
+          m_Mode: 4
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 1
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+--- !u!114 &484590589998440758
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7006131679486702153}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e52de21a22b6dd44c9cc19f810c65059, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Events:
+    m_Signals:
+    - {fileID: 11400000, guid: 49ab187738707fc4eb52fe32eedd7ed8, type: 2}
+    m_Events:
+    - m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 6104240709938792745}
+          m_TargetAssemblyTypeName: AnimationRiggingController, Assembly-CSharp
+          m_MethodName: SetTargetRigWeightInstantly
+          m_Mode: 4
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 1
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+--- !u!114 &8269570013705718690
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7006131679486702153}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e52de21a22b6dd44c9cc19f810c65059, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Events:
+    m_Signals:
+    - {fileID: 11400000, guid: 2b1f9bd408b4a2b4b946c58a2e9e6d07, type: 2}
+    m_Events:
+    - m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 6104240709938792745}
+          m_TargetAssemblyTypeName: AnimationRiggingController, Assembly-CSharp
+          m_MethodName: SetTargetRigWeight
+          m_Mode: 4
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+--- !u!114 &8242676368964790054
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7006131679486702153}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e52de21a22b6dd44c9cc19f810c65059, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Events:
+    m_Signals:
+    - {fileID: 11400000, guid: 4ef9e1aae6c22564cac511f26a8f60cb, type: 2}
+    m_Events:
+    - m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 6104240709938792745}
+          m_TargetAssemblyTypeName: AnimationRiggingController, Assembly-CSharp
+          m_MethodName: SetTargetRigWeightInstantly
+          m_Mode: 4
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2

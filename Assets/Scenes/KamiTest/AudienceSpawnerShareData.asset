@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fe5f159ed81a3c47895ac1faa97fbf8, type: 3}
+  m_Name: AudienceSpawnerShareData
+  m_EditorClassIdentifier: 
+  m_psylliumColorList:
+  - {r: 1, g: 0, b: 0.84705883, a: 0}
+  - {r: 0.58431375, g: 0, b: 0.015686275, a: 0}
+  - {r: 0.5254902, g: 0, b: 1, a: 0}
+  m_psylliumIntensity: 15
+  m_maxNoiseLength: 0.2
+  m_minNoiseLength: -0.2
+  m_maxNoiseWidth: 0.2
+  m_minNoiseWidth: -0.2
+  m_maxNoiseHight: 0.1
+  m_minNoiseHight: 0
+  m_targetGameObject: {fileID: 0}
+  m_targetTransform: {fileID: 3931867999870185484, guid: 78d656d0238db814fa2b56f1c6b6b822, type: 3}

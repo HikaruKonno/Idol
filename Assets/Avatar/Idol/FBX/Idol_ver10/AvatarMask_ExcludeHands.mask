@@ -1,0 +1,1111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AvatarMask_ExcludeHands
+  m_Mask: 01000000010000000100000001000000010000000000000000000000000000000000000001000000010000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: _arm_ribbon.022
+    m_Weight: 1
+  - m_Path: _earing
+    m_Weight: 1
+  - m_Path: '_hair front '
+    m_Weight: 1
+  - m_Path: '_hair side '
+    m_Weight: 1
+  - m_Path: _hair side .001
+    m_Weight: 1
+  - m_Path: _hair_back
+    m_Weight: 1
+  - m_Path: _hairheart
+    m_Weight: 1
+  - m_Path: _hairpearl
+    m_Weight: 1
+  - m_Path: _neckless.001
+    m_Weight: 1
+  - m_Path: arm_ribbon.001
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonHip_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonHip_L/GameSkeletonHipPart1_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonHip_L/GameSkeletonHipPart1_L/GameSkeletonKnee_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonHip_L/GameSkeletonHipPart1_L/GameSkeletonKnee_L/GameSkeletonAnkle_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonHip_L/GameSkeletonHipPart1_L/GameSkeletonKnee_L/GameSkeletonAnkle_L/GameSkeletonToes_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonHip_L/GameSkeletonHipPart1_L/GameSkeletonKnee_L/GameSkeletonAnkle_L/GameSkeletonToes_L/GameSkeletonToesEnd_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonHip_L/GameSkeletonHipPart1_L/GameSkeletonKnee_L/GameSkeletonAnkle_L/GameSkeletonToes_L/GameSkeletonToesEnd_L/GameSkeletonToesEnd_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonHip_L/GameSkeletonHipPart1_L/GameSkeletonKneePartial_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonHip_L/GameSkeletonHipPart1_L/GameSkeletonKneePartial_L/GameSkeletonKneemiddleSlider0_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonHip_L/GameSkeletonHipPart1_L/GameSkeletonKneePartial_L/GameSkeletonKneemiddleSlider0_L/GameSkeletonKneemiddleSlider0_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonHip_L/GameSkeletonHipPart1_L/GameSkeletonKneePartial_L/GameSkeletonKneemiddleSlider2_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonHip_L/GameSkeletonHipPart1_L/GameSkeletonKneePartial_L/GameSkeletonKneemiddleSlider2_L/GameSkeletonKneemiddleSlider2_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonHip_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonHip_R/GameSkeletonHipPart1_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonHip_R/GameSkeletonHipPart1_R/GameSkeletonKnee_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonHip_R/GameSkeletonHipPart1_R/GameSkeletonKnee_R/GameSkeletonAnkle_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonHip_R/GameSkeletonHipPart1_R/GameSkeletonKnee_R/GameSkeletonAnkle_R/GameSkeletonToes_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonHip_R/GameSkeletonHipPart1_R/GameSkeletonKnee_R/GameSkeletonAnkle_R/GameSkeletonToes_R/GameSkeletonToesEnd_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonHip_R/GameSkeletonHipPart1_R/GameSkeletonKnee_R/GameSkeletonAnkle_R/GameSkeletonToes_R/GameSkeletonToesEnd_R/GameSkeletonToesEnd_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonHip_R/GameSkeletonHipPart1_R/GameSkeletonKneePartial_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonHip_R/GameSkeletonHipPart1_R/GameSkeletonKneePartial_R/GameSkeletonKneemiddleSlider0_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonHip_R/GameSkeletonHipPart1_R/GameSkeletonKneePartial_R/GameSkeletonKneemiddleSlider0_R/GameSkeletonKneemiddleSlider0_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonHip_R/GameSkeletonHipPart1_R/GameSkeletonKneePartial_R/GameSkeletonKneemiddleSlider2_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonHip_R/GameSkeletonHipPart1_R/GameSkeletonKneePartial_R/GameSkeletonKneemiddleSlider2_R/GameSkeletonKneemiddleSlider2_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonpolySurface13_JNT
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonpolySurface13_JNT/GameSkeletonpolySurface13_JNT_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonpolySurface16_JNT
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonpolySurface16_JNT/GameSkeletonjoint770
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonpolySurface16_JNT/GameSkeletonjoint770/GameSkeletonjoint763
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonpolySurface16_JNT/GameSkeletonjoint770/GameSkeletonjoint763/GameSkeletonjoint764
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonpolySurface16_JNT/GameSkeletonjoint770/GameSkeletonjoint763/GameSkeletonjoint764/GameSkeletonjoint765
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonpolySurface16_JNT/GameSkeletonjoint770/GameSkeletonjoint763/GameSkeletonjoint764/GameSkeletonjoint765/GameSkeletonjoint765_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonpolySurface22_JNT
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonpolySurface22_JNT/GameSkeletonpolySurface22_JNT_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonpolySurface27_JNT
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonpolySurface27_JNT/GameSkeletonaajoint762
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonpolySurface27_JNT/GameSkeletonaajoint762/GameSkeletonaajoint763
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonpolySurface27_JNT/GameSkeletonaajoint762/GameSkeletonaajoint763/GameSkeletonaajoint764
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonpolySurface27_JNT/GameSkeletonaajoint762/GameSkeletonaajoint763/GameSkeletonaajoint764/GameSkeletonaajoint765
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonpolySurface27_JNT/GameSkeletonaajoint762/GameSkeletonaajoint763/GameSkeletonaajoint764/GameSkeletonaajoint765/GameSkeletonaajoint765_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonpolySurface27_JNT/GameSkeletonJointSkin1polySurface27_M
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonpolySurface27_JNT/GameSkeletonJointSkin1polySurface27_M/GameSkeletonJointSkin1polySurface27_M_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonpSphere1_JNT
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonpSphere1_JNT/GameSkeletonpSphere1_JNT_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonpSphere2_JNT
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonpSphere2_JNT/GameSkeletonpSphere2_JNT_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonpSphere3_JNT
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonpSphere3_JNT/GameSkeletonpSphere3_JNT_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonjoint59_M
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonjoint59_M/GameSkeletonjoint53_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonjoint59_M/GameSkeletonjoint53_L/GameSkeletonjoint54_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonjoint59_M/GameSkeletonjoint53_L/GameSkeletonjoint54_L/GameSkeletonjoint54_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonjoint59_M/GameSkeletonjoint53_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonjoint59_M/GameSkeletonjoint53_R/GameSkeletonjoint54_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonjoint59_M/GameSkeletonjoint53_R/GameSkeletonjoint54_R/GameSkeletonjoint54_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonjoint59_M/GameSkeletonjoint56_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonjoint59_M/GameSkeletonjoint56_L/GameSkeletonjoint57_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonjoint59_M/GameSkeletonjoint56_L/GameSkeletonjoint57_L/GameSkeletonjoint57_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonjoint59_M/GameSkeletonjoint56_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonjoint59_M/GameSkeletonjoint56_R/GameSkeletonjoint57_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonjoint59_M/GameSkeletonjoint56_R/GameSkeletonjoint57_R/GameSkeletonjoint57_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonjoint61_M
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonjoint61_M/GameSkeletonjoint45_M
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonjoint61_M/GameSkeletonjoint45_M/GameSkeletonjoint46_M
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonjoint61_M/GameSkeletonjoint45_M/GameSkeletonjoint46_M/GameSkeletonjoint47_M
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonjoint61_M/GameSkeletonjoint45_M/GameSkeletonjoint46_M/GameSkeletonjoint47_M/GameSkeletonjoint48_M
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonjoint61_M/GameSkeletonjoint45_M/GameSkeletonjoint46_M/GameSkeletonjoint47_M/GameSkeletonjoint48_M/GameSkeletonjoint49_M
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonjoint61_M/GameSkeletonjoint45_M/GameSkeletonjoint46_M/GameSkeletonjoint47_M/GameSkeletonjoint48_M/GameSkeletonjoint49_M/GameSkeletonjoint49_M_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonjoint61_M/GameSkeletonjoint50_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonjoint61_M/GameSkeletonjoint50_L/GameSkeletonjoint51_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonjoint61_M/GameSkeletonjoint50_L/GameSkeletonjoint51_L/GameSkeletonjoint51_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonjoint61_M/GameSkeletonjoint50_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonjoint61_M/GameSkeletonjoint50_R/GameSkeletonjoint51_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonjoint61_M/GameSkeletonjoint50_R/GameSkeletonjoint51_R/GameSkeletonjoint51_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonEye_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonEye_L/GameSkeletonEyeEnd_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonEye_L/GameSkeletonEyeEnd_L/GameSkeletonEyeEnd_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonEye_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonEye_R/GameSkeletonEyeEnd_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonEye_R/GameSkeletonEyeEnd_R/GameSkeletonEyeEnd_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint1_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint1_L/GameSkeletonhair_joint1_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint1_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint1_R/GameSkeletonhair_joint1_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint3_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint3_L/GameSkeletonhair_joint4_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint3_L/GameSkeletonhair_joint4_L/GameSkeletonhair_joint5_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint3_L/GameSkeletonhair_joint4_L/GameSkeletonhair_joint5_L/GameSkeletonhair_joint6_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint3_L/GameSkeletonhair_joint4_L/GameSkeletonhair_joint5_L/GameSkeletonhair_joint6_L/GameSkeletonhair_joint6_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint3_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint3_R/GameSkeletonhair_joint4_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint3_R/GameSkeletonhair_joint4_R/GameSkeletonhair_joint5_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint3_R/GameSkeletonhair_joint4_R/GameSkeletonhair_joint5_R/GameSkeletonhair_joint6_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint3_R/GameSkeletonhair_joint4_R/GameSkeletonhair_joint5_R/GameSkeletonhair_joint6_R/GameSkeletonhair_joint6_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint7_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint7_L/GameSkeletonhair_joint8_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint7_L/GameSkeletonhair_joint8_L/GameSkeletonhair_joint9_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint7_L/GameSkeletonhair_joint8_L/GameSkeletonhair_joint9_L/GameSkeletonhair_joint10_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint7_L/GameSkeletonhair_joint8_L/GameSkeletonhair_joint9_L/GameSkeletonhair_joint10_L/GameSkeletonhair_joint10_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint7_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint7_R/GameSkeletonhair_joint8_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint7_R/GameSkeletonhair_joint8_R/GameSkeletonhair_joint9_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint7_R/GameSkeletonhair_joint8_R/GameSkeletonhair_joint9_R/GameSkeletonhair_joint10_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint7_R/GameSkeletonhair_joint8_R/GameSkeletonhair_joint9_R/GameSkeletonhair_joint10_R/GameSkeletonhair_joint10_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint11_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint11_L/GameSkeletonhair_joint12_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint11_L/GameSkeletonhair_joint12_L/GameSkeletonhair_joint13_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint11_L/GameSkeletonhair_joint12_L/GameSkeletonhair_joint13_L/GameSkeletonhair_joint14_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint11_L/GameSkeletonhair_joint12_L/GameSkeletonhair_joint13_L/GameSkeletonhair_joint14_L/GameSkeletonhair_joint14_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint11_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint11_R/GameSkeletonhair_joint12_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint11_R/GameSkeletonhair_joint12_R/GameSkeletonhair_joint13_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint11_R/GameSkeletonhair_joint12_R/GameSkeletonhair_joint13_R/GameSkeletonhair_joint14_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint11_R/GameSkeletonhair_joint12_R/GameSkeletonhair_joint13_R/GameSkeletonhair_joint14_R/GameSkeletonhair_joint14_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint25_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint25_R/GameSkeletonhair_joint26_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint25_R/GameSkeletonhair_joint26_R/GameSkeletonhair_joint27_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint25_R/GameSkeletonhair_joint26_R/GameSkeletonhair_joint27_R/GameSkeletonhair_joint28_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint25_R/GameSkeletonhair_joint26_R/GameSkeletonhair_joint27_R/GameSkeletonhair_joint28_R/GameSkeletonhair_joint28_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint29_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint29_R/GameSkeletonhair_joint30_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint29_R/GameSkeletonhair_joint30_R/GameSkeletonhair_joint31_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint29_R/GameSkeletonhair_joint30_R/GameSkeletonhair_joint31_R/GameSkeletonhair_joint32_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint29_R/GameSkeletonhair_joint30_R/GameSkeletonhair_joint31_R/GameSkeletonhair_joint32_R/GameSkeletonhair_joint33_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint29_R/GameSkeletonhair_joint30_R/GameSkeletonhair_joint31_R/GameSkeletonhair_joint32_R/GameSkeletonhair_joint33_R/GameSkeletonhair_joint33_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint34_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint34_R/GameSkeletonhair_joint35_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint34_R/GameSkeletonhair_joint35_R/GameSkeletonhair_joint36_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint34_R/GameSkeletonhair_joint35_R/GameSkeletonhair_joint36_R/GameSkeletonhair_joint37_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint34_R/GameSkeletonhair_joint35_R/GameSkeletonhair_joint36_R/GameSkeletonhair_joint37_R/GameSkeletonhair_joint38_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint34_R/GameSkeletonhair_joint35_R/GameSkeletonhair_joint36_R/GameSkeletonhair_joint37_R/GameSkeletonhair_joint38_R/GameSkeletonhair_joint38_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint39_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint39_L/GameSkeletonhair_joint40_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint39_L/GameSkeletonhair_joint40_L/GameSkeletonhair_joint41_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint39_L/GameSkeletonhair_joint40_L/GameSkeletonhair_joint41_L/GameSkeletonhair_joint42_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint39_L/GameSkeletonhair_joint40_L/GameSkeletonhair_joint41_L/GameSkeletonhair_joint42_L/GameSkeletonhair_joint42_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint43_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint43_L/GameSkeletonhair_joint44_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint43_L/GameSkeletonhair_joint44_L/GameSkeletonhair_joint45_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint43_L/GameSkeletonhair_joint44_L/GameSkeletonhair_joint45_L/GameSkeletonhair_joint46_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint43_L/GameSkeletonhair_joint44_L/GameSkeletonhair_joint45_L/GameSkeletonhair_joint46_L/GameSkeletonhair_joint46_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint47_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint47_L/GameSkeletonhair_joint48_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint47_L/GameSkeletonhair_joint48_L/GameSkeletonhair_joint49_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint47_L/GameSkeletonhair_joint48_L/GameSkeletonhair_joint49_L/GameSkeletonhair_joint50_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_joint47_L/GameSkeletonhair_joint48_L/GameSkeletonhair_joint49_L/GameSkeletonhair_joint50_L/GameSkeletonhair_joint50_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve1Joint0_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve1Joint0_L/GameSkeletonhair_polyToCurve1Joint1_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve1Joint0_L/GameSkeletonhair_polyToCurve1Joint1_L/GameSkeletonhair_polyToCurve1Joint2_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve1Joint0_L/GameSkeletonhair_polyToCurve1Joint1_L/GameSkeletonhair_polyToCurve1Joint2_L/GameSkeletonhair_polyToCurve1Joint3_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve1Joint0_L/GameSkeletonhair_polyToCurve1Joint1_L/GameSkeletonhair_polyToCurve1Joint2_L/GameSkeletonhair_polyToCurve1Joint3_L/GameSkeletonhair_polyToCurve1Joint4_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve1Joint0_L/GameSkeletonhair_polyToCurve1Joint1_L/GameSkeletonhair_polyToCurve1Joint2_L/GameSkeletonhair_polyToCurve1Joint3_L/GameSkeletonhair_polyToCurve1Joint4_L/GameSkeletonhair_polyToCurve1Joint5_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve1Joint0_L/GameSkeletonhair_polyToCurve1Joint1_L/GameSkeletonhair_polyToCurve1Joint2_L/GameSkeletonhair_polyToCurve1Joint3_L/GameSkeletonhair_polyToCurve1Joint4_L/GameSkeletonhair_polyToCurve1Joint5_L/GameSkeletonhair_polyToCurve1Joint6_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve1Joint0_L/GameSkeletonhair_polyToCurve1Joint1_L/GameSkeletonhair_polyToCurve1Joint2_L/GameSkeletonhair_polyToCurve1Joint3_L/GameSkeletonhair_polyToCurve1Joint4_L/GameSkeletonhair_polyToCurve1Joint5_L/GameSkeletonhair_polyToCurve1Joint6_L/GameSkeletonhair_polyToCurve1Joint7_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve1Joint0_L/GameSkeletonhair_polyToCurve1Joint1_L/GameSkeletonhair_polyToCurve1Joint2_L/GameSkeletonhair_polyToCurve1Joint3_L/GameSkeletonhair_polyToCurve1Joint4_L/GameSkeletonhair_polyToCurve1Joint5_L/GameSkeletonhair_polyToCurve1Joint6_L/GameSkeletonhair_polyToCurve1Joint7_L/GameSkeletonhair_polyToCurve1Joint8_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve1Joint0_L/GameSkeletonhair_polyToCurve1Joint1_L/GameSkeletonhair_polyToCurve1Joint2_L/GameSkeletonhair_polyToCurve1Joint3_L/GameSkeletonhair_polyToCurve1Joint4_L/GameSkeletonhair_polyToCurve1Joint5_L/GameSkeletonhair_polyToCurve1Joint6_L/GameSkeletonhair_polyToCurve1Joint7_L/GameSkeletonhair_polyToCurve1Joint8_L/GameSkeletonhair_polyToCurve1Joint9_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve1Joint0_L/GameSkeletonhair_polyToCurve1Joint1_L/GameSkeletonhair_polyToCurve1Joint2_L/GameSkeletonhair_polyToCurve1Joint3_L/GameSkeletonhair_polyToCurve1Joint4_L/GameSkeletonhair_polyToCurve1Joint5_L/GameSkeletonhair_polyToCurve1Joint6_L/GameSkeletonhair_polyToCurve1Joint7_L/GameSkeletonhair_polyToCurve1Joint8_L/GameSkeletonhair_polyToCurve1Joint9_L/GameSkeletonhair_polyToCurve1Joint10_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve1Joint0_L/GameSkeletonhair_polyToCurve1Joint1_L/GameSkeletonhair_polyToCurve1Joint2_L/GameSkeletonhair_polyToCurve1Joint3_L/GameSkeletonhair_polyToCurve1Joint4_L/GameSkeletonhair_polyToCurve1Joint5_L/GameSkeletonhair_polyToCurve1Joint6_L/GameSkeletonhair_polyToCurve1Joint7_L/GameSkeletonhair_polyToCurve1Joint8_L/GameSkeletonhair_polyToCurve1Joint9_L/GameSkeletonhair_polyToCurve1Joint10_L/GameSkeletonhair_polyToCurve1Joint11_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve1Joint0_L/GameSkeletonhair_polyToCurve1Joint1_L/GameSkeletonhair_polyToCurve1Joint2_L/GameSkeletonhair_polyToCurve1Joint3_L/GameSkeletonhair_polyToCurve1Joint4_L/GameSkeletonhair_polyToCurve1Joint5_L/GameSkeletonhair_polyToCurve1Joint6_L/GameSkeletonhair_polyToCurve1Joint7_L/GameSkeletonhair_polyToCurve1Joint8_L/GameSkeletonhair_polyToCurve1Joint9_L/GameSkeletonhair_polyToCurve1Joint10_L/GameSkeletonhair_polyToCurve1Joint11_L/GameSkeletonhair_polyToCurve1Joint12_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve1Joint0_L/GameSkeletonhair_polyToCurve1Joint1_L/GameSkeletonhair_polyToCurve1Joint2_L/GameSkeletonhair_polyToCurve1Joint3_L/GameSkeletonhair_polyToCurve1Joint4_L/GameSkeletonhair_polyToCurve1Joint5_L/GameSkeletonhair_polyToCurve1Joint6_L/GameSkeletonhair_polyToCurve1Joint7_L/GameSkeletonhair_polyToCurve1Joint8_L/GameSkeletonhair_polyToCurve1Joint9_L/GameSkeletonhair_polyToCurve1Joint10_L/GameSkeletonhair_polyToCurve1Joint11_L/GameSkeletonhair_polyToCurve1Joint12_L/GameSkeletonhair_polyToCurve1Joint13_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve1Joint0_L/GameSkeletonhair_polyToCurve1Joint1_L/GameSkeletonhair_polyToCurve1Joint2_L/GameSkeletonhair_polyToCurve1Joint3_L/GameSkeletonhair_polyToCurve1Joint4_L/GameSkeletonhair_polyToCurve1Joint5_L/GameSkeletonhair_polyToCurve1Joint6_L/GameSkeletonhair_polyToCurve1Joint7_L/GameSkeletonhair_polyToCurve1Joint8_L/GameSkeletonhair_polyToCurve1Joint9_L/GameSkeletonhair_polyToCurve1Joint10_L/GameSkeletonhair_polyToCurve1Joint11_L/GameSkeletonhair_polyToCurve1Joint12_L/GameSkeletonhair_polyToCurve1Joint13_L/GameSkeletonhair_polyToCurve1Joint14_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve1Joint0_L/GameSkeletonhair_polyToCurve1Joint1_L/GameSkeletonhair_polyToCurve1Joint2_L/GameSkeletonhair_polyToCurve1Joint3_L/GameSkeletonhair_polyToCurve1Joint4_L/GameSkeletonhair_polyToCurve1Joint5_L/GameSkeletonhair_polyToCurve1Joint6_L/GameSkeletonhair_polyToCurve1Joint7_L/GameSkeletonhair_polyToCurve1Joint8_L/GameSkeletonhair_polyToCurve1Joint9_L/GameSkeletonhair_polyToCurve1Joint10_L/GameSkeletonhair_polyToCurve1Joint11_L/GameSkeletonhair_polyToCurve1Joint12_L/GameSkeletonhair_polyToCurve1Joint13_L/GameSkeletonhair_polyToCurve1Joint14_L/GameSkeletonhair_polyToCurve1Joint15_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve1Joint0_L/GameSkeletonhair_polyToCurve1Joint1_L/GameSkeletonhair_polyToCurve1Joint2_L/GameSkeletonhair_polyToCurve1Joint3_L/GameSkeletonhair_polyToCurve1Joint4_L/GameSkeletonhair_polyToCurve1Joint5_L/GameSkeletonhair_polyToCurve1Joint6_L/GameSkeletonhair_polyToCurve1Joint7_L/GameSkeletonhair_polyToCurve1Joint8_L/GameSkeletonhair_polyToCurve1Joint9_L/GameSkeletonhair_polyToCurve1Joint10_L/GameSkeletonhair_polyToCurve1Joint11_L/GameSkeletonhair_polyToCurve1Joint12_L/GameSkeletonhair_polyToCurve1Joint13_L/GameSkeletonhair_polyToCurve1Joint14_L/GameSkeletonhair_polyToCurve1Joint15_L/GameSkeletonhair_polyToCurve1Joint15_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve1Joint0_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve1Joint0_R/GameSkeletonhair_polyToCurve1Joint1_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve1Joint0_R/GameSkeletonhair_polyToCurve1Joint1_R/GameSkeletonhair_polyToCurve1Joint2_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve1Joint0_R/GameSkeletonhair_polyToCurve1Joint1_R/GameSkeletonhair_polyToCurve1Joint2_R/GameSkeletonhair_polyToCurve1Joint3_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve1Joint0_R/GameSkeletonhair_polyToCurve1Joint1_R/GameSkeletonhair_polyToCurve1Joint2_R/GameSkeletonhair_polyToCurve1Joint3_R/GameSkeletonhair_polyToCurve1Joint4_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve1Joint0_R/GameSkeletonhair_polyToCurve1Joint1_R/GameSkeletonhair_polyToCurve1Joint2_R/GameSkeletonhair_polyToCurve1Joint3_R/GameSkeletonhair_polyToCurve1Joint4_R/GameSkeletonhair_polyToCurve1Joint5_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve1Joint0_R/GameSkeletonhair_polyToCurve1Joint1_R/GameSkeletonhair_polyToCurve1Joint2_R/GameSkeletonhair_polyToCurve1Joint3_R/GameSkeletonhair_polyToCurve1Joint4_R/GameSkeletonhair_polyToCurve1Joint5_R/GameSkeletonhair_polyToCurve1Joint6_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve1Joint0_R/GameSkeletonhair_polyToCurve1Joint1_R/GameSkeletonhair_polyToCurve1Joint2_R/GameSkeletonhair_polyToCurve1Joint3_R/GameSkeletonhair_polyToCurve1Joint4_R/GameSkeletonhair_polyToCurve1Joint5_R/GameSkeletonhair_polyToCurve1Joint6_R/GameSkeletonhair_polyToCurve1Joint7_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve1Joint0_R/GameSkeletonhair_polyToCurve1Joint1_R/GameSkeletonhair_polyToCurve1Joint2_R/GameSkeletonhair_polyToCurve1Joint3_R/GameSkeletonhair_polyToCurve1Joint4_R/GameSkeletonhair_polyToCurve1Joint5_R/GameSkeletonhair_polyToCurve1Joint6_R/GameSkeletonhair_polyToCurve1Joint7_R/GameSkeletonhair_polyToCurve1Joint8_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve1Joint0_R/GameSkeletonhair_polyToCurve1Joint1_R/GameSkeletonhair_polyToCurve1Joint2_R/GameSkeletonhair_polyToCurve1Joint3_R/GameSkeletonhair_polyToCurve1Joint4_R/GameSkeletonhair_polyToCurve1Joint5_R/GameSkeletonhair_polyToCurve1Joint6_R/GameSkeletonhair_polyToCurve1Joint7_R/GameSkeletonhair_polyToCurve1Joint8_R/GameSkeletonhair_polyToCurve1Joint9_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve1Joint0_R/GameSkeletonhair_polyToCurve1Joint1_R/GameSkeletonhair_polyToCurve1Joint2_R/GameSkeletonhair_polyToCurve1Joint3_R/GameSkeletonhair_polyToCurve1Joint4_R/GameSkeletonhair_polyToCurve1Joint5_R/GameSkeletonhair_polyToCurve1Joint6_R/GameSkeletonhair_polyToCurve1Joint7_R/GameSkeletonhair_polyToCurve1Joint8_R/GameSkeletonhair_polyToCurve1Joint9_R/GameSkeletonhair_polyToCurve1Joint10_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve1Joint0_R/GameSkeletonhair_polyToCurve1Joint1_R/GameSkeletonhair_polyToCurve1Joint2_R/GameSkeletonhair_polyToCurve1Joint3_R/GameSkeletonhair_polyToCurve1Joint4_R/GameSkeletonhair_polyToCurve1Joint5_R/GameSkeletonhair_polyToCurve1Joint6_R/GameSkeletonhair_polyToCurve1Joint7_R/GameSkeletonhair_polyToCurve1Joint8_R/GameSkeletonhair_polyToCurve1Joint9_R/GameSkeletonhair_polyToCurve1Joint10_R/GameSkeletonhair_polyToCurve1Joint11_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve1Joint0_R/GameSkeletonhair_polyToCurve1Joint1_R/GameSkeletonhair_polyToCurve1Joint2_R/GameSkeletonhair_polyToCurve1Joint3_R/GameSkeletonhair_polyToCurve1Joint4_R/GameSkeletonhair_polyToCurve1Joint5_R/GameSkeletonhair_polyToCurve1Joint6_R/GameSkeletonhair_polyToCurve1Joint7_R/GameSkeletonhair_polyToCurve1Joint8_R/GameSkeletonhair_polyToCurve1Joint9_R/GameSkeletonhair_polyToCurve1Joint10_R/GameSkeletonhair_polyToCurve1Joint11_R/GameSkeletonhair_polyToCurve1Joint12_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve1Joint0_R/GameSkeletonhair_polyToCurve1Joint1_R/GameSkeletonhair_polyToCurve1Joint2_R/GameSkeletonhair_polyToCurve1Joint3_R/GameSkeletonhair_polyToCurve1Joint4_R/GameSkeletonhair_polyToCurve1Joint5_R/GameSkeletonhair_polyToCurve1Joint6_R/GameSkeletonhair_polyToCurve1Joint7_R/GameSkeletonhair_polyToCurve1Joint8_R/GameSkeletonhair_polyToCurve1Joint9_R/GameSkeletonhair_polyToCurve1Joint10_R/GameSkeletonhair_polyToCurve1Joint11_R/GameSkeletonhair_polyToCurve1Joint12_R/GameSkeletonhair_polyToCurve1Joint13_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve1Joint0_R/GameSkeletonhair_polyToCurve1Joint1_R/GameSkeletonhair_polyToCurve1Joint2_R/GameSkeletonhair_polyToCurve1Joint3_R/GameSkeletonhair_polyToCurve1Joint4_R/GameSkeletonhair_polyToCurve1Joint5_R/GameSkeletonhair_polyToCurve1Joint6_R/GameSkeletonhair_polyToCurve1Joint7_R/GameSkeletonhair_polyToCurve1Joint8_R/GameSkeletonhair_polyToCurve1Joint9_R/GameSkeletonhair_polyToCurve1Joint10_R/GameSkeletonhair_polyToCurve1Joint11_R/GameSkeletonhair_polyToCurve1Joint12_R/GameSkeletonhair_polyToCurve1Joint13_R/GameSkeletonhair_polyToCurve1Joint14_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve1Joint0_R/GameSkeletonhair_polyToCurve1Joint1_R/GameSkeletonhair_polyToCurve1Joint2_R/GameSkeletonhair_polyToCurve1Joint3_R/GameSkeletonhair_polyToCurve1Joint4_R/GameSkeletonhair_polyToCurve1Joint5_R/GameSkeletonhair_polyToCurve1Joint6_R/GameSkeletonhair_polyToCurve1Joint7_R/GameSkeletonhair_polyToCurve1Joint8_R/GameSkeletonhair_polyToCurve1Joint9_R/GameSkeletonhair_polyToCurve1Joint10_R/GameSkeletonhair_polyToCurve1Joint11_R/GameSkeletonhair_polyToCurve1Joint12_R/GameSkeletonhair_polyToCurve1Joint13_R/GameSkeletonhair_polyToCurve1Joint14_R/GameSkeletonhair_polyToCurve1Joint15_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve1Joint0_R/GameSkeletonhair_polyToCurve1Joint1_R/GameSkeletonhair_polyToCurve1Joint2_R/GameSkeletonhair_polyToCurve1Joint3_R/GameSkeletonhair_polyToCurve1Joint4_R/GameSkeletonhair_polyToCurve1Joint5_R/GameSkeletonhair_polyToCurve1Joint6_R/GameSkeletonhair_polyToCurve1Joint7_R/GameSkeletonhair_polyToCurve1Joint8_R/GameSkeletonhair_polyToCurve1Joint9_R/GameSkeletonhair_polyToCurve1Joint10_R/GameSkeletonhair_polyToCurve1Joint11_R/GameSkeletonhair_polyToCurve1Joint12_R/GameSkeletonhair_polyToCurve1Joint13_R/GameSkeletonhair_polyToCurve1Joint14_R/GameSkeletonhair_polyToCurve1Joint15_R/GameSkeletonhair_polyToCurve1Joint15_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve2Joint15_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve2Joint15_L/GameSkeletonhair_polyToCurve2Joint14_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve2Joint15_L/GameSkeletonhair_polyToCurve2Joint14_L/GameSkeletonhair_polyToCurve2Joint13_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve2Joint15_L/GameSkeletonhair_polyToCurve2Joint14_L/GameSkeletonhair_polyToCurve2Joint13_L/GameSkeletonhair_polyToCurve2Joint12_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve2Joint15_L/GameSkeletonhair_polyToCurve2Joint14_L/GameSkeletonhair_polyToCurve2Joint13_L/GameSkeletonhair_polyToCurve2Joint12_L/GameSkeletonhair_polyToCurve2Joint11_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve2Joint15_L/GameSkeletonhair_polyToCurve2Joint14_L/GameSkeletonhair_polyToCurve2Joint13_L/GameSkeletonhair_polyToCurve2Joint12_L/GameSkeletonhair_polyToCurve2Joint11_L/GameSkeletonhair_polyToCurve2Joint10_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve2Joint15_L/GameSkeletonhair_polyToCurve2Joint14_L/GameSkeletonhair_polyToCurve2Joint13_L/GameSkeletonhair_polyToCurve2Joint12_L/GameSkeletonhair_polyToCurve2Joint11_L/GameSkeletonhair_polyToCurve2Joint10_L/GameSkeletonhair_polyToCurve2Joint9_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve2Joint15_L/GameSkeletonhair_polyToCurve2Joint14_L/GameSkeletonhair_polyToCurve2Joint13_L/GameSkeletonhair_polyToCurve2Joint12_L/GameSkeletonhair_polyToCurve2Joint11_L/GameSkeletonhair_polyToCurve2Joint10_L/GameSkeletonhair_polyToCurve2Joint9_L/GameSkeletonhair_polyToCurve2Joint8_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve2Joint15_L/GameSkeletonhair_polyToCurve2Joint14_L/GameSkeletonhair_polyToCurve2Joint13_L/GameSkeletonhair_polyToCurve2Joint12_L/GameSkeletonhair_polyToCurve2Joint11_L/GameSkeletonhair_polyToCurve2Joint10_L/GameSkeletonhair_polyToCurve2Joint9_L/GameSkeletonhair_polyToCurve2Joint8_L/GameSkeletonhair_polyToCurve2Joint7_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve2Joint15_L/GameSkeletonhair_polyToCurve2Joint14_L/GameSkeletonhair_polyToCurve2Joint13_L/GameSkeletonhair_polyToCurve2Joint12_L/GameSkeletonhair_polyToCurve2Joint11_L/GameSkeletonhair_polyToCurve2Joint10_L/GameSkeletonhair_polyToCurve2Joint9_L/GameSkeletonhair_polyToCurve2Joint8_L/GameSkeletonhair_polyToCurve2Joint7_L/GameSkeletonhair_polyToCurve2Joint6_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve2Joint15_L/GameSkeletonhair_polyToCurve2Joint14_L/GameSkeletonhair_polyToCurve2Joint13_L/GameSkeletonhair_polyToCurve2Joint12_L/GameSkeletonhair_polyToCurve2Joint11_L/GameSkeletonhair_polyToCurve2Joint10_L/GameSkeletonhair_polyToCurve2Joint9_L/GameSkeletonhair_polyToCurve2Joint8_L/GameSkeletonhair_polyToCurve2Joint7_L/GameSkeletonhair_polyToCurve2Joint6_L/GameSkeletonhair_polyToCurve2Joint5_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve2Joint15_L/GameSkeletonhair_polyToCurve2Joint14_L/GameSkeletonhair_polyToCurve2Joint13_L/GameSkeletonhair_polyToCurve2Joint12_L/GameSkeletonhair_polyToCurve2Joint11_L/GameSkeletonhair_polyToCurve2Joint10_L/GameSkeletonhair_polyToCurve2Joint9_L/GameSkeletonhair_polyToCurve2Joint8_L/GameSkeletonhair_polyToCurve2Joint7_L/GameSkeletonhair_polyToCurve2Joint6_L/GameSkeletonhair_polyToCurve2Joint5_L/GameSkeletonhair_polyToCurve2Joint4_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve2Joint15_L/GameSkeletonhair_polyToCurve2Joint14_L/GameSkeletonhair_polyToCurve2Joint13_L/GameSkeletonhair_polyToCurve2Joint12_L/GameSkeletonhair_polyToCurve2Joint11_L/GameSkeletonhair_polyToCurve2Joint10_L/GameSkeletonhair_polyToCurve2Joint9_L/GameSkeletonhair_polyToCurve2Joint8_L/GameSkeletonhair_polyToCurve2Joint7_L/GameSkeletonhair_polyToCurve2Joint6_L/GameSkeletonhair_polyToCurve2Joint5_L/GameSkeletonhair_polyToCurve2Joint4_L/GameSkeletonhair_polyToCurve2Joint3_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve2Joint15_L/GameSkeletonhair_polyToCurve2Joint14_L/GameSkeletonhair_polyToCurve2Joint13_L/GameSkeletonhair_polyToCurve2Joint12_L/GameSkeletonhair_polyToCurve2Joint11_L/GameSkeletonhair_polyToCurve2Joint10_L/GameSkeletonhair_polyToCurve2Joint9_L/GameSkeletonhair_polyToCurve2Joint8_L/GameSkeletonhair_polyToCurve2Joint7_L/GameSkeletonhair_polyToCurve2Joint6_L/GameSkeletonhair_polyToCurve2Joint5_L/GameSkeletonhair_polyToCurve2Joint4_L/GameSkeletonhair_polyToCurve2Joint3_L/GameSkeletonhair_polyToCurve2Joint2_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve2Joint15_L/GameSkeletonhair_polyToCurve2Joint14_L/GameSkeletonhair_polyToCurve2Joint13_L/GameSkeletonhair_polyToCurve2Joint12_L/GameSkeletonhair_polyToCurve2Joint11_L/GameSkeletonhair_polyToCurve2Joint10_L/GameSkeletonhair_polyToCurve2Joint9_L/GameSkeletonhair_polyToCurve2Joint8_L/GameSkeletonhair_polyToCurve2Joint7_L/GameSkeletonhair_polyToCurve2Joint6_L/GameSkeletonhair_polyToCurve2Joint5_L/GameSkeletonhair_polyToCurve2Joint4_L/GameSkeletonhair_polyToCurve2Joint3_L/GameSkeletonhair_polyToCurve2Joint2_L/GameSkeletonhair_polyToCurve2Joint1_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve2Joint15_L/GameSkeletonhair_polyToCurve2Joint14_L/GameSkeletonhair_polyToCurve2Joint13_L/GameSkeletonhair_polyToCurve2Joint12_L/GameSkeletonhair_polyToCurve2Joint11_L/GameSkeletonhair_polyToCurve2Joint10_L/GameSkeletonhair_polyToCurve2Joint9_L/GameSkeletonhair_polyToCurve2Joint8_L/GameSkeletonhair_polyToCurve2Joint7_L/GameSkeletonhair_polyToCurve2Joint6_L/GameSkeletonhair_polyToCurve2Joint5_L/GameSkeletonhair_polyToCurve2Joint4_L/GameSkeletonhair_polyToCurve2Joint3_L/GameSkeletonhair_polyToCurve2Joint2_L/GameSkeletonhair_polyToCurve2Joint1_L/GameSkeletonhair_polyToCurve2Joint0_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve2Joint15_L/GameSkeletonhair_polyToCurve2Joint14_L/GameSkeletonhair_polyToCurve2Joint13_L/GameSkeletonhair_polyToCurve2Joint12_L/GameSkeletonhair_polyToCurve2Joint11_L/GameSkeletonhair_polyToCurve2Joint10_L/GameSkeletonhair_polyToCurve2Joint9_L/GameSkeletonhair_polyToCurve2Joint8_L/GameSkeletonhair_polyToCurve2Joint7_L/GameSkeletonhair_polyToCurve2Joint6_L/GameSkeletonhair_polyToCurve2Joint5_L/GameSkeletonhair_polyToCurve2Joint4_L/GameSkeletonhair_polyToCurve2Joint3_L/GameSkeletonhair_polyToCurve2Joint2_L/GameSkeletonhair_polyToCurve2Joint1_L/GameSkeletonhair_polyToCurve2Joint0_L/GameSkeletonhair_polyToCurve2Joint0_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve2Joint15_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve2Joint15_R/GameSkeletonhair_polyToCurve2Joint14_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve2Joint15_R/GameSkeletonhair_polyToCurve2Joint14_R/GameSkeletonhair_polyToCurve2Joint13_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve2Joint15_R/GameSkeletonhair_polyToCurve2Joint14_R/GameSkeletonhair_polyToCurve2Joint13_R/GameSkeletonhair_polyToCurve2Joint12_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve2Joint15_R/GameSkeletonhair_polyToCurve2Joint14_R/GameSkeletonhair_polyToCurve2Joint13_R/GameSkeletonhair_polyToCurve2Joint12_R/GameSkeletonhair_polyToCurve2Joint11_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve2Joint15_R/GameSkeletonhair_polyToCurve2Joint14_R/GameSkeletonhair_polyToCurve2Joint13_R/GameSkeletonhair_polyToCurve2Joint12_R/GameSkeletonhair_polyToCurve2Joint11_R/GameSkeletonhair_polyToCurve2Joint10_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve2Joint15_R/GameSkeletonhair_polyToCurve2Joint14_R/GameSkeletonhair_polyToCurve2Joint13_R/GameSkeletonhair_polyToCurve2Joint12_R/GameSkeletonhair_polyToCurve2Joint11_R/GameSkeletonhair_polyToCurve2Joint10_R/GameSkeletonhair_polyToCurve2Joint9_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve2Joint15_R/GameSkeletonhair_polyToCurve2Joint14_R/GameSkeletonhair_polyToCurve2Joint13_R/GameSkeletonhair_polyToCurve2Joint12_R/GameSkeletonhair_polyToCurve2Joint11_R/GameSkeletonhair_polyToCurve2Joint10_R/GameSkeletonhair_polyToCurve2Joint9_R/GameSkeletonhair_polyToCurve2Joint8_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve2Joint15_R/GameSkeletonhair_polyToCurve2Joint14_R/GameSkeletonhair_polyToCurve2Joint13_R/GameSkeletonhair_polyToCurve2Joint12_R/GameSkeletonhair_polyToCurve2Joint11_R/GameSkeletonhair_polyToCurve2Joint10_R/GameSkeletonhair_polyToCurve2Joint9_R/GameSkeletonhair_polyToCurve2Joint8_R/GameSkeletonhair_polyToCurve2Joint7_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve2Joint15_R/GameSkeletonhair_polyToCurve2Joint14_R/GameSkeletonhair_polyToCurve2Joint13_R/GameSkeletonhair_polyToCurve2Joint12_R/GameSkeletonhair_polyToCurve2Joint11_R/GameSkeletonhair_polyToCurve2Joint10_R/GameSkeletonhair_polyToCurve2Joint9_R/GameSkeletonhair_polyToCurve2Joint8_R/GameSkeletonhair_polyToCurve2Joint7_R/GameSkeletonhair_polyToCurve2Joint6_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve2Joint15_R/GameSkeletonhair_polyToCurve2Joint14_R/GameSkeletonhair_polyToCurve2Joint13_R/GameSkeletonhair_polyToCurve2Joint12_R/GameSkeletonhair_polyToCurve2Joint11_R/GameSkeletonhair_polyToCurve2Joint10_R/GameSkeletonhair_polyToCurve2Joint9_R/GameSkeletonhair_polyToCurve2Joint8_R/GameSkeletonhair_polyToCurve2Joint7_R/GameSkeletonhair_polyToCurve2Joint6_R/GameSkeletonhair_polyToCurve2Joint5_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve2Joint15_R/GameSkeletonhair_polyToCurve2Joint14_R/GameSkeletonhair_polyToCurve2Joint13_R/GameSkeletonhair_polyToCurve2Joint12_R/GameSkeletonhair_polyToCurve2Joint11_R/GameSkeletonhair_polyToCurve2Joint10_R/GameSkeletonhair_polyToCurve2Joint9_R/GameSkeletonhair_polyToCurve2Joint8_R/GameSkeletonhair_polyToCurve2Joint7_R/GameSkeletonhair_polyToCurve2Joint6_R/GameSkeletonhair_polyToCurve2Joint5_R/GameSkeletonhair_polyToCurve2Joint4_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve2Joint15_R/GameSkeletonhair_polyToCurve2Joint14_R/GameSkeletonhair_polyToCurve2Joint13_R/GameSkeletonhair_polyToCurve2Joint12_R/GameSkeletonhair_polyToCurve2Joint11_R/GameSkeletonhair_polyToCurve2Joint10_R/GameSkeletonhair_polyToCurve2Joint9_R/GameSkeletonhair_polyToCurve2Joint8_R/GameSkeletonhair_polyToCurve2Joint7_R/GameSkeletonhair_polyToCurve2Joint6_R/GameSkeletonhair_polyToCurve2Joint5_R/GameSkeletonhair_polyToCurve2Joint4_R/GameSkeletonhair_polyToCurve2Joint3_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve2Joint15_R/GameSkeletonhair_polyToCurve2Joint14_R/GameSkeletonhair_polyToCurve2Joint13_R/GameSkeletonhair_polyToCurve2Joint12_R/GameSkeletonhair_polyToCurve2Joint11_R/GameSkeletonhair_polyToCurve2Joint10_R/GameSkeletonhair_polyToCurve2Joint9_R/GameSkeletonhair_polyToCurve2Joint8_R/GameSkeletonhair_polyToCurve2Joint7_R/GameSkeletonhair_polyToCurve2Joint6_R/GameSkeletonhair_polyToCurve2Joint5_R/GameSkeletonhair_polyToCurve2Joint4_R/GameSkeletonhair_polyToCurve2Joint3_R/GameSkeletonhair_polyToCurve2Joint2_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve2Joint15_R/GameSkeletonhair_polyToCurve2Joint14_R/GameSkeletonhair_polyToCurve2Joint13_R/GameSkeletonhair_polyToCurve2Joint12_R/GameSkeletonhair_polyToCurve2Joint11_R/GameSkeletonhair_polyToCurve2Joint10_R/GameSkeletonhair_polyToCurve2Joint9_R/GameSkeletonhair_polyToCurve2Joint8_R/GameSkeletonhair_polyToCurve2Joint7_R/GameSkeletonhair_polyToCurve2Joint6_R/GameSkeletonhair_polyToCurve2Joint5_R/GameSkeletonhair_polyToCurve2Joint4_R/GameSkeletonhair_polyToCurve2Joint3_R/GameSkeletonhair_polyToCurve2Joint2_R/GameSkeletonhair_polyToCurve2Joint1_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve2Joint15_R/GameSkeletonhair_polyToCurve2Joint14_R/GameSkeletonhair_polyToCurve2Joint13_R/GameSkeletonhair_polyToCurve2Joint12_R/GameSkeletonhair_polyToCurve2Joint11_R/GameSkeletonhair_polyToCurve2Joint10_R/GameSkeletonhair_polyToCurve2Joint9_R/GameSkeletonhair_polyToCurve2Joint8_R/GameSkeletonhair_polyToCurve2Joint7_R/GameSkeletonhair_polyToCurve2Joint6_R/GameSkeletonhair_polyToCurve2Joint5_R/GameSkeletonhair_polyToCurve2Joint4_R/GameSkeletonhair_polyToCurve2Joint3_R/GameSkeletonhair_polyToCurve2Joint2_R/GameSkeletonhair_polyToCurve2Joint1_R/GameSkeletonhair_polyToCurve2Joint0_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonhair_polyToCurve2Joint15_R/GameSkeletonhair_polyToCurve2Joint14_R/GameSkeletonhair_polyToCurve2Joint13_R/GameSkeletonhair_polyToCurve2Joint12_R/GameSkeletonhair_polyToCurve2Joint11_R/GameSkeletonhair_polyToCurve2Joint10_R/GameSkeletonhair_polyToCurve2Joint9_R/GameSkeletonhair_polyToCurve2Joint8_R/GameSkeletonhair_polyToCurve2Joint7_R/GameSkeletonhair_polyToCurve2Joint6_R/GameSkeletonhair_polyToCurve2Joint5_R/GameSkeletonhair_polyToCurve2Joint4_R/GameSkeletonhair_polyToCurve2Joint3_R/GameSkeletonhair_polyToCurve2Joint2_R/GameSkeletonhair_polyToCurve2Joint1_R/GameSkeletonhair_polyToCurve2Joint0_R/GameSkeletonhair_polyToCurve2Joint0_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonHeadEnd_M
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonHeadEnd_M/GameSkeletonHeadEnd_M_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonjoint15_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonjoint15_L/GameSkeletonjoint16_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonjoint15_L/GameSkeletonjoint16_L/GameSkeletonjoint17_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonjoint15_L/GameSkeletonjoint16_L/GameSkeletonjoint17_L/GameSkeletonjoint18_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonjoint15_L/GameSkeletonjoint16_L/GameSkeletonjoint17_L/GameSkeletonjoint18_L/GameSkeletonjoint19_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonjoint15_L/GameSkeletonjoint16_L/GameSkeletonjoint17_L/GameSkeletonjoint18_L/GameSkeletonjoint19_L/GameSkeletonjoint20_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonjoint15_L/GameSkeletonjoint16_L/GameSkeletonjoint17_L/GameSkeletonjoint18_L/GameSkeletonjoint19_L/GameSkeletonjoint20_L/GameSkeletonjoint21_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonjoint15_L/GameSkeletonjoint16_L/GameSkeletonjoint17_L/GameSkeletonjoint18_L/GameSkeletonjoint19_L/GameSkeletonjoint20_L/GameSkeletonjoint21_L/GameSkeletonjoint22_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonjoint15_L/GameSkeletonjoint16_L/GameSkeletonjoint17_L/GameSkeletonjoint18_L/GameSkeletonjoint19_L/GameSkeletonjoint20_L/GameSkeletonjoint21_L/GameSkeletonjoint22_L/GameSkeletonjoint23_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonjoint15_L/GameSkeletonjoint16_L/GameSkeletonjoint17_L/GameSkeletonjoint18_L/GameSkeletonjoint19_L/GameSkeletonjoint20_L/GameSkeletonjoint21_L/GameSkeletonjoint22_L/GameSkeletonjoint23_L/GameSkeletonjoint24_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonjoint15_L/GameSkeletonjoint16_L/GameSkeletonjoint17_L/GameSkeletonjoint18_L/GameSkeletonjoint19_L/GameSkeletonjoint20_L/GameSkeletonjoint21_L/GameSkeletonjoint22_L/GameSkeletonjoint23_L/GameSkeletonjoint24_L/GameSkeletonjoint24_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonjoint15_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonjoint15_R/GameSkeletonjoint16_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonjoint15_R/GameSkeletonjoint16_R/GameSkeletonjoint17_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonjoint15_R/GameSkeletonjoint16_R/GameSkeletonjoint17_R/GameSkeletonjoint18_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonjoint15_R/GameSkeletonjoint16_R/GameSkeletonjoint17_R/GameSkeletonjoint18_R/GameSkeletonjoint19_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonjoint15_R/GameSkeletonjoint16_R/GameSkeletonjoint17_R/GameSkeletonjoint18_R/GameSkeletonjoint19_R/GameSkeletonjoint20_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonjoint15_R/GameSkeletonjoint16_R/GameSkeletonjoint17_R/GameSkeletonjoint18_R/GameSkeletonjoint19_R/GameSkeletonjoint20_R/GameSkeletonjoint21_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonjoint15_R/GameSkeletonjoint16_R/GameSkeletonjoint17_R/GameSkeletonjoint18_R/GameSkeletonjoint19_R/GameSkeletonjoint20_R/GameSkeletonjoint21_R/GameSkeletonjoint22_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonjoint15_R/GameSkeletonjoint16_R/GameSkeletonjoint17_R/GameSkeletonjoint18_R/GameSkeletonjoint19_R/GameSkeletonjoint20_R/GameSkeletonjoint21_R/GameSkeletonjoint22_R/GameSkeletonjoint23_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonjoint15_R/GameSkeletonjoint16_R/GameSkeletonjoint17_R/GameSkeletonjoint18_R/GameSkeletonjoint19_R/GameSkeletonjoint20_R/GameSkeletonjoint21_R/GameSkeletonjoint22_R/GameSkeletonjoint23_R/GameSkeletonjoint24_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonjoint15_R/GameSkeletonjoint16_R/GameSkeletonjoint17_R/GameSkeletonjoint18_R/GameSkeletonjoint19_R/GameSkeletonjoint20_R/GameSkeletonjoint21_R/GameSkeletonjoint22_R/GameSkeletonjoint23_R/GameSkeletonjoint24_R/GameSkeletonjoint24_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonjoint25_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonjoint25_L/GameSkeletonjoint26_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonjoint25_L/GameSkeletonjoint26_L/GameSkeletonjoint27_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonjoint25_L/GameSkeletonjoint26_L/GameSkeletonjoint27_L/GameSkeletonjoint28_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonNeck_M/GameSkeletonNeckPart1_M/GameSkeletonHead_M/GameSkeletonjoint25_L/GameSkeletonjoint26_L/GameSkeletonjoint27_L/GameSkeletonjoint28_L/GameSkeletonjoint28_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonElbow_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonElbow_L/GameSkeletonElbowPart1_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonElbow_L/GameSkeletonElbowPart1_L/GameSkeletonWrist_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonElbow_L/GameSkeletonElbowPart1_L/GameSkeletonWrist_L/GameSkeletonCup_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonElbow_L/GameSkeletonElbowPart1_L/GameSkeletonWrist_L/GameSkeletonCup_L/GameSkeletonPinkyFinger1_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonElbow_L/GameSkeletonElbowPart1_L/GameSkeletonWrist_L/GameSkeletonCup_L/GameSkeletonPinkyFinger1_L/GameSkeletonPinkyFinger2_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonElbow_L/GameSkeletonElbowPart1_L/GameSkeletonWrist_L/GameSkeletonCup_L/GameSkeletonPinkyFinger1_L/GameSkeletonPinkyFinger2_L/GameSkeletonPinkyFinger3_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonElbow_L/GameSkeletonElbowPart1_L/GameSkeletonWrist_L/GameSkeletonCup_L/GameSkeletonPinkyFinger1_L/GameSkeletonPinkyFinger2_L/GameSkeletonPinkyFinger3_L/GameSkeletonPinkyFinger4_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonElbow_L/GameSkeletonElbowPart1_L/GameSkeletonWrist_L/GameSkeletonCup_L/GameSkeletonPinkyFinger1_L/GameSkeletonPinkyFinger2_L/GameSkeletonPinkyFinger3_L/GameSkeletonPinkyFinger4_L/GameSkeletonPinkyFinger4_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonElbow_L/GameSkeletonElbowPart1_L/GameSkeletonWrist_L/GameSkeletonCup_L/GameSkeletonRingFinger1_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonElbow_L/GameSkeletonElbowPart1_L/GameSkeletonWrist_L/GameSkeletonCup_L/GameSkeletonRingFinger1_L/GameSkeletonRingFinger2_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonElbow_L/GameSkeletonElbowPart1_L/GameSkeletonWrist_L/GameSkeletonCup_L/GameSkeletonRingFinger1_L/GameSkeletonRingFinger2_L/GameSkeletonRingFinger3_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonElbow_L/GameSkeletonElbowPart1_L/GameSkeletonWrist_L/GameSkeletonCup_L/GameSkeletonRingFinger1_L/GameSkeletonRingFinger2_L/GameSkeletonRingFinger3_L/GameSkeletonRingFinger4_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonElbow_L/GameSkeletonElbowPart1_L/GameSkeletonWrist_L/GameSkeletonCup_L/GameSkeletonRingFinger1_L/GameSkeletonRingFinger2_L/GameSkeletonRingFinger3_L/GameSkeletonRingFinger4_L/GameSkeletonRingFinger4_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonElbow_L/GameSkeletonElbowPart1_L/GameSkeletonWrist_L/GameSkeletonIndexFinger1_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonElbow_L/GameSkeletonElbowPart1_L/GameSkeletonWrist_L/GameSkeletonIndexFinger1_L/GameSkeletonIndexFinger2_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonElbow_L/GameSkeletonElbowPart1_L/GameSkeletonWrist_L/GameSkeletonIndexFinger1_L/GameSkeletonIndexFinger2_L/GameSkeletonIndexFinger3_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonElbow_L/GameSkeletonElbowPart1_L/GameSkeletonWrist_L/GameSkeletonIndexFinger1_L/GameSkeletonIndexFinger2_L/GameSkeletonIndexFinger3_L/GameSkeletonIndexFinger4_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonElbow_L/GameSkeletonElbowPart1_L/GameSkeletonWrist_L/GameSkeletonIndexFinger1_L/GameSkeletonIndexFinger2_L/GameSkeletonIndexFinger3_L/GameSkeletonIndexFinger4_L/GameSkeletonIndexFinger4_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonElbow_L/GameSkeletonElbowPart1_L/GameSkeletonWrist_L/GameSkeletonMiddleFinger1_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonElbow_L/GameSkeletonElbowPart1_L/GameSkeletonWrist_L/GameSkeletonMiddleFinger1_L/GameSkeletonMiddleFinger2_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonElbow_L/GameSkeletonElbowPart1_L/GameSkeletonWrist_L/GameSkeletonMiddleFinger1_L/GameSkeletonMiddleFinger2_L/GameSkeletonMiddleFinger3_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonElbow_L/GameSkeletonElbowPart1_L/GameSkeletonWrist_L/GameSkeletonMiddleFinger1_L/GameSkeletonMiddleFinger2_L/GameSkeletonMiddleFinger3_L/GameSkeletonMiddleFinger4_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonElbow_L/GameSkeletonElbowPart1_L/GameSkeletonWrist_L/GameSkeletonMiddleFinger1_L/GameSkeletonMiddleFinger2_L/GameSkeletonMiddleFinger3_L/GameSkeletonMiddleFinger4_L/GameSkeletonMiddleFinger4_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonElbow_L/GameSkeletonElbowPart1_L/GameSkeletonWrist_L/GameSkeletonThumbFinger1_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonElbow_L/GameSkeletonElbowPart1_L/GameSkeletonWrist_L/GameSkeletonThumbFinger1_L/GameSkeletonThumbFinger2_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonElbow_L/GameSkeletonElbowPart1_L/GameSkeletonWrist_L/GameSkeletonThumbFinger1_L/GameSkeletonThumbFinger2_L/GameSkeletonThumbFinger3_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonElbow_L/GameSkeletonElbowPart1_L/GameSkeletonWrist_L/GameSkeletonThumbFinger1_L/GameSkeletonThumbFinger2_L/GameSkeletonThumbFinger3_L/GameSkeletonThumbFinger4_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonElbow_L/GameSkeletonElbowPart1_L/GameSkeletonWrist_L/GameSkeletonThumbFinger1_L/GameSkeletonThumbFinger2_L/GameSkeletonThumbFinger3_L/GameSkeletonThumbFinger4_L/GameSkeletonThumbFinger4_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonElbowPartial_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonElbowPartial_L/GameSkeletonElbowmiddleSlider0_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonElbowPartial_L/GameSkeletonElbowmiddleSlider0_L/GameSkeletonElbowmiddleSlider0_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonElbowPartial_L/GameSkeletonElbowmiddleSlider2_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonElbowPartial_L/GameSkeletonElbowmiddleSlider2_L/GameSkeletonElbowmiddleSlider2_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonjoint39_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonjoint39_L/GameSkeletonjoint40_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonjoint39_L/GameSkeletonjoint40_L/GameSkeletonjoint41_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonjoint39_L/GameSkeletonjoint40_L/GameSkeletonjoint41_L/GameSkeletonjoint42_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonjoint39_L/GameSkeletonjoint40_L/GameSkeletonjoint41_L/GameSkeletonjoint42_L/GameSkeletonjoint43_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonjoint39_L/GameSkeletonjoint40_L/GameSkeletonjoint41_L/GameSkeletonjoint42_L/GameSkeletonjoint43_L/GameSkeletonjoint44_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_L/GameSkeletonShoulder_L/GameSkeletonShoulderPart1_L/GameSkeletonjoint39_L/GameSkeletonjoint40_L/GameSkeletonjoint41_L/GameSkeletonjoint42_L/GameSkeletonjoint43_L/GameSkeletonjoint44_L/GameSkeletonjoint44_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonElbow_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonElbow_R/GameSkeletonElbowPart1_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonElbow_R/GameSkeletonElbowPart1_R/GameSkeletonWrist_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonElbow_R/GameSkeletonElbowPart1_R/GameSkeletonWrist_R/GameSkeletonCup_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonElbow_R/GameSkeletonElbowPart1_R/GameSkeletonWrist_R/GameSkeletonCup_R/GameSkeletonPinkyFinger1_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonElbow_R/GameSkeletonElbowPart1_R/GameSkeletonWrist_R/GameSkeletonCup_R/GameSkeletonPinkyFinger1_R/GameSkeletonPinkyFinger2_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonElbow_R/GameSkeletonElbowPart1_R/GameSkeletonWrist_R/GameSkeletonCup_R/GameSkeletonPinkyFinger1_R/GameSkeletonPinkyFinger2_R/GameSkeletonPinkyFinger3_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonElbow_R/GameSkeletonElbowPart1_R/GameSkeletonWrist_R/GameSkeletonCup_R/GameSkeletonPinkyFinger1_R/GameSkeletonPinkyFinger2_R/GameSkeletonPinkyFinger3_R/GameSkeletonPinkyFinger4_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonElbow_R/GameSkeletonElbowPart1_R/GameSkeletonWrist_R/GameSkeletonCup_R/GameSkeletonPinkyFinger1_R/GameSkeletonPinkyFinger2_R/GameSkeletonPinkyFinger3_R/GameSkeletonPinkyFinger4_R/GameSkeletonPinkyFinger4_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonElbow_R/GameSkeletonElbowPart1_R/GameSkeletonWrist_R/GameSkeletonCup_R/GameSkeletonRingFinger1_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonElbow_R/GameSkeletonElbowPart1_R/GameSkeletonWrist_R/GameSkeletonCup_R/GameSkeletonRingFinger1_R/GameSkeletonRingFinger2_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonElbow_R/GameSkeletonElbowPart1_R/GameSkeletonWrist_R/GameSkeletonCup_R/GameSkeletonRingFinger1_R/GameSkeletonRingFinger2_R/GameSkeletonRingFinger3_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonElbow_R/GameSkeletonElbowPart1_R/GameSkeletonWrist_R/GameSkeletonCup_R/GameSkeletonRingFinger1_R/GameSkeletonRingFinger2_R/GameSkeletonRingFinger3_R/GameSkeletonRingFinger4_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonElbow_R/GameSkeletonElbowPart1_R/GameSkeletonWrist_R/GameSkeletonCup_R/GameSkeletonRingFinger1_R/GameSkeletonRingFinger2_R/GameSkeletonRingFinger3_R/GameSkeletonRingFinger4_R/GameSkeletonRingFinger4_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonElbow_R/GameSkeletonElbowPart1_R/GameSkeletonWrist_R/GameSkeletonIndexFinger1_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonElbow_R/GameSkeletonElbowPart1_R/GameSkeletonWrist_R/GameSkeletonIndexFinger1_R/GameSkeletonIndexFinger2_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonElbow_R/GameSkeletonElbowPart1_R/GameSkeletonWrist_R/GameSkeletonIndexFinger1_R/GameSkeletonIndexFinger2_R/GameSkeletonIndexFinger3_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonElbow_R/GameSkeletonElbowPart1_R/GameSkeletonWrist_R/GameSkeletonIndexFinger1_R/GameSkeletonIndexFinger2_R/GameSkeletonIndexFinger3_R/GameSkeletonIndexFinger4_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonElbow_R/GameSkeletonElbowPart1_R/GameSkeletonWrist_R/GameSkeletonIndexFinger1_R/GameSkeletonIndexFinger2_R/GameSkeletonIndexFinger3_R/GameSkeletonIndexFinger4_R/GameSkeletonIndexFinger4_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonElbow_R/GameSkeletonElbowPart1_R/GameSkeletonWrist_R/GameSkeletonMiddleFinger1_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonElbow_R/GameSkeletonElbowPart1_R/GameSkeletonWrist_R/GameSkeletonMiddleFinger1_R/GameSkeletonMiddleFinger2_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonElbow_R/GameSkeletonElbowPart1_R/GameSkeletonWrist_R/GameSkeletonMiddleFinger1_R/GameSkeletonMiddleFinger2_R/GameSkeletonMiddleFinger3_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonElbow_R/GameSkeletonElbowPart1_R/GameSkeletonWrist_R/GameSkeletonMiddleFinger1_R/GameSkeletonMiddleFinger2_R/GameSkeletonMiddleFinger3_R/GameSkeletonMiddleFinger4_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonElbow_R/GameSkeletonElbowPart1_R/GameSkeletonWrist_R/GameSkeletonMiddleFinger1_R/GameSkeletonMiddleFinger2_R/GameSkeletonMiddleFinger3_R/GameSkeletonMiddleFinger4_R/GameSkeletonMiddleFinger4_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonElbow_R/GameSkeletonElbowPart1_R/GameSkeletonWrist_R/GameSkeletonThumbFinger1_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonElbow_R/GameSkeletonElbowPart1_R/GameSkeletonWrist_R/GameSkeletonThumbFinger1_R/GameSkeletonThumbFinger2_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonElbow_R/GameSkeletonElbowPart1_R/GameSkeletonWrist_R/GameSkeletonThumbFinger1_R/GameSkeletonThumbFinger2_R/GameSkeletonThumbFinger3_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonElbow_R/GameSkeletonElbowPart1_R/GameSkeletonWrist_R/GameSkeletonThumbFinger1_R/GameSkeletonThumbFinger2_R/GameSkeletonThumbFinger3_R/GameSkeletonThumbFinger4_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonElbow_R/GameSkeletonElbowPart1_R/GameSkeletonWrist_R/GameSkeletonThumbFinger1_R/GameSkeletonThumbFinger2_R/GameSkeletonThumbFinger3_R/GameSkeletonThumbFinger4_R/GameSkeletonThumbFinger4_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonElbowPartial_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonElbowPartial_R/GameSkeletonElbowmiddleSlider0_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonElbowPartial_R/GameSkeletonElbowmiddleSlider0_R/GameSkeletonElbowmiddleSlider0_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonElbowPartial_R/GameSkeletonElbowmiddleSlider2_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonElbowPartial_R/GameSkeletonElbowmiddleSlider2_R/GameSkeletonElbowmiddleSlider2_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonjoint39_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonjoint39_R/GameSkeletonjoint40_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonjoint39_R/GameSkeletonjoint40_R/GameSkeletonjoint41_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonjoint39_R/GameSkeletonjoint40_R/GameSkeletonjoint41_R/GameSkeletonjoint42_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonjoint39_R/GameSkeletonjoint40_R/GameSkeletonjoint41_R/GameSkeletonjoint42_R/GameSkeletonjoint43_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonjoint39_R/GameSkeletonjoint40_R/GameSkeletonjoint41_R/GameSkeletonjoint42_R/GameSkeletonjoint43_R/GameSkeletonjoint44_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/GameSkeletonScapula_R/GameSkeletonShoulder_R/GameSkeletonShoulderPart1_R/GameSkeletonjoint39_R/GameSkeletonjoint40_R/GameSkeletonjoint41_R/GameSkeletonjoint42_R/GameSkeletonjoint43_R/GameSkeletonjoint44_R/GameSkeletonjoint44_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/Ribbon
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/Ribbon/Ribbon_joint01.L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/Ribbon/Ribbon_joint01.L/Ribbon_joint02.L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/Ribbon/Ribbon_joint01.L/Ribbon_joint02.L/Ribbon_joint03.L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/Ribbon/Ribbon_joint01.L/Ribbon_joint02.L/Ribbon_joint03.L/Ribbon_joint04.L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/Ribbon/Ribbon_joint01.L/Ribbon_joint02.L/Ribbon_joint03.L/Ribbon_joint04.L/Ribbon_joint04.L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/Ribbon/Ribbon_joint01.L.001
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/Ribbon/Ribbon_joint01.L.001/Ribbon_joint01.L.001_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/Ribbon/Ribbon_joint01.R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/Ribbon/Ribbon_joint01.R/Ribbon_joint02.R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/Ribbon/Ribbon_joint01.R/Ribbon_joint02.R/Ribbon_joint03.R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/Ribbon/Ribbon_joint01.R/Ribbon_joint02.R/Ribbon_joint03.R/Ribbon_joint04.R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/Ribbon/Ribbon_joint01.R/Ribbon_joint02.R/Ribbon_joint03.R/Ribbon_joint04.R/Ribbon_joint04.R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/Ribbon/Ribbon_joint01.R.001
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonSpine1_M/GameSkeletonSpine1Part1_M/GameSkeletonChest_M/Ribbon/Ribbon_joint01.R.001/Ribbon_joint01.R.001_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint63_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint63_L/GameSkeletonwaiq_joint64_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint63_L/GameSkeletonwaiq_joint64_L/GameSkeletonwaiq_joint65_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint63_L/GameSkeletonwaiq_joint64_L/GameSkeletonwaiq_joint65_L/GameSkeletonwaiq_joint66_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint63_L/GameSkeletonwaiq_joint64_L/GameSkeletonwaiq_joint65_L/GameSkeletonwaiq_joint66_L/GameSkeletonwaiq_joint66_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint63_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint63_R/GameSkeletonwaiq_joint64_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint63_R/GameSkeletonwaiq_joint64_R/GameSkeletonwaiq_joint65_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint63_R/GameSkeletonwaiq_joint64_R/GameSkeletonwaiq_joint65_R/GameSkeletonwaiq_joint66_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint63_R/GameSkeletonwaiq_joint64_R/GameSkeletonwaiq_joint65_R/GameSkeletonwaiq_joint66_R/GameSkeletonwaiq_joint66_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint68_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint68_L/GameSkeletonwaiq_joint69_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint68_L/GameSkeletonwaiq_joint69_L/GameSkeletonwaiq_joint70_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint68_L/GameSkeletonwaiq_joint69_L/GameSkeletonwaiq_joint70_L/GameSkeletonwaiq_joint71_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint68_L/GameSkeletonwaiq_joint69_L/GameSkeletonwaiq_joint70_L/GameSkeletonwaiq_joint71_L/GameSkeletonwaiq_joint71_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint68_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint68_R/GameSkeletonwaiq_joint69_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint68_R/GameSkeletonwaiq_joint69_R/GameSkeletonwaiq_joint70_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint68_R/GameSkeletonwaiq_joint69_R/GameSkeletonwaiq_joint70_R/GameSkeletonwaiq_joint71_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint68_R/GameSkeletonwaiq_joint69_R/GameSkeletonwaiq_joint70_R/GameSkeletonwaiq_joint71_R/GameSkeletonwaiq_joint71_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint73_M
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint73_M/GameSkeletonwaiq_joint75_M
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint73_M/GameSkeletonwaiq_joint75_M/GameSkeletonwaiq_joint76_M
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint73_M/GameSkeletonwaiq_joint75_M/GameSkeletonwaiq_joint76_M/GameSkeletonwaiq_joint761_M
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint73_M/GameSkeletonwaiq_joint75_M/GameSkeletonwaiq_joint76_M/GameSkeletonwaiq_joint761_M/GameSkeletonwaiq_joint761_M_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint762_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint762_L/GameSkeletonwaiq_joint763_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint762_L/GameSkeletonwaiq_joint763_L/GameSkeletonwaiq_joint764_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint762_L/GameSkeletonwaiq_joint763_L/GameSkeletonwaiq_joint764_L/GameSkeletonwaiq_joint765_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint762_L/GameSkeletonwaiq_joint763_L/GameSkeletonwaiq_joint764_L/GameSkeletonwaiq_joint765_L/GameSkeletonwaiq_joint765_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint762_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint762_R/GameSkeletonwaiq_joint763_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint762_R/GameSkeletonwaiq_joint763_R/GameSkeletonwaiq_joint764_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint762_R/GameSkeletonwaiq_joint763_R/GameSkeletonwaiq_joint764_R/GameSkeletonwaiq_joint765_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonwaiq_joint762_R/GameSkeletonwaiq_joint763_R/GameSkeletonwaiq_joint764_R/GameSkeletonwaiq_joint765_R/GameSkeletonwaiq_joint765_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint59_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint59_L/GameSkeletonxq_joint60_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint59_L/GameSkeletonxq_joint60_L/GameSkeletonxq_joint61_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint59_L/GameSkeletonxq_joint60_L/GameSkeletonxq_joint61_L/GameSkeletonxq_joint61_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint59_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint59_R/GameSkeletonxq_joint60_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint59_R/GameSkeletonxq_joint60_R/GameSkeletonxq_joint61_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint59_R/GameSkeletonxq_joint60_R/GameSkeletonxq_joint61_R/GameSkeletonxq_joint61_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint62_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint62_L/GameSkeletonxq_joint63_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint62_L/GameSkeletonxq_joint63_L/GameSkeletonxq_joint64_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint62_L/GameSkeletonxq_joint63_L/GameSkeletonxq_joint64_L/GameSkeletonxq_joint64_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint62_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint62_R/GameSkeletonxq_joint63_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint62_R/GameSkeletonxq_joint63_R/GameSkeletonxq_joint64_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint62_R/GameSkeletonxq_joint63_R/GameSkeletonxq_joint64_R/GameSkeletonxq_joint64_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint65_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint65_L/GameSkeletonxq_joint66_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint65_L/GameSkeletonxq_joint66_L/GameSkeletonxq_joint67_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint65_L/GameSkeletonxq_joint66_L/GameSkeletonxq_joint67_L/GameSkeletonxq_joint67_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint65_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint65_R/GameSkeletonxq_joint66_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint65_R/GameSkeletonxq_joint66_R/GameSkeletonxq_joint67_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint65_R/GameSkeletonxq_joint66_R/GameSkeletonxq_joint67_R/GameSkeletonxq_joint67_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint68_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint68_L/GameSkeletonxq_joint69_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint68_L/GameSkeletonxq_joint69_L/GameSkeletonxq_joint70_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint68_L/GameSkeletonxq_joint69_L/GameSkeletonxq_joint70_L/GameSkeletonxq_joint70_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint68_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint68_R/GameSkeletonxq_joint69_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint68_R/GameSkeletonxq_joint69_R/GameSkeletonxq_joint70_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint68_R/GameSkeletonxq_joint69_R/GameSkeletonxq_joint70_R/GameSkeletonxq_joint70_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint71_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint71_L/GameSkeletonxq_joint72_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint71_L/GameSkeletonxq_joint72_L/GameSkeletonxq_joint73_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint71_L/GameSkeletonxq_joint72_L/GameSkeletonxq_joint73_L/GameSkeletonxq_joint73_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint71_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint71_R/GameSkeletonxq_joint72_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint71_R/GameSkeletonxq_joint72_R/GameSkeletonxq_joint73_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint71_R/GameSkeletonxq_joint72_R/GameSkeletonxq_joint73_R/GameSkeletonxq_joint73_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint74_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint74_L/GameSkeletonxq_joint75_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint74_L/GameSkeletonxq_joint75_L/GameSkeletonxq_joint76_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint74_L/GameSkeletonxq_joint75_L/GameSkeletonxq_joint76_L/GameSkeletonxq_joint76_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint74_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint74_R/GameSkeletonxq_joint75_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint74_R/GameSkeletonxq_joint75_R/GameSkeletonxq_joint76_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonRootPart1_M/GameSkeletonxq_joint74_R/GameSkeletonxq_joint75_R/GameSkeletonxq_joint76_R/GameSkeletonxq_joint76_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint63_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint63_L/GameSkeletonsk_joint64_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint63_L/GameSkeletonsk_joint64_L/GameSkeletonsk_joint65_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint63_L/GameSkeletonsk_joint64_L/GameSkeletonsk_joint65_L/GameSkeletonsk_joint66_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint63_L/GameSkeletonsk_joint64_L/GameSkeletonsk_joint65_L/GameSkeletonsk_joint66_L/GameSkeletonsk_joint66_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint63_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint63_R/GameSkeletonsk_joint64_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint63_R/GameSkeletonsk_joint64_R/GameSkeletonsk_joint65_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint63_R/GameSkeletonsk_joint64_R/GameSkeletonsk_joint65_R/GameSkeletonsk_joint66_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint63_R/GameSkeletonsk_joint64_R/GameSkeletonsk_joint65_R/GameSkeletonsk_joint66_R/GameSkeletonsk_joint66_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint67_M
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint67_M/GameSkeletonsk_joint68_M
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint67_M/GameSkeletonsk_joint68_M/GameSkeletonsk_joint69_M
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint67_M/GameSkeletonsk_joint68_M/GameSkeletonsk_joint69_M/GameSkeletonsk_joint70_M
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint67_M/GameSkeletonsk_joint68_M/GameSkeletonsk_joint69_M/GameSkeletonsk_joint70_M/GameSkeletonsk_joint70_M_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint71_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint71_L/GameSkeletonsk_joint72_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint71_L/GameSkeletonsk_joint72_L/GameSkeletonsk_joint73_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint71_L/GameSkeletonsk_joint72_L/GameSkeletonsk_joint73_L/GameSkeletonsk_joint74_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint71_L/GameSkeletonsk_joint72_L/GameSkeletonsk_joint73_L/GameSkeletonsk_joint74_L/GameSkeletonsk_joint74_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint71_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint71_R/GameSkeletonsk_joint72_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint71_R/GameSkeletonsk_joint72_R/GameSkeletonsk_joint73_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint71_R/GameSkeletonsk_joint72_R/GameSkeletonsk_joint73_R/GameSkeletonsk_joint74_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint71_R/GameSkeletonsk_joint72_R/GameSkeletonsk_joint73_R/GameSkeletonsk_joint74_R/GameSkeletonsk_joint74_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint75_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint75_L/GameSkeletonsk_joint76_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint75_L/GameSkeletonsk_joint76_L/GameSkeletonsk_joint77_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint75_L/GameSkeletonsk_joint76_L/GameSkeletonsk_joint77_L/GameSkeletonsk_joint78_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint75_L/GameSkeletonsk_joint76_L/GameSkeletonsk_joint77_L/GameSkeletonsk_joint78_L/GameSkeletonsk_joint78_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint75_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint75_R/GameSkeletonsk_joint76_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint75_R/GameSkeletonsk_joint76_R/GameSkeletonsk_joint77_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint75_R/GameSkeletonsk_joint76_R/GameSkeletonsk_joint77_R/GameSkeletonsk_joint78_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint75_R/GameSkeletonsk_joint76_R/GameSkeletonsk_joint77_R/GameSkeletonsk_joint78_R/GameSkeletonsk_joint78_R_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint79_M
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint79_M/GameSkeletonsk_joint80_M
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint79_M/GameSkeletonsk_joint80_M/GameSkeletonsk_joint81_M
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint79_M/GameSkeletonsk_joint80_M/GameSkeletonsk_joint81_M/GameSkeletonsk_joint82_M
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint79_M/GameSkeletonsk_joint80_M/GameSkeletonsk_joint81_M/GameSkeletonsk_joint82_M/GameSkeletonsk_joint82_M_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint83_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint83_L/GameSkeletonsk_joint84_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint83_L/GameSkeletonsk_joint84_L/GameSkeletonsk_joint85_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint83_L/GameSkeletonsk_joint84_L/GameSkeletonsk_joint85_L/GameSkeletonsk_joint86_L
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint83_L/GameSkeletonsk_joint84_L/GameSkeletonsk_joint85_L/GameSkeletonsk_joint86_L/GameSkeletonsk_joint86_L_end
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint83_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint83_R/GameSkeletonsk_joint84_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint83_R/GameSkeletonsk_joint84_R/GameSkeletonsk_joint85_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint83_R/GameSkeletonsk_joint84_R/GameSkeletonsk_joint85_R/GameSkeletonsk_joint86_R
+    m_Weight: 1
+  - m_Path: Armature/GameSkeletonRoot_M/GameSkeletonsk_joint83_R/GameSkeletonsk_joint84_R/GameSkeletonsk_joint85_R/GameSkeletonsk_joint86_R/GameSkeletonsk_joint86_R_end
+    m_Weight: 1
+  - m_Path: crown
+    m_Weight: 1
+  - m_Path: crown.001
+    m_Weight: 1
+  - m_Path: crown.002
+    m_Weight: 1
+  - m_Path: dress.001
+    m_Weight: 1
+  - m_Path: dress.002
+    m_Weight: 1
+  - m_Path: dress.003
+    m_Weight: 1
+  - m_Path: dress.004
+    m_Weight: 1
+  - m_Path: dress_panier
+    m_Weight: 1
+  - m_Path: dress_panier.001
+    m_Weight: 1
+  - m_Path: dress_pearl.001
+    m_Weight: 1
+  - m_Path: dress_pearl.002
+    m_Weight: 1
+  - m_Path: dress_ribbon.003
+    m_Weight: 1
+  - m_Path: face_eyes
+    m_Weight: 1
+  - m_Path: Group
+    m_Weight: 1
+  - m_Path: Group/Geometry
+    m_Weight: 1
+  - m_Path: Group/Geometry/geo
+    m_Weight: 1
+  - m_Path: Group/Geometry/geo/drb
+    m_Weight: 1
+  - m_Path: Group/Geometry/geo/group2
+    m_Weight: 1
+  - m_Path: Group/Geometry/geo/group2/fa_fa
+    m_Weight: 1
+  - m_Path: Group/Geometry/geo/group2/group1
+    m_Weight: 1
+  - m_Path: Group/Geometry/geo/group3
+    m_Weight: 1
+  - m_Path: Group/Geometry/geo/jie
+    m_Weight: 1
+  - m_Path: Group/Geometry/geo/pearl
+    m_Weight: 1
+  - m_Path: Group.001
+    m_Weight: 1
+  - m_Path: Group.001/Geometry.001
+    m_Weight: 1
+  - m_Path: Group.001/Geometry.001/geo.001
+    m_Weight: 1
+  - m_Path: hair_polySurface6
+    m_Weight: 1
+  - m_Path: hair_polySurface7
+    m_Weight: 1
+  - m_Path: hair_polySurface8
+    m_Weight: 1
+  - m_Path: hair_polySurface10
+    m_Weight: 1
+  - m_Path: neckless
+    m_Weight: 1
+  - m_Path: neckless.001
+    m_Weight: 1
+  - m_Path: neckless.003
+    m_Weight: 1
+  - m_Path: pants
+    m_Weight: 1
+  - m_Path: pearl.001
+    m_Weight: 1
+  - m_Path: pearl.002
+    m_Weight: 1
+  - m_Path: pearl.003
+    m_Weight: 1
+  - m_Path: pearl.004
+    m_Weight: 1
+  - m_Path: polySurface228
+    m_Weight: 1
+  - m_Path: polySurface229
+    m_Weight: 1
+  - m_Path: polySurface230
+    m_Weight: 1
+  - m_Path: ribbon_back
+    m_Weight: 1
+  - m_Path: ribbon_front
+    m_Weight: 1
+  - m_Path: ribbon_little
+    m_Weight: 1
+  - m_Path: ribbon_little_
+    m_Weight: 1
+  - m_Path: shoes
+    m_Weight: 1
+  - m_Path: socks
+    m_Weight: 1
+  - m_Path: upper
+    m_Weight: 1
+  - m_Path: upper_ribbon
+    m_Weight: 1
+  - m_Path: upper_ribbon.001
+    m_Weight: 1
+  - m_Path: upper_ribbon.002
+    m_Weight: 1
